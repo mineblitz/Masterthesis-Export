@@ -1,0 +1,15 @@
+{
+  "order": 118,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "8efb6108-e49e-4d64-a1e4-22e3f9128b17",
+  "value_span_index": 1,
+  "content": "When calculating the reference heat loss of a building, the value of 2.0 m3/(h m2) shall be used as the reference value for the air leakage rate figure for the building envelope.",
+  "question": "What is the reference value for the air leakage rate figure for the building envelope when calculating the reference heat loss of a building?",
+  "value": "value",
+  "expected_value": "2.0 m3/ ( h m2)",
+  "metadata": {
+    "ID": "136_Finnish_EnergyEfficiency"
+  },
+  "created_at": "2026-07-31T05:25:10.375523Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 98,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "aa41a5d4-c0b1-4da7-84a0-5c2e2738654f",
+  "value_span_index": 2,
+  "content": "The total number of ventilators installed in the dwellings habitable rooms and kitchens should be at least the following: Five ventilators if the dwelling has more than one bedroom.",
+  "question": "If the dwelling has more than how many bedrooms should there be at least five ventilators?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "89_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-31T05:23:02.524913Z"
+}

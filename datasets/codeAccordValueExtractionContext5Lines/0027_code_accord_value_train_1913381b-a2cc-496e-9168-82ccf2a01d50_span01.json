@@ -1,0 +1,15 @@
+{
+  "order": 27,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "1913381b-a2cc-496e-9168-82ccf2a01d50",
+  "value_span_index": 1,
+  "content": "The temperature of the \nwater available from the hot water system may not exceed 65 degrees Celsius.  \n\nThe water system shall be designed so as to prevent detrimental cross-flow of water from the \n\nhot water pipe to the cold water pipe or vice versa.  \n\nSection 7 \n\nDimensioning of the water system \n\nThe water system shall withstand internal excess pressure of at least 1 000 kilopascals.  \nThe plumbing fixtures shall provide a flow, which is steady in view to its intended use without \n\nannoying noise and detrimental pressure shocks.  \n\nSection 8 \n\n Domestic hot water ring duct \n\nThe domestic hot water ring duct of a new building may not have heat emitters or floor heating \n\nconnected to it.  \n\nIn connection with repair and alteration work, the heat emitters connected to the domestic hot \nwater ring duct may be replaced so that the heat emission capacity of the heat emitters to be \ninstalled does not exceed 200 Watts per room. Domestic hot water may, however, not be used \nfor floor heating. \n\nSection 9 \n\nPlumbing fixtures \n\nThe plumbing fixtures shall be suitable for their intended use. The functions and directions of \nmovement of the appliances for controlling water volume and temperature shall be safe. The \nstructure of the control appliance of the plumbing fixture shall be such that its surface tempera-\nture does not arise above 40 degrees Celsius. \n\nSection 10 \n\nWater meters \n\nThe water meter of a property shall be located in a place where it is easy to install, read and \n\nservice and where it cannot freeze.",
+  "question": "What is the maximum heat emission capacity per room for heat emitters to be installed in connection with repair and alteration work connected to the domestic hot water ring duct?",
+  "value": "value",
+  "expected_value": "200 Watts per room",
+  "metadata": {
+    "ID": "67_Finnish_Health-WaterAndSewerage"
+  },
+  "created_at": "2026-07-31T05:14:10.777531Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 2,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "009e12eb-db83-485c-9ffc-e1f462251109",
+  "value_span_index": 1,
+  "content": "1.75  Adequate space should be available for access to maintain ventilation equipment.\n1.76  Rigid ducts should be used wherever possible. \n1.77  Flexible ductwork, where installed, should meet all of the following conditions.\n\na.  Only used for final connections. \n\nb.  Lengths should be a maximum of 1.5m.\n\nc.  Meet the standards of BSRIA’s BG 43/2013.\n\n1.78  Any flexible ducts should be installed so that the full internal diameter is maintained and flow \n\nresistance is minimised. This is achieved by taking both of the following actions.\n\na.  Pulling the duct taut.\n\nb.  Ensuring that ductwork does not pass through orifices with a smaller diameter than the duct itself.\n\n1.79  Ductwork installations should be designed and installed to minimise the overall pressure losses \n\nwithin the system by taking all of the following steps. \n\na.  Minimising the overall length of duct.\n\nb.  Minimising the number of bends required.\n\nc. \n\nInstalling appropriately sized ducts for the air flow rate.\n\n1.80  Each air terminal should have a free area of at least 90% of the free area of its associated duct.\n\nBuilding Regulations 2010  \n\n Approved Document F Volume 1, 2021 edition \n\n17\n\nF1(1)ONLINE VERSIONONLINE VERSION\f1.81  Duct connections should be both mechanically secured and adequately sealed to prevent leaks. \nRigid connectors and jubilee clips should be used for flexible ducting to ensure a good seal.\n\n1.82  The installer should make a visual inspection to confirm both of the following.\n\na.  There are no obvious defects.\n\nb.  All packaging has been removed.\n\n1.83  Mechanical ventilation systems must be commissioned in accordance with an approved procedure. \nAppendix C of this approved document includes a completion checklist and commissioning sheet, \nwhich the system installer should complete to demonstrate compliance.",
+  "question": "Welcher konkrete Zahlen- oder Messwert wird in folgendem Satz gefordert: Each air terminal should have a free area of at least 90 of the free area of its associated duct.",
+  "value": "value",
+  "expected_value": "90",
+  "metadata": {
+    "ID": "115_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-19T13:21:42.992716Z"
+}

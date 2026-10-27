@@ -1,0 +1,15 @@
+{
+  "order": 178,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "4e8c5c50-44af-48f6-b959-e6f9b31afa1e",
+  "value_span_index": 1,
+  "content": "If the planned time of use of a modular or portable building in a single location is less than two years, the only practical heating technology may be electric resistance heating.",
+  "question": "If the planned time of use of a modular or portable building in a single location is less than what period may electric resistance heating be the only practical heating technology?",
+  "value": "value",
+  "expected_value": "2 years",
+  "metadata": {
+    "ID": "89_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:33:34.989926Z"
+}

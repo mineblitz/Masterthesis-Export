@@ -1,0 +1,15 @@
+{
+  "order": 214,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "8b054fa5-fa6b-40f8-996a-a6dfea855fc3",
+  "value_span_index": 2,
+  "content": "If the stairs are located in an exit that is not also used for ordinary \nmovement within the building, the riser of the steps may be a maximum of 200 millimetres. \n\nSection 5 \n\nDimensions of outdoor staircases \n\nThe tread of steps in covered or heated outdoor staircases must be no less than 300 millimetres, \nand the riser may be no more than 160 millimetres. The tread of steps in uncovered or unheated \noutdoor staircases must be no less than 390 millimetres, and the riser may be no more than 130 \nmillimetres. \n\nSection 6 \n\nLandings \n\nThe landings in the indoor and outdoor areas of a building must be safe, sufficiently spacious \nand suitable for their purpose. The side edges of stairs and landings must be fitted with a raised \ncamber to prevent slipping over the edge if a cube measuring more than 50 millimetres in width \nis able to pass through the opening between the plane level and the handrail or wall. The distance \nbetween a door that opens onto a landing and the upper edge of the ramp or flight of stairs must \nbe no less than 400 millimetres on the side wall and no less than 1,500 millimetres on the end \nwall. A landing measuring at least 800 millimetres in length must be reserved in front of and \nbehind a door located in an exit route. \n\nWindows, hatches and other similar openings located on the landings of a building that are \nintended as places where people spend time or pass through must be designed to withstand the \nweight of a person, if there is any danger of falling.   \n\n2 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fSection 7 \n\nBarriers \n\nA barrier must be constructed anywhere in the building or its vicinity where there is a drop \nexceeding half a metre and there is a danger of falling or misstepping, and the nature of the \nactivity concerned does not require the absence of a barrier. The barrier must be safe and suitable \nfor its purpose. The barrier may be a guardrail or an open railing.",
+  "question": "What is the minimum distance between a door that opens onto a landing and the upper edge of the ramp or flight of stairs on the end wall?",
+  "value": "value",
+  "expected_value": "1500 millimetres",
+  "metadata": {
+    "ID": "33_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:37:52.782219Z"
+}

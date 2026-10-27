@@ -1,0 +1,15 @@
+{
+  "order": 292,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "8151be81-09ad-4dac-b2d2-f0d757915b6c",
+  "value_span_index": 1,
+  "content": "In the determination of the characteristic values of variable actions, in accordance with clause 3.1(5) of the standard, a \nnominal duration of three days, to be chosen for short execution phases, corresponds to the extent in time of reliable \nmeteorological predictions for the location of the construction site. In such a case, the magnitude of the action shall be \nchosen according to the meteorological predictions. The minimum value to be used for the fundamental value of the \nbasic wind velocity is 10 m/s. \n\nThe fundamental value of the basic wind velocity vb,0 during the execution for a nominal duration of up to three months is \n18 m/s, in accordance with clause 3.1(5) of the standard, and this may be applied in the entire country, including sea and \nmountain areas.  \n\nFor the combination of snow loads and wind actions, in accordance with clause 3.1(7) of the standard, no reductions are \nallowed if the snow loads and wind actions that are used are less than in persistent design situations. \n\nInstruction \n\nIn the determination of snow load during the execution, the seasonal variation, length of \n\nthe execution phase and removal of snow may be taken into account. However, when the \nsnow load can occur, the minimum value of the load s should be at least 0.5 kN/m2. The \nload s is the load on the roof or on the structure. During the execution, when the snow load \nis affecting the floors and not the roof, the load may be taken as uniformly distributed and \ne.g. drifting due to obstacles need not to be taken into account. \nInstruction \n\nThe peak velocity pressure during the execution for a nominal duration of up to three months \n\nis 75% of the value for the persistent design situation. For the wind load, this corresponds to \na 5-year return period. \n\n31 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f4.",
+  "question": "What is the minimum value of the load s when snow load can occur?",
+  "value": "value",
+  "expected_value": "0.5 kN/m2",
+  "metadata": {
+    "ID": "110_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:46:16.856027Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 41,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "bde1697a-20c9-4f15-a63c-5be323a058c1",
+  "value_span_index": 1,
+  "content": "Any connection of two or more air handling units to the same duct or chamber shall be designed so that the pressures of the rooms or the directions of air flow between the rooms and in the ductworks do not change when the air flows of the units are being controlled.",
+  "question": "What is the minimum number of air handling units that, when connected to the same duct or chamber, must be designed to prevent changes in room pressures or air flow directions?",
+  "value": "value",
+  "expected_value": "2",
+  "metadata": {
+    "ID": "90_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:15:57.307844Z"
+}

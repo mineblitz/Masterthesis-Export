@@ -1,0 +1,15 @@
+{
+  "order": 205,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "bfdf95da-d422-47cd-83d7-a30a4969f2e6",
+  "value_span_index": 1,
+  "content": "If the internal ties must be centred on the supporting line, the minimum value of the tie force, 10 kN, will also be applied to internal ties.",
+  "question": "What is the minimum value of the tie force applied to internal ties if they must be centred on the supporting line?",
+  "value": "value",
+  "expected_value": "10 kN",
+  "metadata": {
+    "ID": "180_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:36:43.417217Z"
+}

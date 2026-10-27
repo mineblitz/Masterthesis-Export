@@ -1,0 +1,15 @@
+{
+  "order": 183,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "9618a274-45da-4e3e-87f0-21c2bfae4a8e",
+  "value_span_index": 1,
+  "content": "A landing measuring at least 800 millimetres in length must be reserved in front of and \nbehind a door located in an exit route. \n\nWindows, hatches and other similar openings located on the landings of a building that are \nintended as places where people spend time or pass through must be designed to withstand the \nweight of a person, if there is any danger of falling.   \n\n2 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fSection 7 \n\nBarriers \n\nA barrier must be constructed anywhere in the building or its vicinity where there is a drop \nexceeding half a metre and there is a danger of falling or misstepping, and the nature of the \nactivity concerned does not require the absence of a barrier. The barrier must be safe and suitable \nfor its purpose. The barrier may be a guardrail or an open railing. \n\nA guardrail must be used at points with a level difference of over 0.7 metres, if these can be \naccessed by children. The protective part of the barrier must extend to a height of at least 0.7 \nmetres from the surface of the landing or step.  The barrier must not feature horizontal structures \nor patterns that make it possible to climb. An open railing can be used in places to which children \ndo not have access or where there is no danger of falling.  \n\nInstead  of  a  barrier,  some  other  arrangement  may  be  used  to  prevent  falling  or  otherwise \nachieve the required level of safety, provided that the difference in height does not exceed one \nmetre.  \n\nThe total height of the barrier must be one metre if the drop is no more than six metres.",
+  "question": "What is the level difference above which a guardrail must be used if points can be accessed by children?",
+  "value": "value",
+  "expected_value": "0.7 metres",
+  "metadata": {
+    "ID": "39_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:34:27.027961Z"
+}

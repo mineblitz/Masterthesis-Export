@@ -1,0 +1,15 @@
+{
+  "order": 157,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "eccd4f77-ef4a-41fd-a22a-620c84fdddd4",
+  "value_span_index": 1,
+  "content": "There is a minimum of 400mm of worktop to at least one side of the oven and fridge or fridge freezer where this is taller than the worktop height (or to one side of a pair of tall appliances where they are located together at the end of a run).",
+  "question": "What is the minimum amount of worktop required to at least one side of the oven and fridge or fridge freezer where this is taller than the worktop height?",
+  "value": "value",
+  "expected_value": "400mm",
+  "metadata": {
+    "ID": "98_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:30:55.214455Z"
+}

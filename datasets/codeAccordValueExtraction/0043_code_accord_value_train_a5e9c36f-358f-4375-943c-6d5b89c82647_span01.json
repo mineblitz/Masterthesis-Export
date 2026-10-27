@@ -1,0 +1,15 @@
+{
+  "order": 43,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a5e9c36f-358f-4375-943c-6d5b89c82647",
+  "value_span_index": 1,
+  "content": "Any abrupt level differences of over 0.7 metres and any precipices located in the vicinity of common play and recreation areas associated with buildings with more than two dwellings must be indicated by appropriate barriers or suitable planted areas, or outfitted with a base that cushions any fall.",
+  "question": "Above what abrupt level difference must barriers, suitable planted areas, or a cushioning base be provided in common play and recreation areas associated with buildings with more than two dwellings?",
+  "value": "value",
+  "expected_value": "0.7 metres",
+  "metadata": {
+    "ID": "92_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:16:16.258415Z"
+}

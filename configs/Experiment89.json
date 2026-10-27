@@ -1,0 +1,25 @@
+{
+  "pipeline": "text_only_simple_conversion_v17",
+  "LLM": [
+    "OPENROUTER_OPENAI_GPT_5_4",
+    "OPENROUTER_OPENAI_GPT_6_ASTRA",
+    "OPENROUTER_OPENAI_GPT_6_1_SOL",
+    "OPENROUTER_ANTHROPIC_CLAUDE_OPUS_5_5",
+    "OPENROUTER_GOOGLE_GEMINI_4_ARGON",
+    "OPENROUTER_QWEN_QWEN3_6_PLUS",
+    "OPENROUTER_MINIMAX_MINIMAX_M3_1_FLASH",
+    "OPENROUTER_DEEPSEEK_DEEPSEEK_V4_1_FLASH_1017"
+  ],
+  "experiment_ID": "exp_089",
+  "experiment_Name": "OpenRouter model price-performance sweep: CODE-ACCORD full document (v17)",
+  "experiment_Description": "One v17 pipeline run per case/model on the CODE-ACCORD full-PDF-text dataset. The eight-model OpenRouter roster keeps GPT-5.4 as the prior-result anchor; GPT-6 Astra and GPT-6.1 Sol as current OpenAI comparisons; Claude Opus 5.5 and Gemini 4 Argon as updated frontier comparisons; Qwen 3.6 Plus and MiniMax M3.1 Flash as value candidates; and DeepSeek V4.1 Flash 1017 as a long-context candidate. This 17 October 2026 model snapshot accepts text and images, but these configurations supply text-only documents. OpenRouter lists a 1.0M-token context; the OpenInference endpoint lists $0.02/M input and $1/M output, while other providers list different rates. Its pinned OpenRouter model ID is deepseek/deepseek-v4.1-flash-1017. These provider descriptions and prices motivate candidate selection but do not establish expected extraction quality. Provider performance claims are hypotheses, not results. Compare exact-match rates separately by dataset and report scored/unscored outputs, tokens, pipeline time, and dated API-equivalent cost. One pipeline run per case/model is descriptive screening, not a stable model ranking; v17 may make a second LLM call during context expansion. The full-PDF dataset has 292 records; this configuration filters to the 290 filenames in the expanded-passage reference set. CODE-ACCORD questions guide chunk retrieval and are appended to the extraction prompt. The pipeline ranks full-document text and selects chunks, so the model's maximum context does not imply that every full PDF is sent verbatim in one call.",
+  "experiment_API": "http://localhost:4000/api/experiment",
+  "data_jsons_path": "../datasets/codeAccordValueExtractionFullPdf",
+  "matched_case_id_reference_dataset_path": "../datasets/codeAccordValueExtractionContext5Lines",
+  "expected_case_count": 290,
+  "input_source": "dataset_text",
+  "input_extent": "full_document",
+  "temperature": 1.0,
+  "prompt": "text_only_v5.txt",
+  "run_count": 1
+}

@@ -1,0 +1,15 @@
+{
+  "order": 24,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "26980508-105c-49db-8595-bf001a48d757",
+  "value_span_index": 1,
+  "content": "In rooms with no fixed seats or furnishings, the number of persons shall be calculated to be two persons per square metre.",
+  "question": "In rooms with no fixed seats or furnishings, what shall the number of persons be calculated to be?",
+  "value": "value",
+  "expected_value": "2 persons per square metre",
+  "metadata": {
+    "ID": "103_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:13:44.396995Z"
+}

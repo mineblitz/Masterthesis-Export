@@ -1,0 +1,15 @@
+{
+  "order": 234,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "cea6e7bd-c494-4146-9f81-3fd2ed64a2a6",
+  "value_span_index": 1,
+  "content": "Unauthorised  persons  must  be  prevented  from  accessing  the  controls  for  mechanically \n\nmovable parts of the auditorium. \n\nSection 24 \n\nAccess routes \n\nThe access route in the seating area or standing auditorium must be directly accessible from \n\nthe end of each row. \n\nThe width of access routes in assembly areas with a maximum capacity of 60 persons must \nbe at least 900 millimetres. In spaces intended for more than 60 persons, the width of the access \nroute must be at least 1,200 millimetres. \n\nThe free width of the passageway between rows of seats must be in accordance with Table 1 \nin relation to the number of persons using the passageway and the type of seats and depending \non whether there are access routes at both ends or only one end of the passageway.  \n\nTable 1 \n\nFree width of the passageway in relation to the number of seats \n\nFree minimum width of \npassageway \n\n400 mm \n\n500 mm \n\n600 mm \n\n900 mm \n\n                           number of seats in the row \n\nFixed seats,  \nAccess routes at both ends  \nAccess route at only one end \n\nLinked seats,  \nAccess routes at both ends \nAccess route at only one end \n\n< 50 \n< 10 \n\n< 28 \n< 8 \n\n< 40 \n< 10 \n\n< 16 \n< 8 \n\n7 \n\n< 60 \n< 15 \n\n< 40 \n< 12 \n\n> 60 \n< 30 \n\n> 40 \n< 24 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fThe slope of the floor surface in the seating area and access route may not exceed 8 per cent \n(1:12.5). Section 5 of the Government Decree on the Accessibility of Buildings (241/2017) shall \napply to the access routes leading to accessible viewing areas. \n\nChapter 6 \n\nSafety of servicing \n\nSection 25 \n\nServicing possibilities \n\nIt must be possible to access and service all parts of a building that require regular cleaning, \nsweeping,  maintenance  or  inspection  without  endangering  the  safety  of  employers  and \nbystanders.  \n\nThere  must  be  safe  and  easily  accessible,  uninterrupted  access  routes  to  any  chimneys, \nventilation equipment and other building equipment and structural elements that are located on \nthe roof of the building and that must be accessed regularly. A roof with a pitch greater than 1:8 \nmust  be  constructed  making  appropriate  use  of  walkways,  roof  ladders,  safety  ladders,  roof \nstairs, roof treads and foot rails. \n\nIn buildings more than 9 metres and at most 28 metres in height, the attic and roof must be \naccessible  via  the  interior  and  exterior  of  the  building;  in  buildings  more  than  28  metres  in \nheight, these must be accessible via the interior.",
+  "question": "What is the maximum permissible slope of the floor surface in the seating area and access route?",
+  "value": "value",
+  "expected_value": "8 per cent ( 1:12.5)",
+  "metadata": {
+    "ID": "119_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:39:55.007582Z"
+}

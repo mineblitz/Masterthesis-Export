@@ -1,0 +1,15 @@
+{
+  "order": 124,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "da4d5959-6e64-4e04-a1f3-8b42b6addab0",
+  "value_span_index": 1,
+  "content": "The outdoor air flow used in the calculations for buildings other than those in intended use categories 1 and 2 outside the occupancy period shall be at least 0.15 dm3/s per m2.",
+  "question": "What is the minimum outdoor air flow used in the calculations for buildings other than those in intended use categories 1 and 2 outside the occupancy period?",
+  "value": "value",
+  "expected_value": "0.15 dm3/s per m2",
+  "metadata": {
+    "ID": "67_Finnish_EnergyEfficiency"
+  },
+  "created_at": "2026-07-31T05:26:07.234365Z"
+}

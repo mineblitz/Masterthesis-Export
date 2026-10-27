@@ -1,0 +1,15 @@
+{
+  "order": 262,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "53e31e26-a39b-4047-a86e-bdb8021413e8",
+  "value_span_index": 1,
+  "content": "Window handles on windows that open outwards are not more than 650mm from the inside face of the wall when the window is at its maximum openable angle.",
+  "question": "What is the maximum distance window handles on windows that open outwards can be from the inside face of the wall when the window is at its maximum openable angle?",
+  "value": "value",
+  "expected_value": "650mm",
+  "metadata": {
+    "ID": "84_UK_DocO_Overheating"
+  },
+  "created_at": "2026-07-31T05:43:22.035440Z"
+}

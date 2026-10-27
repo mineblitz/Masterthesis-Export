@@ -1,0 +1,15 @@
+{
+  "order": 256,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "0085ecdd-f2f0-45f5-948d-ded697c69866",
+  "value_span_index": 1,
+  "content": "Section 9 \n\nToilet and washing facility in a residential building \n\nA residential building that under section 7 shall in addition to stairs have a lift shall have at \nleast one toilet and washing facility in each dwelling which has a free space with a diameter of \nat least 1,300 millimetres. The fixtures and fittings shall be placed with respect to the free space \nso that a person with mobility impairment can use them. The toilet and washing facility shall be \nsuch that it can be equipped to be suitable for use by a person with mobility impairment. \n\nA  dwelling  that  is  intended  for  sheltered  housing  or  supported  housing  of  a  person  with \nmobility or functional impairment shall have at least one toilet and washing facility which has \na  free  space  with  a  diameter  of  at  least  1,500  millimetres.  The  fixtures  and  fittings  shall  be \nplaced with respect to the free space so that a person with mobility impairment can use them. \nIn addition, on one side of the toilet seat there shall be a free space of at least 800 millimetres. \nThe toilet and washing facility shall be such that it can be equipped to be suitable for use by a \nperson with mobility impairment. \n\nThe  provisions  in  subsection  1  above  do  not  apply  to  a  building  that  only  has  dwellings \nintended for persons participating in education and training entitling them to student financial \naid under the Act on Student Financial Aid (65/1994) or that only have dwellings intended for \npersons aged between 18 and 29. In such a building at least five per cent of the dwellings, but \nat  least  one,  shall  have  a  toilet  and  washing  facility  specified  in  subsection  2.  In  addition, \ncommon spaces of such a building shall have a toilet facility specified in section 10 which is \naccessible from the passageway inside the building.  \n\nIn a residential building the sauna, washing and changing facility common to all residents \nshall be suitable for persons with mobility and functional impairment.",
+  "question": "What is the minimum free space required on one side of the toilet seat?",
+  "value": "value",
+  "expected_value": "800 millimetres",
+  "metadata": {
+    "ID": "44_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:42:44.017240Z"
+}

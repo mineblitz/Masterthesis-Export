@@ -1,0 +1,15 @@
+{
+  "order": 144,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "9415ae4b-7a74-4c70-a245-e4381c6d71bf",
+  "value_span_index": 1,
+  "content": "Insulated cavity closers should be used for all construction types. Additionally, insulated \nplasterboard should be used in reveals to abut jambs and should be considered within \nreveal soffits. \n\ni.  Roofs: continue the insulation across the wall-to-eaves and wall-to-gable junctions. \n\ni.  Wall insulation should be installed to the top of the wall plate; in some places, such as the \neaves, this may be above the cavity closure or barrier. In all cases, roof insulation should be \ncontinuous with wall insulation.\n\nii.  Roofs insulated at ceiling level: loft insulation at the eaves should extend beyond the \n\nwall insulation without any reduction in thickness due to the pitch of the roof. The roof \ninsulation should be installed when the eaves are still accessible. At gables and party walls, \ninsulation should extend to the wall; if the space between the wall and joist is less than \n100mm, perimeter insulation may be required.\n\niii.  Roofs insulated at rafter level: at the eaves, insulation should extend to the top of the \n\nexternal wall. Voids between insulation at the top of the external wall and the cavity wall/\ntimber frame insulation should be fully filled with insulation.\n\nNOTE: Any solution to edge sealing or thermal bridging in new dwellings should take account of \nPart E of the Building Regulations.\n\n4.18  Thermal bridges should be assessed in a new dwelling using one of the following methods.\n\na.  Use construction joint details calculated by a suitably competent person following the guidance \n\nin the Building Research Establishment’s BR 497 and the temperature factors set out in the \nBuilding Research Establishment’s Information Paper 1/06.\n\nb.  Use junction details from a reputable non-government database containing independently \n\nassessed thermal junction details, such as Local Authority Building Control’s Construction Details \nlibrary.\n\nc.  Use the values in the Standard Assessment Procedure, Table K1. A mixture of known and default \n\nvalues may be used.\n\nd.  Use a default y-value of 0.20W/(m2.K).",
+  "question": "At gables and party walls, if the space between the wall and joist is less than what distance may perimeter insulation be required?",
+  "value": "value",
+  "expected_value": "100mm",
+  "metadata": {
+    "ID": "170_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:29:40.439000Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 153,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d342429e-d3fc-46e0-a195-527cfef1fd4b",
+  "value_span_index": 1,
+  "content": "Consequential improvements should be carried out to ensure that the entire building complies \nwith Part L of the Building Regulations to the extent that they are technically, functionally and \neconomically feasible.\n\nNOTE: If the building already complies with the current requirements of Part L of the Building \nRegulations, consequential improvements are not required. \n\n12.2  Where work other than the items listed in paragraph 12.1 is planned as part of the principal works, if \nthey improve the energy performance of the building, these are consequential improvements. Work \ncarried out to compensate for the poorer standard of an extension using the alternative approach \nto demonstrating compliance described in paragraph 10.11 does not count as a consequential \nimprovement.\n\nConsequential improvements which apply when extending  \na building\n\nNOTE: A new free-standing building constructed on an existing site is a new building, not an \nextension.\n\n12.3  When an existing building with a total useful floor area of over 1000m2 is being extended or the \nhabitable area is being increased, consequential improvements should be installed. The measures \nlisted in Appendix D, Table D1, may be considered technically, functionally and economically \nfeasible in normal circumstances. \n\n12.4  For an extension or increase in habitable area, the value of the principal works is used to determine \nthe minimum value of the consequential improvement works. The value of the consequential \nimprovement works should not be less than 10% of the value of the principal works.\n\n12.5  As part of the initial notice or deposit of plans, a chartered quantity surveyor or other suitably \n\nqualified person should produce a signed report that establishes the value of the principal works \nand the value of the consequential improvements using prices current at the date when the \nbuilding control body is informed of the proposals.\n\n82  Approved Document L Volume 2, 2021 edition \n\nBuilding Regulations 2010\n\nR28ONLINE VERSIONONLINE VERSION\fConsequential improvements on installing or extending the \ncapacity of fixed building services\n\nNOTE: Increasing the size of central boiler plant to serve a new extension would not generally \nincrease the installed capacity of a fixed building service per unit area, unless the heating provision \nin the existing building was also increased at the same time.",
+  "question": "What total useful floor area must an existing building exceed for consequential improvements to be installed when it is being extended or the habitable area is being increased?",
+  "value": "value",
+  "expected_value": "1000m2",
+  "metadata": {
+    "ID": "451_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:30:26.244423Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 184,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "ee0c8c7c-c65e-4403-92e6-628fd680f3bf",
+  "value_span_index": 1,
+  "content": "Any panel within the doorset should be at least 15mm thick.",
+  "question": "What is the minimum thickness required for any panel within the doorset?",
+  "value": "value",
+  "expected_value": "15mm",
+  "metadata": {
+    "ID": "30_UK_DocQ_Security_Dwellings"
+  },
+  "created_at": "2026-07-31T05:34:31.914248Z"
+}

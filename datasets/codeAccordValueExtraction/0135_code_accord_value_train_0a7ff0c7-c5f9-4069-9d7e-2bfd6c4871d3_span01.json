@@ -1,0 +1,15 @@
+{
+  "order": 135,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "0a7ff0c7-c5f9-4069-9d7e-2bfd6c4871d3",
+  "value_span_index": 1,
+  "content": "The floor area of the extension does not exceed 30m2.",
+  "question": "What is the maximum floor area of the extension?",
+  "value": "value",
+  "expected_value": "30m2",
+  "metadata": {
+    "ID": "13_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:27:43.532339Z"
+}

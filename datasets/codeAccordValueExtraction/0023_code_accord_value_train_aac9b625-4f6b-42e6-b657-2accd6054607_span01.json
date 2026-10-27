@@ -1,0 +1,15 @@
+{
+  "order": 23,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "aac9b625-4f6b-42e6-b657-2accd6054607",
+  "value_span_index": 1,
+  "content": "Heating systems for screed floors that are greater than 65mm thick should automatically reduce the room temperature at night or when the room is unoccupied.",
+  "question": "Above what thickness should heating systems for screed floors automatically reduce the room temperature at night or when the room is unoccupied?",
+  "value": "value",
+  "expected_value": "65mm",
+  "metadata": {
+    "ID": "299_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:13:28.883035Z"
+}

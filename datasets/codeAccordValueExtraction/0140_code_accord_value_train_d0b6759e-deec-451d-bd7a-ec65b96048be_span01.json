@@ -1,0 +1,15 @@
+{
+  "order": 140,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d0b6759e-deec-451d-bd7a-ec65b96048be",
+  "value_span_index": 1,
+  "content": "extract air of category 3 shall be conducted through individual ducts, or common ducts serving spaces of the same type as regards level of air purity, to the outdoors, into a collection duct installed above the spaces it serves or into an extract air chamber.",
+  "question": "What is the category of extract air that shall be conducted through individual ducts, or common ducts serving spaces of the same type as regards level of air purity, to the outdoors, into a collection duct installed above the spaces it serves or into an extract air chamber?",
+  "value": "value",
+  "expected_value": "3",
+  "metadata": {
+    "ID": "130_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:28:16.207880Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 163,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "50e89a86-e2be-439d-b230-79274cd7199b",
+  "value_span_index": 1,
+  "content": "Modular and portable buildings with a planned service life of more than two years at a single location should be shown to comply with the energy efficiency requirements.",
+  "question": "Modular and portable buildings at a single location should be shown to comply with energy efficiency requirements if their planned service life is more than how many years?",
+  "value": "value",
+  "expected_value": "2 years",
+  "metadata": {
+    "ID": "81_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:31:27.251939Z"
+}

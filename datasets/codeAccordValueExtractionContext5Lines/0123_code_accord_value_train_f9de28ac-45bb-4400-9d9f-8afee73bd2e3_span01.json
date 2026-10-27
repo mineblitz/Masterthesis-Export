@@ -1,0 +1,15 @@
+{
+  "order": 123,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "f9de28ac-45bb-4400-9d9f-8afee73bd2e3",
+  "value_span_index": 1,
+  "content": "BS 7977-1\niii.  BS EN 613\niv.  BS EN 13278\nv.  BS EN 14829 \nvi.  BS EN 449. \n\n6.6  If a gas fire is provided as a secondary heat source as part of a combined fire and back boiler unit in \n\nan existing system, the standards in BS 7977-2 should be met.  \nIf a gas-fired fixed decorative fuel-effect fire is installed in an existing dwelling, both of the \nfollowing should be met.\n\n6.7 \n\na.  The standards in BS EN 509 should be met.\nb.  The number of appliances should not exceed one per 100m2 of dwelling floor area.\n\nBuilding Regulations 2010  \n\nApproved Document L Volume 1, 2021 edition \n\n41\n\nL1(b), L2ONLINE VERSIONONLINE VERSION\fOil-fired heating systems\n6.8  An oil-fired heating system that is either part of a new system or is a replacement component in \nan existing dwelling should meet the minimum efficiencies in Table 6.3, in addition to the general \nrequirements for heating and hot water systems in Section 5.\n\nTable 6.3  Minimum efficiencies for oil-fired heating systems in existing dwellings\n\nSystem type\n\nMinimum efficiency\n\nNotes\n\nWet heating – regular boiler\n\n91% (as defined in ErP(1))\n\nWet heating – combi-boiler\n\n86% (as defined in SEDBUK 2009)\n\nRange cooker with integral central \nheating boiler\n\n80%\n\nFixed independent space heating\n\n60% (converted using Table E4 of the \nStandard Assessment Procedure)\n\nOr, in exceptional circumstances(2) in \nexisting dwellings, 84% SEDBUK 2009\n\nOr, in exceptional circumstances(2) in \nexisting dwellings, 82%\n\nFollow paragraph 6.9\n\nNOTES:\n1.   Energy Related Products Directive. For Standard Assessment Procedure modelling, SEDBUK values should be used.\n2.",
+  "question": "What is the maximum number of appliances permitted per dwelling floor area?",
+  "value": "value",
+  "expected_value": "1 per 100m2",
+  "metadata": {
+    "ID": "273_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:26:02.436933Z"
+}

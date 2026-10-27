@@ -1,0 +1,12 @@
+{
+  "pipeline": "direct_qa_v1",
+  "LLM": "LOCALAI_GEMMA_4_31B_IT",
+  "experiment_ID": "exp_079",
+  "experiment_Name": "CodeAccord dataset with full PDF content",
+  "experiment_Description": "Direct value extraction using the complete source PDF text for each CODE-ACCORD entry.",
+  "experiment_API": "http://localhost:4000/api/experiment",
+  "data_jsons_path": "../datasets/codeAccordValueExtractionFullPdf",
+  "temperature": 1.0,
+  "prompt": "direct_qa_v1.txt",
+  "run_count": 5
+}

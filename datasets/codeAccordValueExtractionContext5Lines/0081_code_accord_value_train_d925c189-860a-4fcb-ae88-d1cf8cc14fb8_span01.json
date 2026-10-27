@@ -1,0 +1,15 @@
+{
+  "order": 81,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d925c189-860a-4fcb-ae88-d1cf8cc14fb8",
+  "value_span_index": 1,
+  "content": "The rise of the indoor steps of other spaces intended for everyday use may be no \nmore than 180 millimetres, and the tread must be no less than 270 millimetres. If stairs are used \nonly as an emergency exit and if they lead to spaces in a dwelling or accommodation facility \nother than those that are necessary for living, the riser may be no more than 220 millimetres and \nthe tread must be no less than 220 millimetres.  \n\nThe riser of the steps in an exit may be no more than 180 millimetres. The tread must be no \nless than 270 millimetres. If the stairs are located in an exit that is not also used for ordinary \nmovement within the building, the riser of the steps may be a maximum of 200 millimetres. \n\nSection 5 \n\nDimensions of outdoor staircases \n\nThe tread of steps in covered or heated outdoor staircases must be no less than 300 millimetres, \nand the riser may be no more than 160 millimetres. The tread of steps in uncovered or unheated \noutdoor staircases must be no less than 390 millimetres, and the riser may be no more than 130 \nmillimetres. \n\nSection 6 \n\nLandings \n\nThe landings in the indoor and outdoor areas of a building must be safe, sufficiently spacious \nand suitable for their purpose. The side edges of stairs and landings must be fitted with a raised \ncamber to prevent slipping over the edge if a cube measuring more than 50 millimetres in width \nis able to pass through the opening between the plane level and the handrail or wall. The distance \nbetween a door that opens onto a landing and the upper edge of the ramp or flight of stairs must \nbe no less than 400 millimetres on the side wall and no less than 1,500 millimetres on the end \nwall. A landing measuring at least 800 millimetres in length must be reserved in front of and \nbehind a door located in an exit route.",
+  "question": "What is the minimum tread of steps in covered or heated outdoor staircases?",
+  "value": "value",
+  "expected_value": "300 millimetres",
+  "metadata": {
+    "ID": "28_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:20:43.866399Z"
+}

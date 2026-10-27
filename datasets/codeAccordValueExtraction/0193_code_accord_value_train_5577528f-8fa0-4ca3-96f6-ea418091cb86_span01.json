@@ -1,0 +1,15 @@
+{
+  "order": 193,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "5577528f-8fa0-4ca3-96f6-ea418091cb86",
+  "value_span_index": 1,
+  "content": "The side edges of stairs and landings must be fitted with a raised camber to prevent slipping over the edge if a cube measuring more than 50 millimetres in width is able to pass through the opening between the plane level and the handrail or wall.",
+  "question": "If a cube measuring more than what width is able to pass through the opening between the plane level and the handrail or wall, must the side edges of stairs and landings be fitted with a raised camber?",
+  "value": "value",
+  "expected_value": "50 millimetres",
+  "metadata": {
+    "ID": "32_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:35:27.970653Z"
+}

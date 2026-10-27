@@ -1,0 +1,15 @@
+{
+  "order": 260,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "2fad9e0f-fa0d-4a6b-9c63-152ef8828c4d",
+  "value_span_index": 1,
+  "content": "An upstand built on site should not exceed a U-value of 0.35W/(m2K).",
+  "question": "What is the maximum U-value for an upstand built on site?",
+  "value": "value",
+  "expected_value": "0.35W/ ( m2K)",
+  "metadata": {
+    "ID": "115_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:43:12.397202Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 45,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7e369e4c-7768-4a7a-bd9c-41e2aa037b43",
+  "value_span_index": 1,
+  "content": "The air flows shall be designed so that the average carbon monoxide concentration in a parking garage for motor vehicles during the hour of use assessed as the most critical does not exceed 35 mg/m3 (30 ppm).",
+  "question": "What is the maximum allowable average carbon monoxide concentration in a parking garage for motor vehicles during the hour of use assessed as the most critical?",
+  "value": "value",
+  "expected_value": "35 mg/m3 ( 30 ppm)",
+  "metadata": {
+    "ID": "61_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:16:36.442620Z"
+}

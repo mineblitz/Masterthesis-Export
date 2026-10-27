@@ -1,0 +1,15 @@
+{
+  "order": 167,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "56517433-cf40-4b88-a9d4-18e61e0e9993",
+  "value_span_index": 1,
+  "content": "The toilet and washing \nfacility adjacent to the facility shall meet the requirements in subsection 2. \n\nSection 10 \n\nToilet facility in a non-residential building \n\nA  non-residential  building  shall,  considering  the  intended  use  and  functional  units  of  the \nbuilding and distances in the building, have an adequate number of appropriately located toilet \nfacilities which are suitable for users of wheelchairs and walking frames with wheels. The toilet \nfacilities referred to above shall be located so that they are gender-neutral with respect to the \nusers and their assistants and they shall be marked with International Symbol of Access. \n\nA toilet facility referred to in subsection 1 above shall have a free space with a diameter of at \nleast 1,500 millimetres. The fixtures and fittings shall be placed with respect to the free space \nso that a person with mobility impairment can use them. In addition, on both sides of the toilet \nseat there shall be a free space of at least 800 millimetres. Alternatively, two toilet facilities can \nbe placed close to each other, one of them with a free space of at least 800 millimetres on the \nleft side of the toilet seat and the other on the right side of the toilet seat. The toilet seat shall be \nplaced between 200 and 300 millimetres from the rear wall. \n\nThe  toilet  facility  shall  be  equipped  to  be  suitable  for  use  by  a  person  with  mobility \nimpairment. If the building has a control system, the toilet facility shall have a security alarm \nconnection to the control.  \n\n4 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fSection 11 \n\nOther sanitary facility in a non-residential building \n\nA certain proportion of the changing rooms, washing facilities, saunas and swimming pools \nin  a  non-residential  building  shall  be  suitable  for  a  person  with  mobility  and  functional \nimpairment.",
+  "question": "What is the minimum free space required on both sides of the toilet seat?",
+  "value": "value",
+  "expected_value": "800 millimetres",
+  "metadata": {
+    "ID": "55_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:31:47.204144Z"
+}

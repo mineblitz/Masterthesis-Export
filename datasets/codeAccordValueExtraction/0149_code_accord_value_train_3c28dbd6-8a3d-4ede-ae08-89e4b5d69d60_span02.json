@@ -1,0 +1,15 @@
+{
+  "order": 149,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "3c28dbd6-8a3d-4ede-ae08-89e4b5d69d60",
+  "value_span_index": 2,
+  "content": "The approach route is a minimum of 900mm wide with a maximum cross fall of 1 in 40.",
+  "question": "What is the maximum cross fall of the approach route?",
+  "value": "value",
+  "expected_value": "1 in 40",
+  "metadata": {
+    "ID": "16_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:30:06.381492Z"
+}

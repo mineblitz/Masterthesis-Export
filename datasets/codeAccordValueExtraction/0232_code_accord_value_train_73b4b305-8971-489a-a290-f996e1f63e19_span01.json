@@ -1,0 +1,15 @@
+{
+  "order": 232,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "73b4b305-8971-489a-a290-f996e1f63e19",
+  "value_span_index": 1,
+  "content": "The clear width of the door and opening leading to room spaces of a non-residential building as well as to residential rooms of a residential building, necessary spaces serving residence and spaces serving the use of the building shall be at least 800 millimetres.",
+  "question": "What is the minimum clear width required for the door and opening leading to room spaces of a non-residential building, residential rooms of a residential building, necessary spaces serving residence, and spaces serving the use of the building?",
+  "value": "value",
+  "expected_value": "800 millimetres",
+  "metadata": {
+    "ID": "19_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:39:43.461211Z"
+}

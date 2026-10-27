@@ -1,0 +1,15 @@
+{
+  "order": 219,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "8feaf7f2-dfd8-43ae-ab8d-791ee1ffd86c",
+  "value_span_index": 2,
+  "content": "If there are steps on \nthe passageway, there shall also be a ramp or a permanently installed device intended for lifting \npersons that is suitable for a user of a wheelchair and walking frame with wheels. The provisions \nof  this  subsection  do  not  apply  to  a  detached  house,  semi-detached  house  or  townhouse  if \nproviding  an  accessible  passageway  would  be  impossible  considering  the  site  and  elevation \ndifferences.  \n\nThe  ramp  referred  to  in  subsection  1  above  shall  be  easily  noticeable  and  straight  with  a \nsmooth, hard and non-slippery surface, width of at least 900 millimetres and, if the ramp is not \nconnected to a fixed structure, a protective edge of at least 50 millimetres in height. There shall \nbe a horizontal landing with a length of at least 1,500 millimetres at the lower and upper end of \nthe ramp. The gradient of the ramp may not exceed five per cent. However, if the elevation \n\nDirective 2015/1535/EU of the European Parliament and of the Council (32015L1535); OJ L 241, 17.9.2015, p. 1 \n\n \n \n \n \n \n \n \n \n\fdifference is no more than 1,000 millimetres, the ramp may not have a gradient of more than \neight per cent. In that case, the elevation difference of a continuous ramp may not be more than \n500 millimetres, after which there shall be a horizontal intermediate landing with a length of at \nleast 2,000 millimetres. However, in an outdoor area the ramp may have a gradient of more than \nfive  per  cent  only  if  it  can  be  kept  in  a  condition  comparable  with  that  of  an  indoor  ramp. \nProvisions on railings, handrails and other arrangements intended to prevent falling down and \nmisstepping are laid down by decree issued under section 117d, subsection 2 of the Land Use \nand Building Act. \n\nIf parking spaces are provided for a building, an adequate number of them, but at least one, \nshall  be  intended  for  the  use  of  a  person  with  mobility  and  functional  impairment.  Such  a \nparking space shall have a width of at least 3,600 millimetres and a length of at least 5,000 \nmillimetres  and  be  marked  with  the  International  Symbol  of  Access.",
+  "question": "What is the maximum gradient permitted for a ramp if the elevation difference is no more than 1,000 millimetres?",
+  "value": "value",
+  "expected_value": "8 per cent",
+  "metadata": {
+    "ID": "9_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:38:22.496963Z"
+}

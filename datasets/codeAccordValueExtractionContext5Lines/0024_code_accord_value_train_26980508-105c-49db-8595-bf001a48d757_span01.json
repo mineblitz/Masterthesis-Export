@@ -1,0 +1,15 @@
+{
+  "order": 24,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "26980508-105c-49db-8595-bf001a48d757",
+  "value_span_index": 1,
+  "content": "Chapter 5 \n\nSafety of assembly areas \n\nSection 20 \n\nAssembly areas \n\nAssembly areas must be designed and built in a way that is suitable for their use. \n\nSection 21 \n\nNumber of persons in assembly areas \n\nThe maximum intended number of persons that may be simultaneously present in an assembly \narea is the combined number of persons permitted in the assembly rooms. The requirements set \nin  the  building  permit  for  the  characteristics  of  the  space  are  determined  according  to  the \nintended number of persons. \n\nThe  maximum  number  of  persons  in  an  assembly  area  is  to  be  calculated  based  on  the \ncharacteristics of the different room areas in the space so that the maximum number of persons \nin a room with fixed seats is determined based on the number of seats. In rooms that do not have \nfixed  seats  but  for  which  furnishings  are  presented  in  the  approved  designs,  the  maximum \nnumber of persons is also determined based on the number of seats. In rooms with no fixed seats \nor furnishings, the number of persons shall be calculated to be two persons per square metre. \n\nWhen calculating the number of persons per square metre of room area, the following spaces \nare not included: stages, speaking rostrums or other such areas, cloakrooms, kitchen facilities, \nwashing facilities, toilets and storage rooms. \n\n6 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fSection 22 \n\nSeats in assembly areas \n\nSeats must be fixed to a base if the floor of the seating area is sloped or if there are level \n\ndifferences between the floors of the respective rows of seats. \n\nOn a level floor, seats may be detached. If there are more than 60 chairs in a space, they must \n\nbe linked to one another in at least four groups, unless the chairs are placed around tables. \n\nFixed or linked seats must be arranged as rows of seating with an access route on the side of \n\nthe rows.",
+  "question": "In rooms with no fixed seats or furnishings, what shall the number of persons be calculated to be?",
+  "value": "value",
+  "expected_value": "2 persons per square metre",
+  "metadata": {
+    "ID": "103_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:13:44.396995Z"
+}

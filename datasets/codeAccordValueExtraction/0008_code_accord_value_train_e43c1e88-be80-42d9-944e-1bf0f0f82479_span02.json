@@ -1,0 +1,15 @@
+{
+  "order": 8,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "e43c1e88-be80-42d9-944e-1bf0f0f82479",
+  "value_span_index": 2,
+  "content": "Individual flights are: for gradients up to 1:15 not more than 10m long; for gradients up to 1:12 not more than 5m long.",
+  "question": "What is the maximum length of individual flights for gradients up to 1:15?",
+  "value": "value",
+  "expected_value": "10m",
+  "metadata": {
+    "ID": "18_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:11:50.947573Z"
+}

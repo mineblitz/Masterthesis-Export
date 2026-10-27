@@ -1,0 +1,15 @@
+{
+  "order": 50,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a8b3e54e-902c-4502-99a2-8c41d46f1416",
+  "value_span_index": 1,
+  "content": "In rooms that do not have \nfixed  seats  but  for  which  furnishings  are  presented  in  the  approved  designs,  the  maximum \nnumber of persons is also determined based on the number of seats. In rooms with no fixed seats \nor furnishings, the number of persons shall be calculated to be two persons per square metre. \n\nWhen calculating the number of persons per square metre of room area, the following spaces \nare not included: stages, speaking rostrums or other such areas, cloakrooms, kitchen facilities, \nwashing facilities, toilets and storage rooms. \n\n6 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fSection 22 \n\nSeats in assembly areas \n\nSeats must be fixed to a base if the floor of the seating area is sloped or if there are level \n\ndifferences between the floors of the respective rows of seats. \n\nOn a level floor, seats may be detached. If there are more than 60 chairs in a space, they must \n\nbe linked to one another in at least four groups, unless the chairs are placed around tables. \n\nFixed or linked seats must be arranged as rows of seating with an access route on the side of \n\nthe rows. \n\nSection 23 \n\nAuditoriums \n\nLevel differences of over 500 millimetres must be equipped with an appropriate safety barrier, \nrailing or handrail. The barrier in front of the lowest row of seats in a tiered auditorium balcony \nmay be in the form of a guardrail 0.7 metres in height with panelling to protect against falls if \nonly the said row of seating can be accessed via the passageway between the row and the barrier. \nStanding areas must be terraced so that it is safe to move in the rows. The depth of standing \n\nrows must be at least half a metre.",
+  "question": "More than how many chairs in a space must be linked to one another in at least four groups, unless the chairs are placed around tables?",
+  "value": "value",
+  "expected_value": "60",
+  "metadata": {
+    "ID": "106_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:17:07.010193Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 35,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "5b1fe636-d2aa-4382-885e-a4f8a2cae4d4",
+  "value_span_index": 1,
+  "content": "Generally, a thermal element once upgraded should not have a U-value greater than 0.7W/(m2K).",
+  "question": "Generally, what U-value should a thermal element once upgraded not be greater than?",
+  "value": "value",
+  "expected_value": "0.7W/ ( m2K)",
+  "metadata": {
+    "ID": "125_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:15:17.138268Z"
+}

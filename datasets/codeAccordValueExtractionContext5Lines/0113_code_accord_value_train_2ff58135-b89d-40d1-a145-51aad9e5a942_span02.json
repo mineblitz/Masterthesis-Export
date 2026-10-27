@@ -1,0 +1,15 @@
+{
+  "order": 113,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "2ff58135-b89d-40d1-a145-51aad9e5a942",
+  "value_span_index": 2,
+  "content": "Provisions on railings, handrails and other arrangements intended to prevent falling down and \nmisstepping are laid down by decree issued under section 117d, subsection 2 of the Land Use \nand Building Act. \n\nIf parking spaces are provided for a building, an adequate number of them, but at least one, \nshall  be  intended  for  the  use  of  a  person  with  mobility  and  functional  impairment.  Such  a \nparking space shall have a width of at least 3,600 millimetres and a length of at least 5,000 \nmillimetres  and  be  marked  with  the  International  Symbol  of  Access.  The  provisions  of  this \nsubsection do not apply to a detached house, semi-detached house or townhouse. \n\nSection 3 \n\nEntrance to a building \n\nThe distance of the opening side of the outside door of a building from the inside corner of \n\nthe wall or other fixed obstacle outside the door shall be at least 400 millimetres.  \n\nThe landing in front of the outside door shall be at least 1,500 millimetres wide and at least \n\n1,500 millimetres long. \n\nSection 4 \n\nDoors \n\nThe clear width of the door and opening in a passageway inside a building, the door leading \nfrom the staircase to a dwelling and the door of the space referred to in section 9, subsection 2 \nand section 10 shall be at least 850 millimetres. Provisions on the dimensions of the outside \ndoor of a building and the doors of other exit routes are laid down by decree issued under section \n117b, subsection 3 of the Land Use and Building Act.  \n\nThe clear width of the door and opening leading to room spaces of a non-residential building \nas well as to residential rooms of a residential building, necessary spaces serving residence and \nspaces serving the use of the building shall be at least 800 millimetres. \n\nIn connection with the door there may not be any level difference or threshold, unless this is \nnecessary  on  account  of  noise  or  humidity  or  other  similar  circumstances.  In  that  case  the \nthreshold or level difference may not be higher than 20 millimetres and the threshold shall be \ndesigned so that it can be easily crossed with a wheelchair or walking frame with wheels.",
+  "question": "What is the minimum width of the landing in front of the outside door?",
+  "value": "value",
+  "expected_value": "1500 millimetres",
+  "metadata": {
+    "ID": "16_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:24:36.086180Z"
+}

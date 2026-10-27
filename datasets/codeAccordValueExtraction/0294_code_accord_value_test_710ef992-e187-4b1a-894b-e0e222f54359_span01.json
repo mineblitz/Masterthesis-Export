@@ -1,0 +1,15 @@
+{
+  "order": 294,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "710ef992-e187-4b1a-894b-e0e222f54359",
+  "value_span_index": 1,
+  "content": "NOTE: For grid-supplied electricity, a CO2 emission factor of 0.136kgCO2/kWh and primary energy factor of 1.501kWhPE/kWh should be used.",
+  "question": "What is the CO2 emission factor for grid-supplied electricity?",
+  "value": "value",
+  "expected_value": "0.136kgCO2/kWh",
+  "metadata": {
+    "ID": "199_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:46:28.430538Z"
+}

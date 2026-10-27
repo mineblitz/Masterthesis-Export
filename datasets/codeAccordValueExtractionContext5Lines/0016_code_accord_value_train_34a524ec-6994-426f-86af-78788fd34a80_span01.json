@@ -1,0 +1,15 @@
+{
+  "order": 16,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "34a524ec-6994-426f-86af-78788fd34a80",
+  "value_span_index": 1,
+  "content": "The panel should be securely held in \n\nplace. Beading should be mechanically fixed and glued in position. \n\nB.5  The smaller dimension of each panel – which can be either the width or height of the panel – \n\nshould be 230mm or less. \n\nLocks, hinges and letter plates\nB.6  The main doors for entering a dwelling (usually the front doorset) should be fitted with a \n\nmultipoint locking system that meets the requirements of: \n\n•  PAS 3621 (key locking on both sides), or \n\n•  PAS 8621 (non-key locking on the internal face), or \n\n•  PAS 10621 (non-key locking on the internal face, but with an external locking override facility).\n\nIf it is not practical or desirable to install a multipoint locking system, a mortice lock that conforms \nwith one of the following standards can be fitted instead, with a surface-mounted rim lock that \nconforms to the same standard: \n\n•  BS 3621 (key locking both sides), or \n\n•  BS 8621 (non-key locking on the internal face), or \n\n•  BS 10621 (non-key locking on the internal face, but with an external locking override facility). \n\nBetween the locking points for the mortice lock and surface-mounted rim lock, the distance \nshould be 400–600mm. \n\nB.7  The non-primary doors for entering a dwelling (for example, back door or garage interconnecting \n\ndoors) should be fitted with a multipoint locking system that meets the requirements of:\n\n•  PAS 3621 (key locking on both sides), or \n\n•  PAS 8621 (non-key locking on the internal face), or \n\nBuilding Regulations 2010  \n\nApproved Document Q, 2015 edition \n\n7\n\n\fB\n\n•  PAS 10621 (non-key locking on the internal face, but with an external locking override facility).\n\nIf it is not practical or desirable to install a multipoint locking system, a mortice lock that conforms \nwith one of the following standards can be fitted instead, with two morticed bolts.\n\n•  BS 3621 (key locking both sides), or \n\n•  BS 8621 (non-key locking on the internal face), or \n\n•  BS 10621 (non-key locking on the internal door face, but with an external locking override facility). \n\nThe morticed bolts should have a minimum projection of 20mm, should be at least 100mm from \nthe top and bottom corners of the door, and should avoid any door construction joints. \n\nB.8  Hinges accessible from outside should incorporate hinge bolts.",
+  "question": "What should be the distance between the locking points for the mortice lock and surface-mounted rim lock?",
+  "value": "value",
+  "expected_value": "400-600mm",
+  "metadata": {
+    "ID": "36_UK_DocQ_Security_Dwellings"
+  },
+  "created_at": "2026-07-31T05:12:32.911132Z"
+}

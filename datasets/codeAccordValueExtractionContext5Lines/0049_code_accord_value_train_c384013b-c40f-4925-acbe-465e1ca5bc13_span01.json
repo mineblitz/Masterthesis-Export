@@ -1,0 +1,15 @@
+{
+  "order": 49,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "c384013b-c40f-4925-acbe-465e1ca5bc13",
+  "value_span_index": 1,
+  "content": "B5   The as-built BREL report should be signed by the developer to confirm that the dwelling has been \n\nconstructed or completed according to the specifications in the report.\n\n78  Approved Document L Volume 1, 2021 edition \n\nBuilding Regulations 2010\n\nBONLINE VERSIONONLINE VERSION\fPhotographic evidence\nB6   Photographs should be taken for each dwelling on a development as a record during the \n\nconstruction of a property. The photographs should be made available to the energy assessor and \nthe building control body. Anyone may take the photographs.\n\nB7  Photographs should be taken of typical details as listed below and should be unique to each \nproperty. One photograph per detail should be recorded. Additional images, such as a close-\nup detail, should be provided only when necessary (see below). Photographs should be taken at \nappropriate construction stages for each detail when completed, but prior to closing-up works.\n\n1.  Foundations/substructure and ground floor, to show thermal continuity and quality of insulation \n\nin the following places.\n\na.  At ground floor perimeter edge insulation.\n\nb.  At external door threshold.\n\nc.  Below damp-proof course on external walls.\n\n2.",
+  "question": "How many photographs per detail should be recorded?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "480_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:16:59.814315Z"
+}

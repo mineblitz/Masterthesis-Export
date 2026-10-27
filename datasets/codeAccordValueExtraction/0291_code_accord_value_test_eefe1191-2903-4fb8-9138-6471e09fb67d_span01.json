@@ -1,0 +1,15 @@
+{
+  "order": 291,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "eefe1191-2903-4fb8-9138-6471e09fb67d",
+  "value_span_index": 1,
+  "content": "The internal temperature exceeds 23C at 11pm.",
+  "question": "What internal temperature is exceeded at 11pm?",
+  "value": "value",
+  "expected_value": "23C",
+  "metadata": {
+    "ID": "53_UK_DocO_Overheating"
+  },
+  "created_at": "2026-07-31T05:46:11.853762Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 48,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "6414854d-01f9-481f-a7f4-c4581e48d8b1",
+  "value_span_index": 1,
+  "content": "Special safety features are not necessary if the ladder is not more than 6m long.",
+  "question": "What is the maximum length of a ladder for which special safety features are not necessary?",
+  "value": "value",
+  "expected_value": "6m",
+  "metadata": {
+    "ID": "112_UK_DocK_ProtectionFromFalling"
+  },
+  "created_at": "2026-07-31T05:16:56.136857Z"
+}

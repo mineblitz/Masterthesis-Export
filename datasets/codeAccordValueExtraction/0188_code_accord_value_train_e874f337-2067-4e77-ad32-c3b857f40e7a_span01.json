@@ -1,0 +1,15 @@
+{
+  "order": 188,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "e874f337-2067-4e77-ad32-c3b857f40e7a",
+  "value_span_index": 1,
+  "content": "If the number of occupants exceeds 120, the total minimum width of the exits shall be calculated by increasing the original 1,200 millimetres by 400 millimetres for each additional group of 60 people.",
+  "question": "At what number of occupants must the total minimum width of the exits be calculated by increasing the original 1,200 millimetres by 400 millimetres for each additional group of 60 people?",
+  "value": "value",
+  "expected_value": "120",
+  "metadata": {
+    "ID": "219_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:34:53.641502Z"
+}

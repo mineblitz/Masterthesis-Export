@@ -1,0 +1,15 @@
+{
+  "order": 133,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "f7935bb4-9e5f-4e91-bbf1-54e45c1ef24c",
+  "value_span_index": 1,
+  "content": "A building with a height exceeding 9 metres must be equipped with anchoring structures for safety lines.",
+  "question": "A building must be equipped with anchoring structures for safety lines if its height exceeds what value?",
+  "value": "value",
+  "expected_value": "9 metres",
+  "metadata": {
+    "ID": "127_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:27:27.423456Z"
+}

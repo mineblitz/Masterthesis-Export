@@ -1,0 +1,15 @@
+{
+  "order": 201,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "6075de3c-d339-4ba4-9945-990480975615",
+  "value_span_index": 1,
+  "content": "Where a kitchen and living room accommodation are not separate rooms (i.e. open plan), no fewer than three ventilators of the same equivalent area as for other habitable rooms should be provided within the open-plan space.",
+  "question": "What is the minimum number of ventilators that should be provided within an open-plan space where a kitchen and living room accommodation are not separate rooms?",
+  "value": "value",
+  "expected_value": "3",
+  "metadata": {
+    "ID": "94_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-31T05:36:18.159616Z"
+}

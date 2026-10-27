@@ -1,0 +1,15 @@
+{
+  "order": 261,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "c952db0f-b605-4335-8d56-97fc339ad5ba",
+  "value_span_index": 1,
+  "content": "Checking design air flow rates against measured air  \nflow rates\nC2  Measured air flow rates for all fans should be recorded on Part 3: Commissioning details, as part of \n\nthe commissioning procedures given in Section 4 of this approved document. \n\nThe measured values should be compared with their respective design values to determine the \nfollowing.\n\na. \n\nb. \n\nIf the measured rate for each fan is equal to or greater than the design value, then the system \nmeets the design standard. \n\nIf any measured value is lower than the design value, an adjustment should be made to correct \nthe system. All air flows should then be remeasured. If necessary, further adjustments should be \nmade until all air flows match their design values. \n\nDemonstrating compliance\nC3  All three parts of the installation and commissioning checklist should be completed. \n\nThe relevant sections of Parts 2 and 3 should be signed by a person who is both competent to install \nthe system and responsible for installing and commissioning the system.\n\nC4  The three-part form should be completed for each installation address. A copy should be \n\nsubmitted to the building control body as evidence that the system has been correctly installed, \ninspected and commissioned. \n\n42 \n\n Approved Document F Volume 1, 2021 edition \n\nBuilding Regulations 2010\n\nCONLINE VERSIONONLINE VERSION\fPart 1 – System details and declarations\n\nThe installer should complete this section and include details of the commissioning engineer.\n\nInstallation address details\n\n1.1\nDwelling name/number\n\nStreet\n\nTown\n\nCounty\n\nPostcode\n\n1.2\nSystem details\nSystem classification*\n\nEnter ‘natural ventilation’, ‘mechanical extract ventilation’ or ‘as defined by Approved Document F’.",
+  "question": "How many parts of the installation and commissioning checklist should be completed?",
+  "value": "value",
+  "expected_value": "3",
+  "metadata": {
+    "ID": "262_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-31T05:43:16.247099Z"
+}

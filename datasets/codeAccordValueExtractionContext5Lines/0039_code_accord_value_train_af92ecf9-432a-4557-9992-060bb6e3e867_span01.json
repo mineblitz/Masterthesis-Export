@@ -1,0 +1,15 @@
+{
+  "order": 39,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "af92ecf9-432a-4557-9992-060bb6e3e867",
+  "value_span_index": 1,
+  "content": "The building control body should be provided with evidence that the person who pressure-tested \nthe building meets both of the following. \n\na.  Has received appropriate training.\n\nb. \n\nIs registered to test the specific class of building. \n\n7.4  Buildings that are not dwellings, including extensions that are being treated as new buildings to \n\ncomply with Part L, must be pressure tested except those types listed in paragraph 7.5.\n\n7.5  The following buildings do not need to undergo pressure testing.\n\na.  Buildings with less than 500m2 total useful floor area. In this case the developer may avoid a \n\npressure test, provided that the air permeability used to calculate the building primary energy \nrate and building emission rate is taken as 15m3/(h·m2) at 50Pa.\n\nb.  A factory-made modular building that meets the following criteria:\n\ni. \n\nthe floor area is less than 500m2\n\nii.  the building has a planned service life of more than two years, where the intended time of \n\nuse in a single location is less than two years\n\niii.  no site assembly work is needed other than linking standard modules using standard link \n\ndetails.\n\nIf the building as installed conforms to a standard configuration of modules and link details \nfor which the installer has pressure test data, this test data may be used to estimate the air \npermeability. Test data must be from a minimum of five in-situ measurements of the same \nmodule types and link details as used in the actual building. Air permeability should be in m3/\n(h·m2) at 50Pa. When calculating the building primary energy rate and building emission rate for \na factory-made modular building as described above, the value that should be used for design air \npermeability is the average air permeability test result at 50Pa plus 1.0m3/(h·m2).\n\nBuilding Regulations 2010  \n\nApproved Document L Volume 2, 2021 edition \n\n57\n\nR43ONLINE VERSIONONLINE VERSION\fc.  Large extensions. If the building control body agrees that sealing off and testing the extension \nseparately from the existing building is impractical, the extension should be treated as a large, \ncomplex building – see paragraph 7.5d.\n\nd.  Large complex buildings. If pressure testing is impractical due to the size or complexity of the \n\nbuilding, the developer may produce both of the following.\n\ni.  A detailed justification of why pressure testing is impractical.\n\nii.  A detailed strategy to give confidence that a continuous air barrier will be achieved.",
+  "question": "In what units should air permeability be expressed?",
+  "value": "value",
+  "expected_value": "m3/ ( hm2) at 50Pa",
+  "metadata": {
+    "ID": "352_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:15:44.139208Z"
+}

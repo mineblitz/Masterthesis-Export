@@ -1,0 +1,15 @@
+{
+  "order": 280,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "8b7e8e7e-81dd-4a76-bdd3-8269ac00f74b",
+  "value_span_index": 1,
+  "content": "The system can be overridden by a door reactivating device that relies on appropriate electronic methods (but not a door edge pressure system); provided that the lift door remains fully open for at least three seconds.",
+  "question": "For how long must the lift door remain fully open for the system to be overridden by a door reactivating device?",
+  "value": "value",
+  "expected_value": "3 seconds",
+  "metadata": {
+    "ID": "24_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:45:16.995352Z"
+}

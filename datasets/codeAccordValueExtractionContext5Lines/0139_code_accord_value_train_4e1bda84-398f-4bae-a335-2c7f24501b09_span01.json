@@ -1,0 +1,15 @@
+{
+  "order": 139,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "4e1bda84-398f-4bae-a335-2c7f24501b09",
+  "value_span_index": 1,
+  "content": "Building control body A local authority building \ncontrol department or an approved inspector.\n\nBuilding emission rate The building’s CO2 emission \nrate expressed as kgCO2/(m2.year).\n*Building envelope (in relation to a building) \nDefined in regulation 35 as the walls, floor, roof, \nwindows, doors, roof windows and rooflights.\n\nBuilding primary energy rate Expressed as kWhPE/\n(m2.year) and determined using the approved \nmethodology. \n\nCentralised electrically heated A domestic hot \nwater system in which the water is supplied to \nthe draw-off points from a device in which water \nis heated by an electric element or elements \nimmersed in the stored water. The water heater \nis situated centrally with a distribution system \nto supply water to the draw-off points and has a \ncapacity greater than 300 litres.\n\nCentre pane U-value The U-value determined \nin the central area of the glazing unit, making no \nallowance for edge spacers or the window frame.\n\n*Change to energy status Defined in regulation \n2(1) as any change which results in a building \nbecoming a building to which the energy efficiency \nrequirements of these Regulations apply, where \npreviously it was not.\n\nCHPQA quality index An indicator of the energy \nefficiency and environmental performance of a \nCHP scheme, certified by the Combined Heat and \nPower Quality Assurance scheme.\n\nCircuit-watt Refers to the power consumed in \nlighting circuits by lamps and, where applicable, \ntheir associated control gear (including \ntransformers and drivers) and power factor \ncorrection equipment. \n\nCoefficient of performance (COP) A measure \nof the efficiency of a heat pump at specified \nsource and sink temperatures, measured using the \nprocedures in BS EN 14511-2.",
+  "question": "The water heater has a capacity greater than how many litres?",
+  "value": "value",
+  "expected_value": "300 litres",
+  "metadata": {
+    "ID": "456_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:28:08.938869Z"
+}

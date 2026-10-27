@@ -1,0 +1,15 @@
+{
+  "order": 203,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "48133b44-eac2-44e2-b2df-c52243e9f7ea",
+  "value_span_index": 1,
+  "content": "NOTE: For example, if the total system output is made up of three equally sized boilers, at 15% of system output the lead boiler will be operating at 45% of its rated output with the other two boilers switched off.",
+  "question": "At what percentage of total system output will the lead boiler be operating at 45% of its rated output in a system of three equally sized boilers where the other two are switched off?",
+  "value": "value",
+  "expected_value": "15%",
+  "metadata": {
+    "ID": "244_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:36:32.090150Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 30,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d5b6ff18-626d-4e6f-b788-0c67f7a4ebab",
+  "value_span_index": 2,
+  "content": "If the cost of installing the required electric vehicle charge point and cable routes for electric vehicle charge points exceeds 7% of the total cost of the major renovation (a) such a building is exempt from the requirement to install the electric vehicle charge point; and (b) cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of parking spaces, except where the cost of that installation exceeds 7% of the total cost of the major renovation.",
+  "question": "What percentage of the total cost of the major renovation must the cost of installing the required electric vehicle charge point and cable routes exceed for a building to be exempt from the requirement to install the electric vehicle charge point?",
+  "value": "value",
+  "expected_value": "7%",
+  "metadata": {
+    "ID": "75_UK_DocS_InfrastructureForChargingOfElectricalVehicles"
+  },
+  "created_at": "2026-07-31T05:14:33.232002Z"
+}

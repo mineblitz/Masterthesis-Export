@@ -1,0 +1,15 @@
+{
+  "order": 57,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "c0a6d35c-cc20-428b-941d-c3e3e6365c74",
+  "value_span_index": 1,
+  "content": "In a tier that is uninterrupted by cross-gangways, and where the pitch exceeds 25, use a maximum number of steps of 40.",
+  "question": "In a tier that is uninterrupted by cross-gangways, the pitch must exceed what value to use a maximum number of steps of 40?",
+  "value": "value",
+  "expected_value": "25",
+  "metadata": {
+    "ID": "25_UK_DocK_ProtectionFromFalling"
+  },
+  "created_at": "2026-07-31T05:17:45.341564Z"
+}

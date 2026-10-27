@@ -1,0 +1,15 @@
+{
+  "order": 81,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d925c189-860a-4fcb-ae88-d1cf8cc14fb8",
+  "value_span_index": 1,
+  "content": "The tread of steps in covered or heated outdoor staircases must be no less than 300 millimetres, and the riser may be no more than 160 millimetres.",
+  "question": "What is the minimum tread of steps in covered or heated outdoor staircases?",
+  "value": "value",
+  "expected_value": "300 millimetres",
+  "metadata": {
+    "ID": "28_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:20:43.866399Z"
+}

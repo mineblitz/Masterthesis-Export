@@ -1,0 +1,15 @@
+{
+  "order": 225,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "99a53f17-48cb-4012-a47b-700761e0983b",
+  "value_span_index": 2,
+  "content": "Where a new building which is not a residential building or a mixed-use building has more than 10 parking spaces (a) one of those parking spaces must have access to one electric vehicle charge point; and (b) cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of remaining parking spaces.",
+  "question": "How many parking spaces must have access to an electric vehicle charge point in a new building that is not a residential or mixed-use building and has more than 10 parking spaces?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "61_UK_DocS_InfrastructureForChargingOfElectricalVehicles"
+  },
+  "created_at": "2026-07-31T05:39:00.013477Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 221,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "40b40b1b-d1b1-49d8-b9b7-13c5845a169d",
+  "value_span_index": 1,
+  "content": "The structure of the control appliance of the plumbing fixture shall be such that its surface temperature does not arise above 40 degrees Celsius.",
+  "question": "What is the maximum surface temperature that the structure of the control appliance of the plumbing fixture shall not arise above?",
+  "value": "value",
+  "expected_value": "40 degrees Celsius",
+  "metadata": {
+    "ID": "71_Finnish_Health-WaterAndSewerage"
+  },
+  "created_at": "2026-07-31T05:38:31.528487Z"
+}

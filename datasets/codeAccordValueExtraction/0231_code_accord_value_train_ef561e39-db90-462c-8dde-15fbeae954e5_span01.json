@@ -1,0 +1,15 @@
+{
+  "order": 231,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "ef561e39-db90-462c-8dde-15fbeae954e5",
+  "value_span_index": 1,
+  "content": "A cube with edges of no more than 200 millimetres may pass between the upper edge of the barrier and the protective part.",
+  "question": "What is the maximum edge size of a cube that may pass between the upper edge of the barrier and the protective part?",
+  "value": "value",
+  "expected_value": "200 millimetres",
+  "metadata": {
+    "ID": "50_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:39:35.892801Z"
+}

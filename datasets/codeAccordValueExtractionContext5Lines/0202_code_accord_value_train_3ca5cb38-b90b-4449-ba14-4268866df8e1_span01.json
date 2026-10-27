@@ -1,0 +1,15 @@
+{
+  "order": 202,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "3ca5cb38-b90b-4449-ba14-4268866df8e1",
+  "value_span_index": 1,
+  "content": "Optimum start A control system or algorithm that \nstarts plant operating at the latest time possible \nto achieve specified conditions at the start of the \noccupancy period.\n\nOptimum stop A control system or algorithm that \nstops plant operating at the earliest time possible \nso that internal conditions will not deteriorate \nbeyond present limits by the end of the occupancy \nperiod.\n\nPart load energy efficiency ratio A ratio calculated \nby dividing the cooling energy delivered into \nthe cooling system by the energy input to the \ncooling plant. Part load performance for individual \nchillers is determined assuming that chilled water \nis provided at 7°C out and 12°C in (at 100% load), \nunder the conditions detailed in Table A2. \n\nPercentage part load\n\n25%\n\n50%\n\n75%\n\n100%\n\nAir-cooled chiller’s \nambient air temperature \n(°C)\n\nWater-cooled chiller’s \nentering cooling water \ntemperature (°C)\n\n20\n\n25\n\n30\n\n35\n\n18\n\n22\n\n26\n\n30\n\nPoint-of-use electrically heated A domestic hot \nwater system in which the water is supplied to \nthe draw-off points from a device in which water \nis heated by an electric element or elements \nimmersed in the stored water. The water heater \nis close to the draw-off points and has a storage \ncapacity no greater than 100 litres.\n\nPower efficiency The total annual power output of \na CHP unit divided by its total annual fuel input.\n\nPrimary energy Energy, from renewable and non-\nrenewable sources, that has not undergone any \nconversion or transformation process. \n\n88  Approved Document L Volume 2, 2021 edition \n88  Approved Document L Volume 2, 2021 edition \n\nBuilding Regulations 2010\nBuilding Regulations 2010\n\nAATable A2  Partial load efficiency ratioONLINE VERSIONONLINE VERSION\fPrincipal works The work necessary to achieve the \nclient’s purposes in extending the building and/\nor increasing the installed capacity of any fixed \nbuilding services. The value of the principal works \nis the basis for determining a reasonable provision \nfor some consequential improvements. \n\nRenewable technology Technology that uses \nrenewable resources, which are naturally \nreplenished on a human timescale, to produce \nelectricity.",
+  "question": "What is the maximum storage capacity of the water heater?",
+  "value": "value",
+  "expected_value": "100 litres",
+  "metadata": {
+    "ID": "463_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:36:24.584853Z"
+}

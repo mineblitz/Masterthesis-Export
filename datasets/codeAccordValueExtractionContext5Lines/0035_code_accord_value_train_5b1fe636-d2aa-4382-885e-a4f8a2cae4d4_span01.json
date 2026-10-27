@@ -1,0 +1,15 @@
+{
+  "order": 35,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "5b1fe636-d2aa-4382-885e-a4f8a2cae4d4",
+  "value_span_index": 1,
+  "content": "Elements that should meet the standards include both of the following. \n\na.  Thermal elements being renovated in existing dwellings. Renovated elements should achieve the \n\nU-values in Table 4.3, column (b). \n\nBuilding Regulations 2010  \n\nApproved Document L Volume 1, 2021 edition \n\n25\n\nL1(a)Table 4.2 Limiting U-values for new fabric elements in existing dwellingsONLINE VERSIONONLINE VERSION\fb.  Elements being retained in existing dwellings, for example through a loft or garage conversion. \n\nRetained elements with a U-value that is higher than the threshold value in Table 4.3, column (a) \nshould be upgraded to achieve the U-values in Table 4.3, column (b).\n\n4.13  If achieving the U-value in Table 4.3, column (b) either:\nis not technically or functionally feasible or\n\na. \n\nb.  would not achieve a simple payback of 15 years or less\n\nthen the element should be upgraded to the lowest U-value that both:\n\na. \n\nis technically and functionally feasible and\n\nb.  can achieve a simple payback not exceeding 15 years.\n\nGenerally, a thermal element once upgraded should not have a U-value greater than 0.7W/(m2·K). A \nlesser standard for the thermal element may be acceptable where work complies with Part C of the \nBuilding Regulations on protection from the harmful effects of interstitial and surface condensation. \n\nNOTE: Examples are given in Appendix C.\nNOTE: When renovating thermal elements, the work should comply with all the requirements in \nSchedule 1, but particular attention should be paid to Parts B, C, F and J. \n\nTable 4.3  Limiting U-values for existing elements in existing dwellings\n\nElement\n\nRoof(2)(3)(4)\n\nWall – cavity insulation(2)(5)\n\nWall – internal or external insulation(2)(6)\n\nFloor(7)(8)\n\nNOTES:\n1.  Area-weighted average values.\n\nU-value(1) W/(m2·K)\n\n(a) Threshold\n\n(b) Improved\n\n0.35\n\n0.70\n\n0.70\n\n0.70\n\n0.16\n\n0.55\n\n0.30\n\n0.25\n\n2.  For dormer windows, ‘roof’ includes the roof parts of the windows and ‘wall’ includes the wall parts (cheeks).",
+  "question": "Generally, what U-value should a thermal element once upgraded not be greater than?",
+  "value": "value",
+  "expected_value": "0.7W/ ( m2K)",
+  "metadata": {
+    "ID": "125_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:15:17.138268Z"
+}

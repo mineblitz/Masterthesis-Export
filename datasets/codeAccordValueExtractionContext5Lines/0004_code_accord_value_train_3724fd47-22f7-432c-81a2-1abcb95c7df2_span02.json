@@ -1,0 +1,15 @@
+{
+  "order": 4,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "3724fd47-22f7-432c-81a2-1abcb95c7df2",
+  "value_span_index": 2,
+  "content": "If the dwelling has at least 70% of its openings on the same façade. \nIf a kitchen has no windows or external façade through which a ventilator can be installed. \n\n2.   Where a kitchen and living room accommodation are not separate rooms (i.e. open plan), no fewer than three \nventilators of the same equivalent area as for other habitable rooms should be provided within the open-plan \nspace. \n\n3.   The total number of ventilators installed in a dwelling’s habitable rooms and kitchens should be no fewer than \n\nfive, except in one-bedroom properties, where there should be no fewer than four.\n\n4.   If a bathroom has no window or external façade through which a ventilator can be installed, the minimum equiva-\n\nlent area specified should be added to the ventilator sizes specified in other rooms. \n\nBuilding Regulations 2010  \n\n Approved Document F Volume 1, 2021 edition \n\n15\n\nF1(1)ONLINE VERSIONONLINE VERSION\fPurge ventilation\n\n1.59  For purge ventilation, follow paragraphs 1.26 to 1.31.\n\nContinuous mechanical extract ventilation \n1.60  A continuous mechanical extract ventilation system could consist of one of the following. \n\na.  A central extract system. \n\nb. \n\nIndividual room extract fans. \n\nc.  A combination of a central extract system and individual room extract fans.\n\n1.61  If an exhaust air terminal is located on a façade that is exposed to the prevailing wind, measures \n\nshould be taken to minimise likely wind effects.",
+  "question": "Welcher konkrete Zahlen- oder Messwert wird in folgendem Satz gefordert: The total number of ventilators installed in a dwellings habitable rooms and kitchens should be no fewer than five, except in one bedroom properties, where there should be no fewer than four.",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "96_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-19T13:21:43.008465Z"
+}

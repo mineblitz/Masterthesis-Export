@@ -1,0 +1,17 @@
+{
+  "pipeline": "text_only_simple_conversion_v8",
+  "LLM": "LOCALAI_GEMMA_4_31B_IT",
+  "experiment_ID": "exp_080",
+  "experiment_Name": "Method A v8 CODE-ACCORD expanded passage, matched cases",
+  "experiment_Description": "Controlled non-direct-QA comparison, Method A. Uses the v8 keyword-centered physical-line window algorithm with 15 lines before and after each hit. CODE-ACCORD search terms are derived from the dataset question because the historical German value-key map does not support value='value'; this is an explicit input adaptation. Uses the same Gemma 4 31B, temperature 1.0, and five repetitions as direct-QA reference runs. Historical Exp. 11 used Gemma 3 27B and tested multiple window sizes, so this is a method-configuration comparison, not a pure model-controlled comparison to Exp. 11.",
+  "experiment_API": "http://localhost:4000/api/experiment",
+  "data_jsons_path": "../datasets/codeAccordValueExtractionContext5Lines",
+  "matched_case_id_reference_dataset_path": "../datasets/codeAccordValueExtractionContext5Lines",
+  "expected_case_count": 290,
+  "input_source": "dataset_text",
+  "input_extent": "expanded_passage",
+  "temperature": 1.0,
+  "prompt": "text_only_v5.txt",
+  "context_window_lines": 15,
+  "run_count": 1
+}

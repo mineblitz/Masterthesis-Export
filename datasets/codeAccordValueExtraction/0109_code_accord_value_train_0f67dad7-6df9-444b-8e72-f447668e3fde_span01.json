@@ -1,0 +1,15 @@
+{
+  "order": 109,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "0f67dad7-6df9-444b-8e72-f447668e3fde",
+  "value_span_index": 1,
+  "content": "Where sanitary facilities are wheelchair accessible, WC pans should be a minimum of 400mm high.",
+  "question": "What is the minimum height for WC pans where sanitary facilities are wheelchair accessible?",
+  "value": "value",
+  "expected_value": "400mm",
+  "metadata": {
+    "ID": "104_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:24:05.160493Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 103,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "2a256a9c-0b8a-4acf-87e1-86a5857f36a3",
+  "value_span_index": 1,
+  "content": "Where a driveway forms all, or part of, the approach route, an additional allowance of at least 900mm wide should be provided so that a wheelchair user can pass a parked car.",
+  "question": "What is the minimum width of the additional allowance that should be provided where a driveway forms all or part of the approach route to allow a wheelchair user to pass a parked car?",
+  "value": "value",
+  "expected_value": "900mm",
+  "metadata": {
+    "ID": "17_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:23:32.783757Z"
+}

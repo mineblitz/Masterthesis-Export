@@ -1,0 +1,15 @@
+{
+  "order": 189,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "23cff3c3-1251-4c5f-9fd9-8f52d25eb494",
+  "value_span_index": 1,
+  "content": "Gasfired boilers and multi-stage oilfired boilers with an output of more than 500kW should have fully modulating burner controls.",
+  "question": "Above what output should gasfired boilers and multi-stage oilfired boilers have fully modulating burner controls?",
+  "value": "value",
+  "expected_value": "500kW",
+  "metadata": {
+    "ID": "252_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:34:58.481939Z"
+}

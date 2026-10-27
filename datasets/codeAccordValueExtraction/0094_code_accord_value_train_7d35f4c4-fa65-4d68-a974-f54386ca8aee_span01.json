@@ -1,0 +1,15 @@
+{
+  "order": 94,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7d35f4c4-fa65-4d68-a974-f54386ca8aee",
+  "value_span_index": 1,
+  "content": "However, a horizontal gap in a protective part must be no higher than ten millimetres.",
+  "question": "What is the maximum height allowed for a horizontal gap in a protective part?",
+  "value": "value",
+  "expected_value": "10 millimetres",
+  "metadata": {
+    "ID": "49_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:22:38.032527Z"
+}

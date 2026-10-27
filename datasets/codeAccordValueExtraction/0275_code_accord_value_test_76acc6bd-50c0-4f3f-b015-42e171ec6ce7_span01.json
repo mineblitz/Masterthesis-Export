@@ -1,0 +1,15 @@
+{
+  "order": 275,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "76acc6bd-50c0-4f3f-b015-42e171ec6ce7",
+  "value_span_index": 1,
+  "content": "One electric vehicle charge point must be installed.",
+  "question": "How many electric vehicle charge points must be installed?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "82_UK_DocS_InfrastructureForChargingOfElectricalVehicles"
+  },
+  "created_at": "2026-07-31T05:44:50.733080Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 56,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "45338082-ca66-418b-8fe1-8f2be926f330",
+  "value_span_index": 1,
+  "content": "If the protective part of the barrier contains only vertical structures, a cube with edges of no \nmore than 100 millimetres may pass through its openings. In the case of other types of protective \nparts,  a  cube  with  edges  of  no  more  than  30  millimetres  may  pass  through  the  openings. \nHowever, a horizontal gap in a protective part must be no higher than ten millimetres. \n\nA cube with edges of no more than 200 millimetres may pass between the upper edge of the \nbarrier and the protective part. A cube with edges of no more than 50 millimetres may pass \nbetween the lower edge of a barrier’s protective part and the landing or the upper surface or \nedge of a step. \n\nA cube of no more than 100 millimetres may pass between the stair steps. \n\nSection 9 \n\nHandrails \n\nOn stairs and ramps, a handrail must be installed for the entire length and on both sides of the \nstructure. Where necessary, two handrails, one above the other, must be installed in order to \ntake into account children and users of wheelchairs. A handrail must be designed and shaped so \nthat it allows a firm grip.  A handrail and its ending must be shaped safely and must continue \npast the start and end points of the structure. The handrail must continue onto the intermediate \nlanding without interruption.",
+  "question": "What is the maximum size of a cube that may pass between the stair steps?",
+  "value": "value",
+  "expected_value": "100 millimetres",
+  "metadata": {
+    "ID": "52_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:17:37.882198Z"
+}

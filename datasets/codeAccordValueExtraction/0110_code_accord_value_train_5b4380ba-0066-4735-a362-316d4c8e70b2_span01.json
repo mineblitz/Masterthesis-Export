@@ -1,0 +1,15 @@
+{
+  "order": 110,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "5b4380ba-0066-4735-a362-316d4c8e70b2",
+  "value_span_index": 1,
+  "content": "Where a building undergoing major renovation, which is not a residential building or a mixeduse building, will have more than 10 parking spaces after the major renovation is completed (a) one of those parking spaces must have access to one electric vehicle charge point; and (b) cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of remaining parking spaces.",
+  "question": "More than how many parking spaces must a non-residential or non-mixed-use building have after a major renovation to trigger the electric vehicle charge point requirements?",
+  "value": "value",
+  "expected_value": "10",
+  "metadata": {
+    "ID": "73_UK_DocS_InfrastructureForChargingOfElectricalVehicles"
+  },
+  "created_at": "2026-07-31T05:24:13.861048Z"
+}

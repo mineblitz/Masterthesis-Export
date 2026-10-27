@@ -1,0 +1,15 @@
+{
+  "order": 97,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "aa41a5d4-c0b1-4da7-84a0-5c2e2738654f",
+  "value_span_index": 1,
+  "content": "If a habitable room has no \n\nexternal walls, paragraphs 1.42 to 1.44 should be followed.\n\n14 \n\n Approved Document F Volume 1, 2021 edition \n\nBuilding Regulations 2010\n\nF1(1)ONLINE VERSIONONLINE VERSION\fNOTE: A window with a night latch position is not adequate for background ventilation, due to the \nfollowing.\n\na.  The risk of draughts.\n\nb.  Security issues.\n\nc.  The difficulty of measuring the equivalent area.\n\n1.53  If the dwelling has more than one exposed façade, the area of background ventilators on each \n\nfaçade should be similar, to allow cross-ventilation.\n\n1.54  If an exposed façade is close to an area of sustained and loud noise (e.g. a main road), then a noise \n\nattenuating background ventilator should be fitted.\n\n1.55  If fans and background ventilators are fitted in the same room, they should be at least 500mm \n\napart.\n\n1.56  The minimum total area of background ventilators in each room should follow the guidance in \n\nTable 1.7.\n\n1.57  The total number of ventilators installed in the dwelling’s habitable rooms and kitchens should be \n\nat least the following. \n\na.  Four ventilators if the dwelling has one bedroom.\n\nb.  Five ventilators if the dwelling has more than one bedroom. \n\n1.58  If the dwelling has a kitchen and living room which are not separate rooms, at least three \n\nventilators of the same area as for other habitable rooms in Table 1.7 should be provided in the \nopen-plan space. \n\nTable 1.7  Minimum equivalent area of background ventilators for natural ventilation(1)\n\nRoom\n\nHabitable rooms(2)(3)\n\nKitchen(2)(3)\n\nUtility room\n\nBathroom(4)\n\nSanitary accommodation\n\nMinimum equivalent area of \nbackground ventilators for dwellings \nwith multiple floors\n\nMinimum equivalent area of \nbackground ventilators for single-\nstorey dwellings\n\n8000mm2\n\n8000mm2\n\nNo minimum\n\n4000mm2\n\nNo minimum\n\n10,000mm2\n\n10,000mm2\n\nNo minimum\n\n4000mm2\n\nNo minimum\n\nNOTES:\n1.   The use of this table is not appropriate in any of the following situations and expert advice should be sought. \n\n• \n• \n• \n\nIf the dwelling has only one exposed façade.\nIf the dwelling has at least 70% of its openings on the same façade.",
+  "question": "What is the minimum total number of ventilators that should be installed in the dwellings habitable rooms and kitchens if the dwelling has more than one bedroom?",
+  "value": "value",
+  "expected_value": "5 ventilators",
+  "metadata": {
+    "ID": "89_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-31T05:22:57.355020Z"
+}

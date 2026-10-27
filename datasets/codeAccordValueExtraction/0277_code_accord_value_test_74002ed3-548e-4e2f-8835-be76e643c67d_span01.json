@@ -1,0 +1,15 @@
+{
+  "order": 277,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "74002ed3-548e-4e2f-8835-be76e643c67d",
+  "value_span_index": 1,
+  "content": "NOTE 2: Double doors effectively provide nibs where each leaf is at least 300mm wide.",
+  "question": "What is the minimum width each leaf of double doors must be to effectively provide nibs?",
+  "value": "value",
+  "expected_value": "300mm",
+  "metadata": {
+    "ID": "51_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:45:00.636674Z"
+}

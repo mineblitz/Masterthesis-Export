@@ -1,0 +1,15 @@
+{
+  "order": 150,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "993e54cc-49c3-43cb-995e-1a951c93c775",
+  "value_span_index": 1,
+  "content": "The allowable maximum load shall be shown by a permanent sign that is appropriately located and clearly visible. The \nload shall be stated on this sign in kg/m2. \n\n7 \n\n \n \n \n \n \n \n \n \n \n  \n \n \n\f7.  Values of actions on garages and vehicle traffic areas \n\nMinistry of the Environment Decree (4/16) concerning national choices for densities, \nself-weight and imposed loads for buildings, when applying standard SFS-EN 1991-1-1 \nSection 7 Values of actions on garages and vehicle traffic areas \n\nThe values to be used for actions on garages and vehicle traffic areas, clause 6.3.3.2(1) of the standard, are given in \nTable 2. \n\nTable 2.  Values of actions on garages and vehicle traffic areas \n\nCategory of traffic area \n\nCategory F \nGross vehicle weight: ≤ 30 kN \n\nCategory G \n30 kN < gross vehicle weight ≤ 160 kN \n\nqk \n\n[kN/m2] \n\nIntermed\niate \nfloors \n\n2.5 \n\n5.0 \n\nStairs \n\n3.0 \n\n3.0 \n\nQk \n\n[kN] \n\n(stairs in \nbrackets) \n\n20 (2.0) \n\n90 (2.0) \n\nTraffic areas designed to categories F and G shall be posted with the appropriate warning signs, in accordance with \nclause 6.3.3.1(1)P of the standard. \n\nWhen a warning sign is not posted, the areas shall be designed to an axle load Qk and also to an axle group load equal \nto 190 kN. The axle group load is distributed evenly to all loaded areas. \n\nAdjacent parking and roof structures shall be designed, when necessary, also to loads from fire engines and rescue \nvehicles, and for a concentrated load of both hydraulic platform and extension ladder vehicles where such access is \nrequired. \n\nInstruction \n\nIf the structure is designed for vehicle weights higher than category G, the load to be used on the \nbasis of decree of the use of Vehicles on the Road (1257/1992) with amendment 407/2013 \n\n8 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fis a uniform load corresponding vehicle mass pursuant to decree and as point loads \n\nbogie/axle loads corresponding to the vehicle’s mass. \n\n8.  Horizontal loads on parapets and partition walls acting as barriers  \n\nMinistry of the Environment Decree (4/16) concerning national choices for densities, \nself-weight and imposed loads for buildings, when applying standard SFS-EN 1991-1-1 \nSection 8 Horizontal loads on parapets and partition walls acting as barriers \n\nValues for horizontal loads on parapets and partition walls acting as barriers, clause 6.4(1) of the standard, are given in \nTable 3.",
+  "question": "To what axle group load shall the areas be designed when a warning sign is not posted?",
+  "value": "value",
+  "expected_value": "190 kN",
+  "metadata": {
+    "ID": "25_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:30:12.091139Z"
+}

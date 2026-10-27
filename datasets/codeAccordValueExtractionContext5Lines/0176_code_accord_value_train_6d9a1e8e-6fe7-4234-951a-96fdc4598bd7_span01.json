@@ -1,0 +1,15 @@
+{
+  "order": 176,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "6d9a1e8e-6fe7-4234-951a-96fdc4598bd7",
+  "value_span_index": 1,
+  "content": "The gradient of the ramp may not exceed five per cent. However, if the elevation \n\nDirective 2015/1535/EU of the European Parliament and of the Council (32015L1535); OJ L 241, 17.9.2015, p. 1 \n\n \n \n \n \n \n \n \n \n\fdifference is no more than 1,000 millimetres, the ramp may not have a gradient of more than \neight per cent. In that case, the elevation difference of a continuous ramp may not be more than \n500 millimetres, after which there shall be a horizontal intermediate landing with a length of at \nleast 2,000 millimetres. However, in an outdoor area the ramp may have a gradient of more than \nfive  per  cent  only  if  it  can  be  kept  in  a  condition  comparable  with  that  of  an  indoor  ramp. \nProvisions on railings, handrails and other arrangements intended to prevent falling down and \nmisstepping are laid down by decree issued under section 117d, subsection 2 of the Land Use \nand Building Act. \n\nIf parking spaces are provided for a building, an adequate number of them, but at least one, \nshall  be  intended  for  the  use  of  a  person  with  mobility  and  functional  impairment.  Such  a \nparking space shall have a width of at least 3,600 millimetres and a length of at least 5,000 \nmillimetres  and  be  marked  with  the  International  Symbol  of  Access.  The  provisions  of  this \nsubsection do not apply to a detached house, semi-detached house or townhouse. \n\nSection 3 \n\nEntrance to a building \n\nThe distance of the opening side of the outside door of a building from the inside corner of \n\nthe wall or other fixed obstacle outside the door shall be at least 400 millimetres.  \n\nThe landing in front of the outside door shall be at least 1,500 millimetres wide and at least \n\n1,500 millimetres long. \n\nSection 4 \n\nDoors \n\nThe clear width of the door and opening in a passageway inside a building, the door leading \nfrom the staircase to a dwelling and the door of the space referred to in section 9, subsection 2 \nand section 10 shall be at least 850 millimetres.",
+  "question": "What is the minimum number of parking spaces that shall be intended for the use of a person with mobility and functional impairment if parking spaces are provided for a building?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "12_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:33:00.721785Z"
+}

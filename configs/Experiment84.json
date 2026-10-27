@@ -1,0 +1,17 @@
+{
+  "pipeline": "text_only_simple_conversion_v8",
+  "LLM": "LOCALAI_GEMMA_4_31B_IT",
+  "experiment_ID": "exp_084",
+  "experiment_Name": "Method A v8 CODE-ACCORD full document, matched cases",
+  "experiment_Description": "Controlled non-direct-QA comparison, Method A. The source input is the dataset-provided full PDF text; v8 still sends only its 15-line keyword-centered physical-line windows to the model. CODE-ACCORD search terms are derived from the dataset question because the historical German value-key map does not support value='value'; this is an explicit input adaptation. The full-PDF dataset has 292 records; this configuration filters to the 290 filenames in the expanded-passage reference set. The source-match status and mapped PDF remain in request metadata. Uses Gemma 4 31B, temperature 1.0, five repetitions; historical Exp. 11 used Gemma 3 27B.",
+  "experiment_API": "http://localhost:4000/api/experiment",
+  "data_jsons_path": "../datasets/codeAccordValueExtractionFullPdf",
+  "matched_case_id_reference_dataset_path": "../datasets/codeAccordValueExtractionContext5Lines",
+  "expected_case_count": 290,
+  "input_source": "dataset_text",
+  "input_extent": "full_document",
+  "temperature": 1.0,
+  "prompt": "text_only_v5.txt",
+  "context_window_lines": 15,
+  "run_count": 1
+}

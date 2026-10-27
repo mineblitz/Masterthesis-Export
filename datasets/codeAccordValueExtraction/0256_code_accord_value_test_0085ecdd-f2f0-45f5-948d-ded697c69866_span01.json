@@ -1,0 +1,15 @@
+{
+  "order": 256,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "0085ecdd-f2f0-45f5-948d-ded697c69866",
+  "value_span_index": 1,
+  "content": "In addition, on one side of the toilet seat there shall be a free space of at least 800 millimetres.",
+  "question": "What is the minimum free space required on one side of the toilet seat?",
+  "value": "value",
+  "expected_value": "800 millimetres",
+  "metadata": {
+    "ID": "44_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:42:44.017240Z"
+}

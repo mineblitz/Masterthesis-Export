@@ -1,0 +1,15 @@
+{
+  "order": 163,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "50e89a86-e2be-439d-b230-79274cd7199b",
+  "value_span_index": 1,
+  "content": "These building types include all of \n\nthe following.\n\na.  Modular and portable buildings with a planned service life of more than two years (at one or \n\nmore sites), follow paragraphs 2.11 to 2.19.\n\nb.  Swimming pools, follow paragraph 2.20. \n\nc.  Shell and core developments, follow paragraphs 2.21 to 2.25.\n\nd.  Industrial sites, workshops and non-residential agricultural buildings, follow paragraph 2.26. \n\ne.  Buildings with low energy demand, follow paragraphs 2.27 to 2.32.\n\nNOTE: Industrial sites, workshops and non-residential agricultural buildings with low energy \ndemand and buildings with a planned service life of less than two years are exempt from the \nenergy efficiency requirements. See paragraph 0.11.\n\nBuilding Regulations 2010  \n\nApproved Document L Volume 2, 2021 edition \n\n13\n\nR24-27CONLINE VERSIONONLINE VERSION\fModular and portable buildings with a planned service life of more than two years\n2.11  Placing an existing module on a new site is considered by the Building Regulations to be the \n\nconstruction of a new building.\n\n2.12  Special considerations apply to modular and portable buildings with a planned service life of more \n\nthan two years.\n\na.  For modular and portable buildings at a single location, follow paragraphs 2.13 to 2.15. \n\nb.  For modular and portable buildings intended for use at more than one location, for example \n\nunder hire agreements, follow paragraphs 2.16 to 2.19.\n\nAt a single location\n\n2.13  Modular and portable buildings with a planned service life of more than two years at a single \n\nlocation should be shown to comply with the energy efficiency requirements.\n\n2.14  If more than 70% of the external envelope of this type of building will be created from sub-\n\nassemblies manufactured before the date when this approved document came into force, the \ntarget primary energy rate and target emission rate should be multiplied by the relevant factors \nfrom Table 2.2. \n\nNOTE: One way of demonstrating the date of manufacture of each sub-assembly is by relating the \nserial number to the manufacturer’s records.\n\n2.15  After initial manufacture, any work on a module should meet the standards in this document, \n\ntreating it as work on an existing building. Fabric elements that will be refurbished or replaced in \nmodular sub-assemblies should meet the minimum standards given in Section 4. Fixed building \nservices elements that will be replaced in modular sub-assemblies should meet the minimum \nstandards in Sections 5 and 6.",
+  "question": "Modular and portable buildings at a single location should be shown to comply with energy efficiency requirements if their planned service life is more than how many years?",
+  "value": "value",
+  "expected_value": "2 years",
+  "metadata": {
+    "ID": "81_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:31:27.251939Z"
+}

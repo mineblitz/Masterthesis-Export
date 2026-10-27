@@ -1,0 +1,15 @@
+{
+  "order": 260,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "2fad9e0f-fa0d-4a6b-9c63-152ef8828c4d",
+  "value_span_index": 1,
+  "content": "Including roof windows and curtain walling.\n\n5. \n6.  U-values for rooflights or rooflight-and-kerb assemblies should be based on the developed surface area of the \nrooflight (Ud-values), which is often greater than the area of the roof opening. Further guidance on Ud-values is \ngiven in the Building Research Establishment’s BR 443 and the National Association of Rooflight Manufacturers’ \nTechnical Document NTD02.\n\n7.  The limiting value for rooflights also applies to kerbs that are supplied as part of a single rooflight-and-kerb \n\nassembly sourced from the same supplier and for which the supplier can provide a combined Ud-value for the \nassembly. An upstand built on site should not exceed a U-value of 0.35W/(m2·K).\n\nNOTE: To meet the target fabric energy efficiency rate set out in Section 1, the energy efficiency  \nof some elements will need to be significantly better than the limiting standards in Table 4.1.\n\nLimiting standards in existing dwellings\n\nNew and replacement elements \n4.7  New fabric elements in existing dwellings should meet the limiting standards in Table 4.2. \n4.8  The U-value of a replacement fabric element in an existing dwelling should both:\n\na.  be no worse than that of the element being replaced\n\nb.  meet the limiting standards in Table 4.2.\n\n4.9  Guidance on when a new element must meet the standards in Table 4.2 is given in Section 10. \n\nElements that should meet the standards include both of the following. \n\na.  Elements in extensions to existing dwellings. \n\nb.  New or replacement elements in existing dwellings. \n\n4.10  If windows or fully glazed external pedestrian doors cannot meet the requirements of Table 4.2 because \n\nof the need to maintain the character of the building, either of the following should be met.\n\na.  These fittings should not exceed a centre pane U-value of 1.2W/(m2·K).\n\nb.  Single glazing should be supplemented with low-emissivity secondary glazing.\n\n24  Approved Document L Volume 1, 2021 edition \n\nBuilding Regulations 2010\n\nL1(a)Table 4.1 Limiting U-values for new fabric elements and air permeability in new dwellingsONLINE VERSIONONLINE VERSION\fElement type\n\nRoof(2) \n\nWall(2)(3)\n\nFloor(4)(5)\n\nSwimming pool basin(6)\n\nWindow(7)(8)(9)\n\nRooflight(11)(12)\n\nMaximum U-value(1) W/(m2·K)\n\n0.15\n\n0.18\n\n0.18\n\n0.25\n\n1.4 or Window Energy Rating(10) Band B minimum\n\n2.2\n\nDoors with >60% of internal face glazed(13)\n\n1.4 or Doorset Energy Rating(10) Band C minimum\n\nOther doors(13)(14)\n\n1.4 or Doorset Energy Rating(10) Band B minimum\n\nNOTES:\n1.",
+  "question": "What is the maximum U-value for an upstand built on site?",
+  "value": "value",
+  "expected_value": "0.35W/ ( m2K)",
+  "metadata": {
+    "ID": "115_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:43:12.397202Z"
+}

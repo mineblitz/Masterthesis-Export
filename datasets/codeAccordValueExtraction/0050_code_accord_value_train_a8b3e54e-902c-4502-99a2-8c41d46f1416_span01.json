@@ -1,0 +1,15 @@
+{
+  "order": 50,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a8b3e54e-902c-4502-99a2-8c41d46f1416",
+  "value_span_index": 1,
+  "content": "If there are more than 60 chairs in a space, they must be linked to one another in at least four groups, unless the chairs are placed around tables.",
+  "question": "More than how many chairs in a space must be linked to one another in at least four groups, unless the chairs are placed around tables?",
+  "value": "value",
+  "expected_value": "60",
+  "metadata": {
+    "ID": "106_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:17:07.010193Z"
+}

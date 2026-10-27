@@ -1,0 +1,15 @@
+{
+  "order": 42,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "ef4ec541-e1a7-47d4-9a83-94715d8900ba",
+  "value_span_index": 1,
+  "content": "Where one or more parking spaces are within a covered car park, the requirement to install electric vehicle charge points should be met by installing charge points in parking spaces that are not within a covered car park.",
+  "question": "What is the minimum number of parking spaces that must be within a covered car park for the requirement to install electric vehicle charge points to be met by installing charge points in parking spaces that are not within a covered car park?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "89_UK_DocS_InfrastructureForChargingOfElectricalVehicles"
+  },
+  "created_at": "2026-07-31T05:16:09.439572Z"
+}

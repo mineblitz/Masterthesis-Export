@@ -1,0 +1,15 @@
+{
+  "order": 83,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d34c0f60-8df0-4310-b5af-428c63225a6f",
+  "value_span_index": 1,
+  "content": "After a period of non-use of at least eight hours, the water temperature may not exceed 24 degrees Celsius.",
+  "question": "What is the maximum allowable water temperature after a period of non-use of at least eight hours?",
+  "value": "value",
+  "expected_value": "24 degrees Celsius",
+  "metadata": {
+    "ID": "60_Finnish_Health-WaterAndSewerage"
+  },
+  "created_at": "2026-07-31T05:20:53.791128Z"
+}

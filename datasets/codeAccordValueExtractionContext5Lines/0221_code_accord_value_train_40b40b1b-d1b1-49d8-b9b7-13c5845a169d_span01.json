@@ -1,0 +1,15 @@
+{
+  "order": 221,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "40b40b1b-d1b1-49d8-b9b7-13c5845a169d",
+  "value_span_index": 1,
+  "content": "Section 8 \n\n Domestic hot water ring duct \n\nThe domestic hot water ring duct of a new building may not have heat emitters or floor heating \n\nconnected to it.  \n\nIn connection with repair and alteration work, the heat emitters connected to the domestic hot \nwater ring duct may be replaced so that the heat emission capacity of the heat emitters to be \ninstalled does not exceed 200 Watts per room. Domestic hot water may, however, not be used \nfor floor heating. \n\nSection 9 \n\nPlumbing fixtures \n\nThe plumbing fixtures shall be suitable for their intended use. The functions and directions of \nmovement of the appliances for controlling water volume and temperature shall be safe. The \nstructure of the control appliance of the plumbing fixture shall be such that its surface tempera-\nture does not arise above 40 degrees Celsius. \n\nSection 10 \n\nWater meters \n\nThe water meter of a property shall be located in a place where it is easy to install, read and \n\nservice and where it cannot freeze.  \n\nA building shall have apartment-specific water meters for measuring the cold and hot water \nentering the apartment so that the water consumption indicated by the meters can be used as \nbasis for billing. The apartment-specific water meters shall be located in a place where they are \neasy to install, read and service. \n\n4 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fSection 11 \n\nConnecting a fire-prevention water system to a building’s water system \n\nA fire-prevention water system may be connected to a building’s water system with the per-\n\nmission of the water supply plant. \n\nThe fire-prevention water system may not cause health-related or other detriment to the build-\ning’s water system or to its functioning.",
+  "question": "What is the maximum surface temperature that the structure of the control appliance of the plumbing fixture shall not arise above?",
+  "value": "value",
+  "expected_value": "40 degrees Celsius",
+  "metadata": {
+    "ID": "71_Finnish_Health-WaterAndSewerage"
+  },
+  "created_at": "2026-07-31T05:38:31.528487Z"
+}

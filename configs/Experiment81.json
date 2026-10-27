@@ -1,0 +1,18 @@
+{
+  "pipeline": "text_only_simple_conversion_v36",
+  "LLM": "LOCALAI_GEMMA_4_31B_IT",
+  "experiment_ID": "exp_081",
+  "experiment_Name": "Method B v36 CODE-ACCORD expanded passage, matched cases",
+  "experiment_Description": "Controlled non-direct-QA comparison, Method B. Reuses v36's v35 single-pass baseline and bounded ReAct controller with five tools, four steps, a 6000 output-token budget, a three-consecutive-malformed-call limit, and baseline fallback. Per-run traces report finalized improvements, harmful revisions, unchanged fallbacks, tool failures, tokens, and runtime. Uses the same Gemma 4 31B, temperature 1.0, and five repetitions as direct-QA reference runs. Historical Exp. 73 used Gemma 3 27B and Exp. 72/v35; its 301/1080 versus 287/1080 aggregate difference includes fallbacks and is descriptive, not evidence of finalized-agent superiority.",
+  "experiment_API": "http://localhost:4000/api/experiment",
+  "data_jsons_path": "../datasets/codeAccordValueExtractionContext5Lines",
+  "matched_case_id_reference_dataset_path": "../datasets/codeAccordValueExtractionContext5Lines",
+  "expected_case_count": 290,
+  "input_source": "dataset_text",
+  "input_extent": "expanded_passage",
+  "temperature": 1.0,
+  "prompt": "text_only_v13.txt",
+  "agent_step_budget": 4,
+  "agent_token_budget": 6000,
+  "run_count": 1
+}

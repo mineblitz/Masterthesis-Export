@@ -1,0 +1,15 @@
+{
+  "order": 52,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "80221d2c-8ba8-4700-b219-c35fde50f35e",
+  "value_span_index": 1,
+  "content": "Chapter 5 \n\nWaste water system of a building \n\nSection 25 \n\nRemoval of waste water \n\nThe waste water system of a building may not cause health hazards, odour nuisance, sewer \n\noverflows, noise or environmental harm.  \n\nWaste water shall be conveyed to the sewer of the water supply plant or for purification prop-\n\nerty-specifically or to a cesspit. \n\nThe size of the sewer pipe may not diminish in the flow direction. \n\nSection 26 \n\nArrangement of drainage \n\nA water point shall incorporate a drainage point that is connected to the sewer via a drainage \nfixture. No drainage point is required for irrigation posts, fire posts, emergency sprinklers or \nindividual refrigeration or drinking appliance. \n\nNo more than two drainage wells may be connected to a floor drain and they may be located \nat a maximum distance of three meters from the floor drain. In the construction of a new building \nas well as in repair and alteration work corresponding to the construction of a new building, the \npremises to be fitted with a floor drain shall be: \n\n1. showers and bathrooms as well as wash rooms in connection with saunas; \n2. laundry room; \n3. heat distribution room; \n4. ventilation unit room; \n5. toilet facility intended for public use;  \n6. technical utility room with a possibility to water damage; \n7. car wash facility; \n8. special facilities cleansed by water rinsing. \n\nSection 27 \n\nWaste water pumping station \n\nIf waste water cannot be conveyed from the drainage points of a building with gravity unload-\ning via a gradient sewer, the waste water shall be pumped. The pumping station shall be water-\ntight and resistant to earth pressure and it may not cause odour problem. The waste water pump-\ning station shall be ventilated. \n\nThe pumping station shall be equipped with a malfunction detector.",
+  "question": "What is the maximum number of drainage wells that may be connected to a floor drain?",
+  "value": "value",
+  "expected_value": "2",
+  "metadata": {
+    "ID": "125_Finnish_Health-WaterAndSewerage"
+  },
+  "created_at": "2026-07-31T05:17:17.132223Z"
+}

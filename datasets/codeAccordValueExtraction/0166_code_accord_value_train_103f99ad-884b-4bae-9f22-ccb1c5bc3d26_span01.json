@@ -1,0 +1,15 @@
+{
+  "order": 166,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "103f99ad-884b-4bae-9f22-ccb1c5bc3d26",
+  "value_span_index": 1,
+  "content": "In an open garage of no more than five storeys, the maximum area may be used as the surface area of the storeys, even though the driveways between the various storeys are combined.",
+  "question": "What is the maximum number of storeys an open garage can have for the maximum area to be used as the surface area of the storeys?",
+  "value": "value",
+  "expected_value": "5",
+  "metadata": {
+    "ID": "110_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:31:41.806686Z"
+}

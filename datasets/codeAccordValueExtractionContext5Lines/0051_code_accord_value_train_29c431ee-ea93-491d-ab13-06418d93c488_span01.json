@@ -1,0 +1,15 @@
+{
+  "order": 51,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "29c431ee-ea93-491d-ab13-06418d93c488",
+  "value_span_index": 1,
+  "content": "NOTE: In many cases, it is likely that householders will be able to choose the lamp installed in the \nindividual space.\n\n6.58 Where installed in a new or existing dwelling, each internal light fitting should have lamps with a \n\nminimum luminous efficacy of 75 light source lumens per circuit-watt. \n\n6.59 Where installed in a new or existing dwelling, internal light fittings should have local controls to \n\nallow for the separate control of lighting in each space or zone. Controls may be manual, automatic \nor a combination of both.\n\n6.60 Where installed in a new or existing dwelling, fixed external lighting should have both of the \n\nfollowing controls.\n\na.  Automatic controls which switch luminaires off in response to daylight. \n\nb. \n\nIf luminous efficacy is 75 light source lumens per circuit-watt or less, automatic controls which \nswitch luminaires off after the area lit becomes unoccupied. If luminous efficacy is greater than \n75 light source lumens per circuit-watt, manual control is acceptable. \n\nBuilding automation and control systems\n6.61  Where a building automation and control system is installed, it should have appropriate control \n\ncapabilities for the dwelling, based on the type of building, its expected use and potential energy \nsavings. \n\n6.62 The system should be specified and installed according to the manufacturer’s instructions to ensure \n\nthat its overall performance meets a reasonable standard. \n\n6.63 For large or complex buildings, the guidance in Approved Document L, Volume 2: Buildings other \n\nthan dwellings should be followed.\n\nOn-site electricity generation and storage\n6.64 Where on-site electricity generation and storage is installed, such as photovoltaic panels or battery \nstorage, systems should be an appropriate size for the site, available infrastructure and on-site \nenergy demand.  \n\n6.65 The system should be specified and installed according to the manufacturer’s instructions to ensure \n\nthat the overall performance of the system meets a reasonable standard.",
+  "question": "Above what luminous efficacy is manual control acceptable?",
+  "value": "value",
+  "expected_value": "75 light source lumens per circuit-watt",
+  "metadata": {
+    "ID": "338_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:17:12.566491Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 47,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "656aa2fa-18cb-41ee-ae28-28deb3dffcc3",
+  "value_span_index": 1,
+  "content": "The water temperature of the water in the hot water system shall be at least 55 degrees Celsius and available from the hot water plumbing fixture within 20 seconds.",
+  "question": "What is the minimum required water temperature of the water in the hot water system?",
+  "value": "value",
+  "expected_value": "55 degrees Celsius",
+  "metadata": {
+    "ID": "61_Finnish_Health-WaterAndSewerage"
+  },
+  "created_at": "2026-07-31T05:16:50.279992Z"
+}

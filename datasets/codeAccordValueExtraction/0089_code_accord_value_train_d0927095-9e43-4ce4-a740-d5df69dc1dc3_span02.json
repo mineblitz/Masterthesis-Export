@@ -1,0 +1,15 @@
+{
+  "order": 89,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d0927095-9e43-4ce4-a740-d5df69dc1dc3",
+  "value_span_index": 2,
+  "content": "If the air flows of extract air categories 1 and 2 are combined into the same duct and category 2 air flow accounts for more than 10 of the combined air flow, the combined air flow is classified under category 2.",
+  "question": "Under which category is the combined air flow classified if the air flows of extract air categories 1 and 2 are combined into the same duct and category 2 air flow accounts for more than 10 of the combined air flow?",
+  "value": "value",
+  "expected_value": "2",
+  "metadata": {
+    "ID": "84_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:21:42.205022Z"
+}

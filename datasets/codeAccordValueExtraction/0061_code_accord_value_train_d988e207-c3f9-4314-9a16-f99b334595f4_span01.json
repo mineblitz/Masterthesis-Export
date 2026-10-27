@@ -1,0 +1,15 @@
+{
+  "order": 61,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d988e207-c3f9-4314-9a16-f99b334595f4",
+  "value_span_index": 1,
+  "content": "The tread must be no less than 270 millimetres.",
+  "question": "What is the minimum required tread?",
+  "value": "value",
+  "expected_value": "270 millimetres",
+  "metadata": {
+    "ID": "26_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:18:12.970674Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 18,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "e4fb8d18-8dbc-4351-a2df-d87f880f476a",
+  "value_span_index": 1,
+  "content": "The fire resistance time requirement for balconies is half that of the load-bearing structures of the storey.",
+  "question": "What is the fire resistance time requirement for balconies compared to that of the load-bearing structures of the storey?",
+  "value": "value",
+  "expected_value": "0.5",
+  "metadata": {
+    "ID": "90_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:12:42.870108Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 272,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "f420ae57-5656-4558-b1a3-1079e46bf6cc",
+  "value_span_index": 1,
+  "content": "In the case of the storey-level door of a dwelling, or if the number of people evacuating through the door exceeds 60, doors must open in the direction of the exit.",
+  "question": "If the number of people evacuating through a door exceeds how many must the doors open in the direction of the exit?",
+  "value": "value",
+  "expected_value": "60",
+  "metadata": {
+    "ID": "223_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:44:35.803412Z"
+}

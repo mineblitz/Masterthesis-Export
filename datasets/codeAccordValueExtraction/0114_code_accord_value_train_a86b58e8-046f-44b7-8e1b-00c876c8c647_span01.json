@@ -1,0 +1,15 @@
+{
+  "order": 114,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a86b58e8-046f-44b7-8e1b-00c876c8c647",
+  "value_span_index": 1,
+  "content": "Parapets in categories A to E and panel parts of walls acting as parapets, as well as their fasteners, shall be designed to the concentrated load Qk = 0.3 kN acting on a random spot.",
+  "question": "Parapets in categories from which letter to E shall be designed to the concentrated load Qk = 0.3 kN?",
+  "value": "value",
+  "expected_value": "A",
+  "metadata": {
+    "ID": "30_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:24:47.344900Z"
+}

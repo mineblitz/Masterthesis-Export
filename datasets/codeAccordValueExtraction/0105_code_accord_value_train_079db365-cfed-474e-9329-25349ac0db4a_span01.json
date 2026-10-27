@@ -1,0 +1,15 @@
+{
+  "order": 105,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "079db365-cfed-474e-9329-25349ac0db4a",
+  "value_span_index": 1,
+  "content": "In connection with the door of an outside space of an individual dwelling the level difference outside the door may be more than 20 millimetres if the level difference can, with reasonable effort, be eliminated with equipment in the outdoor space.",
+  "question": "What level difference outside the door of an outside space of an individual dwelling may be exceeded if the difference can be eliminated with equipment in the outdoor space?",
+  "value": "value",
+  "expected_value": "20 millimetres",
+  "metadata": {
+    "ID": "21_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:23:44.682173Z"
+}

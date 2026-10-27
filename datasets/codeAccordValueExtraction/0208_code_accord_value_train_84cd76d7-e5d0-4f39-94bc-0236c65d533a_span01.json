@@ -1,0 +1,15 @@
+{
+  "order": 208,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "84cd76d7-e5d0-4f39-94bc-0236c65d533a",
+  "value_span_index": 1,
+  "content": "in residential buildings of not more than two storeys, one exit of no less than 900 millimetres in width is permitted.",
+  "question": "In residential buildings of not more than how many storeys is one exit of no less than 900 millimetres in width permitted?",
+  "value": "value",
+  "expected_value": "2",
+  "metadata": {
+    "ID": "217_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:37:18.792538Z"
+}

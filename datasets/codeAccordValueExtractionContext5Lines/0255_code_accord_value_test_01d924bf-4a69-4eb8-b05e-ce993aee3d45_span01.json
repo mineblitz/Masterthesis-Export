@@ -1,0 +1,15 @@
+{
+  "order": 255,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "01d924bf-4a69-4eb8-b05e-ce993aee3d45",
+  "value_span_index": 1,
+  "content": "If meeting such a standard would create significant problems in relation to adjoining floor levels, a lesser standard \nmay be appropriate.\n\n26  Approved Document L Volume 1, 2021 edition \n\nBuilding Regulations 2010\n\nL1(a)ONLINE VERSIONONLINE VERSION\fContinuity of insulation\n4.14  Gaps in insulation can have a significant impact on heat loss and thermal bypass and create a risk \nof condensation and mould. The building fabric should be constructed so that the insulation is \nreasonably continuous across newly built elements. \n\n4.15  To ensure continuity of insulation in new dwellings, all of the following apply.\n\na.  Drawings should identify the insulation layer. The designer and installer should review drawings \n\nto ensure the insulation layer is continuous, buildable and robust.\n\nb.  Before elements are concealed by subsequent work, an on-site audit should be undertaken to \nconfirm that the designed details have been constructed. Photographs of the details should be \ntaken in line with the guidance in Appendix B.\n\nc.  Floors and foundations: insulation should be installed tight to the structure, without air gaps \n\nbetween insulation panels and at edges.\n\ni.  Perimeter insulation should be continuous and have a minimum thickness of 25mm.\n\nii.  Moisture-resistant insulation should be fitted below damp-proof course level and extend to \n\nthe foundation block/structure. \n\nd.  Windows and doors: should be installed in such a way that the thermal integrity of the insulated \n\nplane is maintained.\n\ni.  Tolerance around a window or door unit and the surrounding opening should be minimal \n\nand be in accordance with BS 8213-4.\n\nii.  Position: window or door units should be located with an overlap between the inner face \n\nof the unit and the inner face of the external leaf – for windows an overlap between 30mm \nand 50mm, and for doors 50mm – so that the window or door unit is contiguous with the \ninsulation layer of the external wall. \n\niii.  Fully insulated and continuous cavity closers should be used, installed tight to the insulation \nand cavity apertures. For door units, install perimeter insulation within the threshold zone \nor use a reinforced cavity closure.\n\ne.  Walls: insulation should be fitted without any air gaps and tight to the structure, cavity closers, \nlintels and cavity trays. Mortar snots should be removed to ensure a tight fit with the structure \nand cavities cleared of all debris.",
+  "question": "What is the minimum thickness required for perimeter insulation?",
+  "value": "value",
+  "expected_value": "25mm",
+  "metadata": {
+    "ID": "135_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:42:38.219613Z"
+}

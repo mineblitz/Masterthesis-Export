@@ -1,0 +1,15 @@
+{
+  "order": 3,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "3724fd47-22f7-432c-81a2-1abcb95c7df2",
+  "value_span_index": 1,
+  "content": "The total number of ventilators installed in a dwellings habitable rooms and kitchens should be no fewer than five, except in one bedroom properties, where there should be no fewer than four.",
+  "question": "Welcher konkrete Zahlen- oder Messwert wird in folgendem Satz gefordert: The total number of ventilators installed in a dwellings habitable rooms and kitchens should be no fewer than five, except in one bedroom properties, where there should be no fewer than four.",
+  "value": "value",
+  "expected_value": "5",
+  "metadata": {
+    "ID": "96_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-19T13:21:43.000461Z"
+}

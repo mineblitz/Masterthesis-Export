@@ -1,0 +1,15 @@
+{
+  "order": 185,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "bb309bf3-9e86-43d9-8b6e-ebff176d1c88",
+  "value_span_index": 1,
+  "content": "The sink is not more than 150mm deep with insulation to the underside to prevent scalding of a wheelchair users legs.",
+  "question": "What is the maximum depth of the sink?",
+  "value": "value",
+  "expected_value": "150mm",
+  "metadata": {
+    "ID": "96_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:34:36.120553Z"
+}

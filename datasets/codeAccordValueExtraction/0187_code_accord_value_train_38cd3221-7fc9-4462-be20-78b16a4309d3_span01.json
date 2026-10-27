@@ -1,0 +1,15 @@
+{
+  "order": 187,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "38cd3221-7fc9-4462-be20-78b16a4309d3",
+  "value_span_index": 1,
+  "content": "The area of openings in the newly created dwelling should not be more than 25 of the total floor area.",
+  "question": "What is the maximum area of openings in the newly created dwelling as a proportion of the total floor area?",
+  "value": "value",
+  "expected_value": "25",
+  "metadata": {
+    "ID": "490_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:34:46.875746Z"
+}

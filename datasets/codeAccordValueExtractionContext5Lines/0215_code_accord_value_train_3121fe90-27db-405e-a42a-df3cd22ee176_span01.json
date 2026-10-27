@@ -1,0 +1,15 @@
+{
+  "order": 215,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "3121fe90-27db-405e-a42a-df3cd22ee176",
+  "value_span_index": 1,
+  "content": "However, a horizontal gap in a protective part must be no higher than ten millimetres. \n\nA cube with edges of no more than 200 millimetres may pass between the upper edge of the \nbarrier and the protective part. A cube with edges of no more than 50 millimetres may pass \nbetween the lower edge of a barrier’s protective part and the landing or the upper surface or \nedge of a step. \n\nA cube of no more than 100 millimetres may pass between the stair steps. \n\nSection 9 \n\nHandrails \n\nOn stairs and ramps, a handrail must be installed for the entire length and on both sides of the \nstructure. Where necessary, two handrails, one above the other, must be installed in order to \ntake into account children and users of wheelchairs. A handrail must be designed and shaped so \nthat it allows a firm grip.  A handrail and its ending must be shaped safely and must continue \npast the start and end points of the structure. The handrail must continue onto the intermediate \nlanding without interruption.  \n\nIn public outdoor and indoor spaces, and in business and service premises, a handrail must \ncontinue at least 300 millimetres past the start and end points of the structure, and in the case of \nstairs or ramps that have a width exceeding 2.4 metres and are located in assembly areas, it must \n\n3 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\falso be placed so as to divide the passageway into parts no wider than the above-mentioned \nwidth.  \n\nChapter 3 \n\nSafety of structural elements and fixtures \n\nSection 10 \n\nBrightness and lighting \n\nA building and its environment must be lit in a way that enables safe use and servicing.",
+  "question": "How many handrails must be installed where necessary to take into account children and users of wheelchairs?",
+  "value": "value",
+  "expected_value": "2",
+  "metadata": {
+    "ID": "55_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:37:56.812503Z"
+}

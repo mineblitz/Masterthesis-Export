@@ -1,0 +1,15 @@
+{
+  "order": 60,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7f3f59a4-fc7e-4b14-8074-384f6cacf548",
+  "value_span_index": 2,
+  "content": "The height of a barrier in a dwellings indoor areas may, however, be at least 0.9 metres if the drop is less than three metres.",
+  "question": "The drop must be less than what distance for a barrier in a dwelling's indoor areas to be at least 0.9 metres in height?",
+  "value": "value",
+  "expected_value": "3 metres",
+  "metadata": {
+    "ID": "45_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:18:02.710199Z"
+}

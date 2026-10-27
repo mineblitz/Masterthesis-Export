@@ -1,0 +1,15 @@
+{
+  "order": 186,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "2cc3d5b0-d3b4-45f2-a00d-838fd3f9abbb",
+  "value_span_index": 1,
+  "content": "The provisions are designed to control all of the \nfollowing.\n\na.  Bio-effluents, as described in paragraph B2a.\n\nb.  Moisture levels, as described in paragraph B2b.\n\nc. \n\nIndoor air pollutants, as described in paragraph B2d.\n\nNOTE: The guidance in this approved document may not be adequate to address pollutants \nfrom flueless combustion space heaters. This approved document does not directly address \ncontamination from outdoor sources.\n\nNOTE: A strategy for achieving good indoor air quality includes reducing the release of water \nvapour and air pollutants. This approved document does not provide guidance on such strategies.\n\nPerformance criteria for buildings other than dwellings\nB2  The main guidance within this approved document focuses on offices. The main performance \n\ncriteria applied are as follows.\n\na.  There should be a supply rate, in the absence of tobacco smoke or other excessive pollutants, of \n10 litres per second per person. This will also satisfy the requirement of 8 litres per second per \nperson needed to control higher levels of bio-effluents.\n\nb.  There should be no visible mould on the inner surfaces of external walls of a properly heated \n\nbuilding with typical moisture generation.\n\nc.  Mould can grow whether the building is occupied or unoccupied, so the performance criteria \n\nfor surface water activity (as given in Table B2) should be met at all times, regardless of whether \nthere are occupants. The other pollutants listed in Table B1 are only of concern when the \nbuilding is occupied.\n\nd.  The performance criteria for indoor air pollutants are given in Table B1. \n\nBuilding Regulations 2010  \n\n Approved Document F Volume 2, 2021 edition \n\n27\n\nBONLINE VERSIONONLINE VERSION\fTable B1  Indoor air pollutants guidance values(1)(2)\n\nPollutant\n\nExposure limit\n\nExposure time\n\nCarbon monoxide (CO)\n\n100mg/m3\n\n15-minute average\n\n30mg/m3\n\n35mg/m3  \n(occupational exposure)\n\n1-hour average\n\n8-hour average\n\nNitrogen dioxide (NO2)\n\nFormaldehyde (CH2O)\n\nTVOC(3)\n\nOzone\n\n200μg/m3\n\n40μg/m3 \n\n100μg/m3\n\n10μg/m3\n\n300μg/m3\n\n100μg/m3\n\n1-hour average\n\n1-year average\n\n30-minute average\n\n1-year average\n\n8-hour average\n\nGuidance \n\nWHO, 2010\n\nWHO, 2010\n\nHSE, 2020\n\nWHO, 2010\n\nWHO, 2010\n\nWHO, 2010\n\nPHE, 2019\n\nECA, 1992/WHO, 2010\n\nDETR, 1994\n\nNOTES:\n1.  No safe levels can be recommended for benzene or trichloroethylene so they have not been considered in the \ndefinition of ventilation rates in buildings. The best strategy for reducing their concentration indoors may be to \ncontrol them at source.",
+  "question": "What should be the supply rate in the absence of tobacco smoke or other excessive pollutants?",
+  "value": "value",
+  "expected_value": "10 litres per second per person",
+  "metadata": {
+    "ID": "114_UK_DocF_V2_Ventilation"
+  },
+  "created_at": "2026-07-31T05:34:41.154395Z"
+}

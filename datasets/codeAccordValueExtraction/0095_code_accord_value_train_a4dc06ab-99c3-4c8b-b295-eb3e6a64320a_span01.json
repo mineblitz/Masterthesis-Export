@@ -1,0 +1,15 @@
+{
+  "order": 95,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a4dc06ab-99c3-4c8b-b295-eb3e6a64320a",
+  "value_span_index": 1,
+  "content": "The free height from the ground or from the surface of a driveway or walkway of the lower edge of a structural element, device or equipment protruding from the building, such as a balcony, bay window, sign, lighting device or awning, must be at least 2.2 metres, unless the area is protected so as to prevent the danger of collision.",
+  "question": "What is the minimum free height required from the ground or from the surface of a driveway or walkway of the lower edge of a structural element, device or equipment protruding from the building?",
+  "value": "value",
+  "expected_value": "2.2 metres",
+  "metadata": {
+    "ID": "99_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:22:44.755628Z"
+}

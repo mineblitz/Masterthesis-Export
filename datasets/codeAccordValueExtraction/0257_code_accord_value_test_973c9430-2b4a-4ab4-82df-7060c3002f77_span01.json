@@ -1,0 +1,15 @@
+{
+  "order": 257,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "973c9430-2b4a-4ab4-82df-7060c3002f77",
+  "value_span_index": 1,
+  "content": "The design temperature difference for the community heating primary circuit should be a minimum of 20C.",
+  "question": "What is the minimum design temperature difference for the community heating primary circuit?",
+  "value": "value",
+  "expected_value": "20C",
+  "metadata": {
+    "ID": "292_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:42:49.352450Z"
+}

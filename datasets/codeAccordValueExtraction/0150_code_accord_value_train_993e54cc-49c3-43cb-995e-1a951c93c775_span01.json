@@ -1,0 +1,15 @@
+{
+  "order": 150,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "993e54cc-49c3-43cb-995e-1a951c93c775",
+  "value_span_index": 1,
+  "content": "When a warning sign is not posted, the areas shall be designed to an axle load Qk and also to an axle group load equal to 190 kN.",
+  "question": "To what axle group load shall the areas be designed when a warning sign is not posted?",
+  "value": "value",
+  "expected_value": "190 kN",
+  "metadata": {
+    "ID": "25_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:30:12.091139Z"
+}

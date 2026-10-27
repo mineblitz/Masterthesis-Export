@@ -1,0 +1,15 @@
+{
+  "order": 259,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "371e1755-8bb5-456e-bf66-5a50f4c19d59",
+  "value_span_index": 1,
+  "content": "Where there is full-height structural guarding, if you provide a second (lower) handrail, the vertical height from the pitch line of the steps (or the surface of the ramp) to the top of the second (lower) handrail should be 600mm.",
+  "question": "Where there is full-height structural guarding, what should be the vertical height from the pitch line of the steps (or the surface of the ramp) to the top of the second (lower) handrail?",
+  "value": "value",
+  "expected_value": "600mm",
+  "metadata": {
+    "ID": "50_UK_DocK_ProtectionFromFalling"
+  },
+  "created_at": "2026-07-31T05:43:08.257136Z"
+}

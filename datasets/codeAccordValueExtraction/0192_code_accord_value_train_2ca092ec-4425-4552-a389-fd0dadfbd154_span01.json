@@ -1,0 +1,15 @@
+{
+  "order": 192,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "2ca092ec-4425-4552-a389-fd0dadfbd154",
+  "value_span_index": 1,
+  "content": "NOTE: A floor level with a gradient of 1:20 or steeper should be designed as a ramp.",
+  "question": "A floor level with a gradient of what or steeper should be designed as a ramp?",
+  "value": "value",
+  "expected_value": "1:20",
+  "metadata": {
+    "ID": "54_UK_DocK_ProtectionFromFalling"
+  },
+  "created_at": "2026-07-31T05:35:19.664294Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 130,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7c8f6c05-769d-46a8-9dc6-84b509bf8d9c",
+  "value_span_index": 3,
+  "content": "The fire compartmenting requirement for the balcony slab of a glazed balcony of a building exceeding two storeys is EI 30; however, minor sealing parts and penetrations may be class E 15.",
+  "question": "What fire class may minor sealing parts and penetrations of the balcony slab of a glazed balcony of a building exceeding two storeys be?",
+  "value": "value",
+  "expected_value": "E 15",
+  "metadata": {
+    "ID": "134_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:27:07.636963Z"
+}

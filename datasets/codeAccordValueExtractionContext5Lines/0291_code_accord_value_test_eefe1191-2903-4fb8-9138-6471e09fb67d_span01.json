@@ -1,0 +1,15 @@
+{
+  "order": 291,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "eefe1191-2903-4fb8-9138-6471e09fb67d",
+  "value_span_index": 1,
+  "content": "The dynamic thermal modelling \n\nmethod in this section applies limits to these choices, which are detailed in paragraph 2.6. These \nlimits should be applied when following the guidance in CIBSE’s TM59. \n\n2.6  All of the following limits on CIBSE’s TM59, section 3.3, apply.\n\na.  When a room is occupied during the day (8am to 11pm), openings should be modelled to do all \n\nof the following. \n\ni.  Start to open when the internal temperature exceeds 22°C.\n\nii.  Be fully open when the internal temperature exceeds 26°C.\n\niii.  Start to close when the internal temperature falls below 26°C.\n\niv.  Be fully closed when the internal temperature falls below 22°C. \n\n8 \n\nApproved Document O, 2021 edition \n\nBuilding Regulations 2010\n\nO1ONLINE VERSIONONLINE VERSION\fb.  At night (11pm to 8am), openings should be modelled as fully open if both of the following apply.\n\ni.  The opening is on the first floor or above and not easily accessible.\n\nii.  The internal temperature exceeds 23°C at 11pm. \n\nc.  When a ground floor or easily accessible room is unoccupied, both of the following apply.\n\ni. \n\nIn the day, windows, patio doors and balcony doors should be modelled as open, if this can \nbe done securely, following the guidance in paragraph 3.7 below.\n\nii.  At night, windows, patio doors and balcony doors should be modelled as closed.\n\nd.  An entrance door should be included, which should be shut all the time. \n\nAcceptable strategies for reducing overheating risk\n\nLimiting solar gains \n2.7  Solar gains in summer should be limited by any of the following means. \n\na.  Fixed shading devices, comprising any of the following. \n\ni.  Shutters.\n\nii.  External blinds.\n\niii.  Overhangs.\n\niv.  Awnings.\n\nb.  Glazing design, involving any of the following solutions.\n\ni.  Size.\n\nii.",
+  "question": "What internal temperature is exceeded at 11pm?",
+  "value": "value",
+  "expected_value": "23C",
+  "metadata": {
+    "ID": "53_UK_DocO_Overheating"
+  },
+  "created_at": "2026-07-31T05:46:11.853762Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 108,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "9952f64d-e0df-4b03-84af-150782f81387",
+  "value_span_index": 1,
+  "content": "Access to and use of buildings other than dwellings Approved Document M Volume 2ONLINE VERSIONONLINE VERSION \n\fHORIZONTAL AND VERTICAL CIRCULATION IN BUILDINGS \nOTHER THAN DWELLINGS \n\nM1/M2\n\nHandrails to internal steps, \nstairs and ramps\n\nDesign considerations\n\n3.54  The design considerations for handrails \nare as those for ‘Handrails to external \nstepped and ramped access’ in 1.34 to 1.36.\n\nProvisions\n\n3.55  Handrails to internal steps, stairs and \nramps will satisfy Requirement M1 or M2 if \nthey comply with Approved Document K, \nsections 1–3.\n\nInternal stairs\n\nDesign considerations\n\n3.50  With the exception of the need for \nhazard warning surfaces on landings, other \ndesign considerations for internal stairs are \nas those for ‘Stepped access’ (see 1.29 \nto 1.32). It is not reasonable to require a \nhazard warning surface at the head of \ninternal stairs since there is no recognised \nwarning surface for use internally which \ncan be guaranteed not to constitute a trip \nhazard when used alongside flooring \nsurfaces with different frictional resistance \ncharacteristics. However, designers should \nbe aware of the potential risk of having a \nstair directly in line with an access route. \nFor mobility-impaired people, a going of \nat least 300mm is preferred.\n\nProvisions\n\n3.51  Internal stairs will satisfy Requirement \nM1 or M2 if they comply with Approved \nDocument K, section 1.\n\nNote: Diagram 12 has been moved to \nApproved Document K, Section 1, all other \nnumbering remains the same.\n\nInternal ramps\n\nDesign considerations\n\n3.52  With the exception of issues relating \nspecifically to the external environment, \nthe design considerations for internal ramps \nare as those for ‘Ramped access’ (see 1.19 \nto 1.25). It is worth reiterating that ramps \nare not necessarily safe and convenient for \nambulant disabled people. For example, some \npeople who can walk but have restricted \nmobility find it more difficult to negotiate a \nramp than a stair.",
+  "question": "What is the preferred minimum going for mobility-impaired people?",
+  "value": "value",
+  "expected_value": "300mm",
+  "metadata": {
+    "ID": "124_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:24:01.106197Z"
+}

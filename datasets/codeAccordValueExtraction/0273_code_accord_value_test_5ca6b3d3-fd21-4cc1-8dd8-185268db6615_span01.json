@@ -1,0 +1,15 @@
+{
+  "order": 273,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "5ca6b3d3-fd21-4cc1-8dd8-185268db6615",
+  "value_span_index": 1,
+  "content": "The doorset should be manufactured from solid or laminated timber with a minimum density of 600kg/m3.",
+  "question": "What is the minimum density of the solid or laminated timber that the doorset should be manufactured from?",
+  "value": "value",
+  "expected_value": "600kg/m3",
+  "metadata": {
+    "ID": "26_UK_DocQ_Security_Dwellings"
+  },
+  "created_at": "2026-07-31T05:44:41.270736Z"
+}

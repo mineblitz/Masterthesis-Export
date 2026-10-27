@@ -1,0 +1,15 @@
+{
+  "order": 116,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "cc72106e-9e7f-47cf-8a95-0173a8305dad",
+  "value_span_index": 1,
+  "content": "Chapter 5 \n\nBuilding’s base floor and wall structures facing the ground \n\nSection 18 \n\nBase floor in contact with the ground \n\nThe upper surface of the floor of the base floor structure must be located at the minimum 0.3 \nmetres above the ground surface outside the building except for the floors of the spaces that are \neither partially or wholly below the ground surface. \n\nIf the upper surface of the floor is, for some specific reason, less than 0.3 metres above the \nground compared to the surrounding ground surface, the building designer and special designer \nshall, in accordance with their respective duties, pay particular attention to the moisture perfor-\nmance of the structure.  \n\nSection 19 \n\nBase floor with the crawl space \n\nNo water must accumulate in the crawl space under the base floor. The crawl space must be \nventilated. Moisture in the crawl space must not damage the functionality or durability of struc-\ntures. \n\nSection 20 \n\nCrawl space height and access \n\nIn a new building, the crawl space height must be 0.8 metres on average at the minimum. The \ncrawl space must be accessible for inspections and maintenance of the equipment and systems \nlocated there. \n\nSection 21 \n\nWall structures against the ground \n\nThe structure of the exterior wall against the ground must be waterproofed or isolated against \nwater pressure or a structurally managed water removal system allowing the cellar wall to dry \nin  an  outward  direction  must  be  used  to  prevent  moisture  from  the  surrounding  ground  and \nstorm water from penetrating the wall structure. Waterproofing or water pressure barrier must \nbe located on the outer surface of the exterior wall structure against the ground or inside the \nexterior thermal insulation facing the ground.  \n\nSection 22 \n\nMoisture transferred from the foundation wall and base floor \n\nMoisture from the foundation wall and the base floor’s concrete slab must not transfer harm-\n\nfully to the wooden sole plates or upper wall and floor structures.  \n\nSection 23 \n\nStructures exposed to water pressure \n\nStructures  exposed  to  water  pressure  must  withstand  continuous  water  pressure  effects \nthroughout the planned service life of the structure.",
+  "question": "What is the minimum average crawl space height required in a new building?",
+  "value": "value",
+  "expected_value": "0.8 metres",
+  "metadata": {
+    "ID": "83_Finnish_Health-Humidity"
+  },
+  "created_at": "2026-07-31T05:24:58.069422Z"
+}

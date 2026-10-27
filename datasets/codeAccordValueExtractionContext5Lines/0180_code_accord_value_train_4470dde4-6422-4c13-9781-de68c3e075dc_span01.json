@@ -1,0 +1,15 @@
+{
+  "order": 180,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "4470dde4-6422-4c13-9781-de68c3e075dc",
+  "value_span_index": 1,
+  "content": "In a mechanical system, \nthere  shall  be  a  clearly  labelled  stop  switch,  which  shall  be  located  in  an  easily  accessible \nplace. In a natural ventilation system, the ventilation valves shall be easy to close. \n\nSection 9 \n\nOutdoor air flows \n\nA special designer shall design the ventilation system so that an outdoor air flow required \nfor healthy, safe and comfortable indoor air quality can be delivered to the occupiable spaces. \nThe outdoor air flow to the occupiable spaces shall be designed to be a minimum of 6 dm3/s \nper person during the design occupancy period where there is no need for additional air flow \narising  from  the  intended  use  of  the  space.  The  outdoor  air  flow  of  the  entire  building, \nhowever, shall be designed to be a minimum of 0.35 (dm3/s)/m2 of floor surface area during \nthe design  occupancy  period  where there is  no  need for additional air  flow arising  from  the \nspecial  nature  of  the  intended  use  of  a  space  in  the  building.  The  outdoor  air  flow  of  a \ndwelling unit, however, shall be designed to be a minimum of 18 dm3/s. \n\nSection 10 \n\nControl of air flows  \n\nIt shall be possible to control air flows in accordance with load or air quality according to \n\nthe occupancy situation. \n\nThe  control  of  air  flows  in  a  dwelling  unit  shall  be  designed in  a  manner  whereby  supply \nand extract air flows can be controlled either at building or dwelling unit level so that they can \nbe  increased  to  a  level  at  least  30%  above  the  air  flows  of  the  design  occupancy  period.  If \nventilation can be controlled at dwelling unit level, the dwelling unit’s supply and extract air \nflows  may  be  reduced  by  no  more  than  60%  from  the  air  flows  of  the  design  occupancy \nperiod.  \n\nThe outdoor air flow for a building other than a residential building shall be a minimum of \n0.15 (dm³/s)/m² of floor surface area outside the design occupancy period and the air shall be \nexchanged in all rooms.  \n\nThis section does not apply to such an extension of a building or increase of gross floor area \nwhere  the  existing  ventilation  system  can  be  used  to  provide  ventilation  and  the  quality  of \nindoor air in the building is not impaired. \n\n4 \n\n \n \n \n \n \n \n \n \n \n\fSection 11 \n\nAir flows in parking garages for motor vehicles  \n\nA  special  designer  shall  design  the  ventilation  air  flows  of  a  parking  garage  for  motor \nvehicles  so  that  air  impurities  do  not  cause  health  hazards  for  users.",
+  "question": "What is the minimum designed outdoor air flow of a dwelling unit?",
+  "value": "value",
+  "expected_value": "18 dm3/s",
+  "metadata": {
+    "ID": "54_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:33:45.143081Z"
+}

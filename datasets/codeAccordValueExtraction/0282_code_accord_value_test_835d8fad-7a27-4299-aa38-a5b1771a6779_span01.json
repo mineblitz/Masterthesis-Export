@@ -1,0 +1,15 @@
+{
+  "order": 282,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "835d8fad-7a27-4299-aa38-a5b1771a6779",
+  "value_span_index": 1,
+  "content": "In large building complexes, such as retail parks and large sports centres, there should be one wheelchair-accessible unisex toilet capable of including an adult changing table.",
+  "question": "How many wheelchair-accessible unisex toilets capable of including an adult changing table should there be in large building complexes?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "178_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:45:28.034589Z"
+}

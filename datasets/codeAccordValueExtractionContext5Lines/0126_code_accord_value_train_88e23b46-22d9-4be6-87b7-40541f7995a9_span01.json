@@ -1,0 +1,15 @@
+{
+  "order": 126,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "88e23b46-22d9-4be6-87b7-40541f7995a9",
+  "value_span_index": 1,
+  "content": "Section 41 \n\nLift used in rescue and fire-fighting work \n\nA lift must be available for use in rescue and extinguishing work (firefighting lift); \n1) in areas above the entrance level when the distance of the floor of the uppermost storey \n\nexceeds 38 metres from the building’s entrance level; \n\n24 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f2) in areas below the entrance level when the distance of the floor of the basement storey \nexceeds 14 metres from the building’s entrance level and the surface area of that basement sto-\nrey’s evacuation area exceeds 800 m2; \n\nThe internal dimensions of the lift cage must be suitable for the conveyance of a stretcher. \n\nSection 42 \n\nSmoke extraction \n\nIn  order  to  enhance  the  efficiency  of  fire-fighting  and  rescue  operations,  means  of  smoke \nextraction shall be designed and constructed in the building so that smoke can be extracted from \nthe different premises in the building. \n\nIn exit passageways and fire-compartmented elevator shafts, means must be arranged for both \n\nsmoke extraction and flow of replacement air.  \n\nMeans shall be provided for smoke extraction from the spaces of the basement storey, so that \nit  will  not  be  necessary  to  use  exit  passageways  or  compartmented  extinguishing  routes  for \nsmoke extraction. \n\nIf so required on justified grounds, smoke extraction shall be arranged using special measures, \nsuch as smoke vents, smoke venting windows, smoke venting fans or windows located in the \nupper part of the rooms and that are easy to open. \n\nSection 43 \n\nFixed dry riser \n\nA building shall be provided with a permanently installed dry riser that is suitable for its pur-\n\npose for transporting water for fire extinguishing:  \n\n1) in the premises above the entry level of the building, when the distance of the uppermost \n\nfloor level from the entry level exceeds 24 metres; \n\n2) in the premises below the entry level of the building, when the distance of the basement \n\nstorey floor from the entry level exceeds 14 metres. \n\n1 \n\nSection 44 \n\nEntry into force \n\nThis Decree enters into force on 1 January 2018.  \nUpon the entry into force of this Decree, pending projects shall be subject to the rules valid at \n\nthe time of entry into force of this Decree. \n\nHelsinki, 28 November 2017 \n\nKimmo Tiilikainen, Minister for Housing, Energy and the Environment \n\nJorma Jantunen, Senior Engineer \n\n25",
+  "question": "What is the distance of the uppermost floor level from the entry level above which a building must be provided with a permanently installed dry riser in the premises above the entry level?",
+  "value": "value",
+  "expected_value": "24 metres",
+  "metadata": {
+    "ID": "254_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:26:43.239148Z"
+}

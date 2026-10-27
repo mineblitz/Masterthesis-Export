@@ -1,0 +1,15 @@
+{
+  "order": 194,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "11f2902d-29c2-474e-97d0-628a2a97a666",
+  "value_span_index": 1,
+  "content": "Level differences of over 500 millimetres must be equipped with an appropriate safety barrier, railing or handrail.",
+  "question": "Over what level difference must an appropriate safety barrier, railing or handrail be equipped?",
+  "value": "value",
+  "expected_value": "500 millimetres",
+  "metadata": {
+    "ID": "109_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:35:34.067206Z"
+}

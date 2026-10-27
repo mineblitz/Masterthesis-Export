@@ -1,0 +1,15 @@
+{
+  "order": 133,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "f7935bb4-9e5f-4e91-bbf1-54e45c1ef24c",
+  "value_span_index": 1,
+  "content": "Section 5 of the Government Decree on the Accessibility of Buildings (241/2017) shall \napply to the access routes leading to accessible viewing areas. \n\nChapter 6 \n\nSafety of servicing \n\nSection 25 \n\nServicing possibilities \n\nIt must be possible to access and service all parts of a building that require regular cleaning, \nsweeping,  maintenance  or  inspection  without  endangering  the  safety  of  employers  and \nbystanders.  \n\nThere  must  be  safe  and  easily  accessible,  uninterrupted  access  routes  to  any  chimneys, \nventilation equipment and other building equipment and structural elements that are located on \nthe roof of the building and that must be accessed regularly. A roof with a pitch greater than 1:8 \nmust  be  constructed  making  appropriate  use  of  walkways,  roof  ladders,  safety  ladders,  roof \nstairs, roof treads and foot rails. \n\nIn buildings more than 9 metres and at most 28 metres in height, the attic and roof must be \naccessible  via  the  interior  and  exterior  of  the  building;  in  buildings  more  than  28  metres  in \nheight, these must be accessible via the interior. \n\nA building with a height exceeding 9 metres must be equipped with anchoring structures for \nsafety  lines.  A  building  must  also  have  anchoring  structures  and  equipment  for  suspended \nscaffolds if no other functional solution has been designed for façade maintenance. \n\nChapter 7 \n\nSafety of vehicles and goods transport \n\nSection 26 \n\nGoods transport and maintenance traffic at the building site \n\nThe vehicle traffic area of a building and its courtyard must be safe and appropriate. \nA safe and marked access route must be reserved for pedestrians in connection with vehicle \ntraffic and goods transport routes, doors and gates in the yards of buildings other than single-\nfamily houses, if pedestrian traffic through them is necessary. \n\nThe  structures  and  arrangements  for  the  supply  of  goods  in  a  building  must  be  safe  and \nappropriate.  The  loading  dock  and  ramp  must  be  proportionate  to  the  size  of  loads  and  the \namount of goods transport.",
+  "question": "A building must be equipped with anchoring structures for safety lines if its height exceeds what value?",
+  "value": "value",
+  "expected_value": "9 metres",
+  "metadata": {
+    "ID": "127_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:27:27.423456Z"
+}

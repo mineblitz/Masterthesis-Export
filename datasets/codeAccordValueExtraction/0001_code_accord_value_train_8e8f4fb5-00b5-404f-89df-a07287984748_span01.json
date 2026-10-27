@@ -1,0 +1,15 @@
+{
+  "order": 1,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "8e8f4fb5-00b5-404f-89df-a07287984748",
+  "value_span_index": 1,
+  "content": "In buildings with a total useful floor area greater than 1000m2, automatic meter reading and data collection facilities should be installed.",
+  "question": "Welcher konkrete Zahlen- oder Messwert wird in folgendem Satz gefordert: In buildings with a total useful floor area greater than 1000m2, automatic meter reading and data collection facilities should be installed.",
+  "value": "value",
+  "expected_value": "1000m2",
+  "metadata": {
+    "ID": "229_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-19T13:21:42.991003Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 99,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "dcc583b1-8c4c-42cf-a1ed-e8907de56254",
+  "value_span_index": 1,
+  "content": "The rise of the indoor steps of other spaces intended for everyday use may be no more than 180 millimetres, and the tread must be no less than 270 millimetres.",
+  "question": "What is the maximum rise allowed for the indoor steps of other spaces intended for everyday use?",
+  "value": "value",
+  "expected_value": "180 millimetres",
+  "metadata": {
+    "ID": "23_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:23:09.076900Z"
+}

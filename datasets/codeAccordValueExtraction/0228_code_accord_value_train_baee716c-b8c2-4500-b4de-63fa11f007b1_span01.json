@@ -1,0 +1,15 @@
+{
+  "order": 228,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "baee716c-b8c2-4500-b4de-63fa11f007b1",
+  "value_span_index": 1,
+  "content": "A minimum of one in five of the remaining parking spaces must have access to cable routes.",
+  "question": "What is the minimum number in five of the remaining parking spaces that must have access to cable routes?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "83_UK_DocS_InfrastructureForChargingOfElectricalVehicles"
+  },
+  "created_at": "2026-07-31T05:39:18.618162Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 131,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "c766f874-d4aa-45b8-89f7-20b08db787c6",
+  "value_span_index": 1,
+  "content": "The total height of the barrier must be one metre if the drop is no more than six metres.",
+  "question": "What must be the total height of the barrier if the drop is no more than six metres?",
+  "value": "value",
+  "expected_value": "1 metre",
+  "metadata": {
+    "ID": "43_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:27:12.089498Z"
+}

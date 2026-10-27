@@ -1,0 +1,15 @@
+{
+  "order": 236,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "81f14fc1-af5d-45e8-8725-94d2510e4701",
+  "value_span_index": 1,
+  "content": "The outside door of a building and the door of a space serving the use of the building shall \n\nfunction so that it is easy to open by a person with mobility and functional impairment.  \n\n2 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fSection 5 \n\nPassageway inside a building \n\nPassageway inside a non-residential building and common spaces of a residential building \n\nshall be easily noticeable and have a smooth and non-slippery surface. \n\nIf the passageway referred to in subsection 1 has a width of less than 1,500 millimetres, the \npassageway shall have a turning space with a diameter of at least 1,500 millimetres at least every \n15 metres. \n\nSection 6 \n\nOther spaces in a building \n\nSpaces of a non-residential building and common spaces of a residential building as well as \nthe fixtures, fittings and fixed equipment in them shall be suitable for persons with mobility and \nfunctional impairment.  \n\nA residential building that under section 7 shall in addition to stairs be equipped with a lift \nshall  have  a  turning  space  with  a  diameter  of  at  least  1,300  millimetres  in  the  hallway  and \nkitchen of the dwelling. \n\nA dwelling that is intended for service housing or supported housing of a person with mobility \nand functional impairment shall, irrespective of the number of storeys in the building, have a \nturning  space  with  a  diameter  of  at  least  1,500  millimetres  in  the  hallway  and  kitchen.  The \ndimensions  of  the  dwelling  shall  also  in  other  respects  be  such  that  they  enable  the  use  of \nassistive devices and the provision of assistance. \n\nSection 7 \n\nConnection between different levels in a residential building \n\nIn  addition  to  stairs,  a  residential  building  shall  also  be  equipped  with  a  lift  if  entry  to  a \ndwelling in the building is on the third floor or higher, the entrance floor level included. If the \nentrance to the building is between floor levels, the lower of them is considered the entrance \nfloor level. \n\nThe lift shall provide access to the entrance level and each level with entry to a dwelling or a \n\nspace serving the use of the building.  \n\nThe cabin of the lift referred to in subsection 1 above shall be at least 1,100 millimetres wide \non its door side, and at least 1,400 millimetres deep.",
+  "question": "What is the minimum diameter required for a turning space in the hallway and kitchen of a dwelling intended for service housing or supported housing of a person with mobility and functional impairment?",
+  "value": "value",
+  "expected_value": "1500 millimetres",
+  "metadata": {
+    "ID": "29_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:40:06.100153Z"
+}

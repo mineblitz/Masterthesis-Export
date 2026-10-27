@@ -1,0 +1,15 @@
+{
+  "order": 32,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "eeb4239f-3819-475c-ad20-756bed80c4ff",
+  "value_span_index": 1,
+  "content": "The  ventilation  air  flow  shall  be  calculated  in  accordance  with  section  10.  Demand-\ncontrolled  ventilation  is  not  taken  into  account  when  calculating  reference  heat  losses  and \ndesign solution heat losses. The ventilation operating time shall be calculated by adding one \nhour before and one hour after the building’s occupancy period in accordance with section 11. \nThis  addition  is  not  made  for  buildings  that  are  in  continuous  occupancy.  For  buildings  of \nintended use category 9, the building’s design values shall be used as air flows and ventilation \noperating time. \n\nIn reference heat loss calculations, the value used as the annual efficiency of heat recovery \nfrom ventilation extract air of the building’s ventilation system shall be 55%. In a building’s \nreference  heat  loss  calculations,  the  value  of  the  annual  efficiency  of  heat  recovery  from \nventilation extract air of an individual space is 0% if the impurity of extract air prevents the \nfunctioning of heat recovery, the temperature of the space during the heating season is below \n+10 °C and no heat is recoverable cost-effectively from extract air or if the functioning of the \nventilation system is based on pressure differences caused mainly by differences in height and \ntemperature and the action of the wind. \n\nIf mechanical ventilation is used, the annual efficiency of the extract air heat recovery of the \nair handling unit shall be determined by using the heat recovery equipment’s properties and \n\n12 \n\n \n \n \n \n \n \n \n\fthe  design  air  flows  of  the  air  handling  unit  as  well  as  weather  data  for  climatic  zone  I \nprovided in Annex 1.  \n\nThe annual efficiency of the extract air heat recovery of two or more air handling units shall \nbe determined as the weighted annual efficiency of the design air flows and operating times. \nThe heat loss from ventilation for the building’s design solution shall be calculated by using \nthe  annual  efficiency  of  the  extract  air  heat  recovery  determined  in  this  manner  and  the  air \nflow values and operating times in accordance with subsection 3. \n\nChapter 4 \n\nMiscellaneous provisions \n\nSection 27 \n\nBuilding airtightness \n\nThe air leakage rate (q50) of a building envelope may be a maximum of 4.0 m3/(h m2).",
+  "question": "In reference heat loss calculations, what shall be the value used as the annual efficiency of heat recovery from ventilation extract air of the buildings ventilation system?",
+  "value": "value",
+  "expected_value": "55",
+  "metadata": {
+    "ID": "151_Finnish_EnergyEfficiency"
+  },
+  "created_at": "2026-07-31T05:14:51.063270Z"
+}

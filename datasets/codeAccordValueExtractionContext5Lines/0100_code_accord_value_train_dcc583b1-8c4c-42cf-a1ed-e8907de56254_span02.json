@@ -1,0 +1,15 @@
+{
+  "order": 100,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "dcc583b1-8c4c-42cf-a1ed-e8907de56254",
+  "value_span_index": 2,
+  "content": "The stairs between floor levels must be covered. If a residential block of flats does not have a \nlift, the stairs between floor levels must have natural light and at least one intermediate landing. \n\nSection 4 \n\nDimensions of indoor staircases \n\nThe ratio between the riser and the tread of stair steps must be such that the staircase is easy \n\nto use for its intended purpose.   \n\nIn the entrance halls and other indoor areas of administrative, service and business premises \nand in assembly areas, the riser of the steps must be no more than 160 millimetres and the tread \nmust be no less than 300 millimetres. The riser of the indoor steps of dwelling units and living \nquarters  may  be  no  more  than  190  millimetres,  and  the  tread  must  be  no  less  than  250 \nmillimetres. The rise of the indoor steps of other spaces intended for everyday use may be no \nmore than 180 millimetres, and the tread must be no less than 270 millimetres. If stairs are used \nonly as an emergency exit and if they lead to spaces in a dwelling or accommodation facility \nother than those that are necessary for living, the riser may be no more than 220 millimetres and \nthe tread must be no less than 220 millimetres.  \n\nThe riser of the steps in an exit may be no more than 180 millimetres. The tread must be no \nless than 270 millimetres. If the stairs are located in an exit that is not also used for ordinary \nmovement within the building, the riser of the steps may be a maximum of 200 millimetres. \n\nSection 5 \n\nDimensions of outdoor staircases \n\nThe tread of steps in covered or heated outdoor staircases must be no less than 300 millimetres, \nand the riser may be no more than 160 millimetres.",
+  "question": "What is the minimum required tread for the indoor steps of other spaces intended for everyday use?",
+  "value": "value",
+  "expected_value": "270 millimetres",
+  "metadata": {
+    "ID": "23_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:23:14.856165Z"
+}

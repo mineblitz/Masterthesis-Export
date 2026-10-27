@@ -1,0 +1,15 @@
+{
+  "order": 266,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "569c7958-b7d6-4b9c-9dd9-13307e95e59b",
+  "value_span_index": 1,
+  "content": "For ducted systems that are served by fans with a design flow rate greater than 1m3/s, ductwork leakage tests should be carried out.",
+  "question": "Above what design flow rate should ductwork leakage tests be carried out for ducted systems served by fans?",
+  "value": "value",
+  "expected_value": "1m3/s",
+  "metadata": {
+    "ID": "385_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:43:52.094594Z"
+}

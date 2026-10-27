@@ -1,0 +1,15 @@
+{
+  "order": 46,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "4d80c4d1-08ee-481a-9f9c-e9151ce1094d",
+  "value_span_index": 1,
+  "content": "The area of windows, roof windows, rooflights and doors should not exceed 25 of the total floor area of the dwelling.",
+  "question": "The area of windows, roof windows, rooflights and doors should not exceed what value of the total floor area of the dwelling?",
+  "value": "value",
+  "expected_value": "25",
+  "metadata": {
+    "ID": "421_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:16:44.434893Z"
+}

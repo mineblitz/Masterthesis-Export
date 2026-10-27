@@ -1,0 +1,15 @@
+{
+  "order": 31,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "e8340500-38b6-461b-b00d-d3aa44ac1f0b",
+  "value_span_index": 1,
+  "content": "The water system shall be designed to prevent the back-siphoning of water and the risk of \ncontamination caused by the penetration of liquids and gases. If the water pipe is located in \ncontaminated ground or there is a risk of contamination, diffusion-tight pipe material shall be \nused. \n\n3 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fSection 6 \n\nWater temperature \n\nThe cold water pipe shall be designed and installed so that the temperature in the cold water \nsystem may not exceed 20 degrees Celsius. After a period of non-use of at least eight hours, the \nwater temperature may not exceed 24 degrees Celsius.  \n\nThe water temperature of the water in the hot water system shall be at least 55 degrees Celsius \nand available from the hot water plumbing fixture within 20 seconds. The temperature of the \nwater available from the hot water system may not exceed 65 degrees Celsius.  \n\nThe water system shall be designed so as to prevent detrimental cross-flow of water from the \n\nhot water pipe to the cold water pipe or vice versa.  \n\nSection 7 \n\nDimensioning of the water system \n\nThe water system shall withstand internal excess pressure of at least 1 000 kilopascals.  \nThe plumbing fixtures shall provide a flow, which is steady in view to its intended use without \n\nannoying noise and detrimental pressure shocks.  \n\nSection 8 \n\n Domestic hot water ring duct \n\nThe domestic hot water ring duct of a new building may not have heat emitters or floor heating \n\nconnected to it.  \n\nIn connection with repair and alteration work, the heat emitters connected to the domestic hot \nwater ring duct may be replaced so that the heat emission capacity of the heat emitters to be \ninstalled does not exceed 200 Watts per room.",
+  "question": "What temperature may the water available from the hot water system not exceed?",
+  "value": "value",
+  "expected_value": "65 degrees Celsius",
+  "metadata": {
+    "ID": "62_Finnish_Health-WaterAndSewerage"
+  },
+  "created_at": "2026-07-31T05:14:45.669513Z"
+}

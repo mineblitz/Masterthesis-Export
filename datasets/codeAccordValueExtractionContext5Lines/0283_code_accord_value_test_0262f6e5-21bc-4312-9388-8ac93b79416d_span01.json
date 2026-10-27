@@ -1,0 +1,15 @@
+{
+  "order": 283,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "0262f6e5-21bc-4312-9388-8ac93b79416d",
+  "value_span_index": 1,
+  "content": "All the \nfollowing factors should be included. \n\na.  Degree of oversizing of the total installed capacity.\n\nb.  Sizes of individual chillers.\n\nc.  EERs of individual chillers in operating conditions.\n\nd.  Control mode used, e.g. parallel, sequential, dedicated low load unit.\n\ne.  Load profile of the proposed building.\n\nf.  Building location (which determines ambient conditions).\n\n6.39 For systems that have the ability to use free cooling or heat recovery, the SEER should be derived \n\nfor the specific application, including free cooling or heat recovery elements. For variable \nrefrigerant flow (VRF) systems, any calculations must include indoor and outdoor conditions, the \npower input from controls, and indoor units.\n\n6.40 For absorption chillers used in conjunction with on-site CHP or a district heat network or \n\ncommunity heating system, the CO2 emissions and primary energy should be calculated in the \nsame way as when using CHP for heating. The control system should ensure as far as possible that \nheat from boilers is not used to supply the absorption chiller. The minimum full load EER of the \nabsorption chillers should be no worse than 0.7.\n\n6.41  For district cooling schemes, the CO2 and primary energy content of the cooling energy supplied \n\nshould be calculated. This value should be used to calculate the building emission rate and primary \nenergy rate.\n\nHeating and cooling system circulators and water pumps \n6.42 On variable volume systems, variable speed glandless circulators should be used.\n6.43 If a water pump is used on a closed loop circuit and the motor is rated at more than 750W, then \nit should be fitted with or controlled by an appropriate variable speed controller on any variable \nvolume system.\n\nHeat pumps \n6.44 Air-to-air heat pumps with an output of 12kW or less should have either of the following.\n\na.  A seasonal coefficient of performance (SCOP) rating for the median temperature range in  \n\nBS EN 14825 of at least D.\n\nb.  A coefficient of performance (COP) that is not less than the value in Table 6.8.\n\nBuilding Regulations 2010  \n\nApproved Document L Volume 2, 2021 edition \n\n49\n\nL1(b), L2ONLINE VERSIONONLINE VERSION\fHeat pump type\n\nMinimum COP (at rating conditions in BS EN 14511-2)\n\nAll types (except air-to-air with output ≤12kW, absorption \nand gas-engine) for space heating(1)\n\nAll types (except absorption and gas-engine) for \ndomestic hot water heating\n\nAbsorption \n\nGas-engine\n\nNOTE:\n1.",
+  "question": "What is the minimum full load EER of the absorption chillers?",
+  "value": "value",
+  "expected_value": "0.7",
+  "metadata": {
+    "ID": "285_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:45:33.178656Z"
+}

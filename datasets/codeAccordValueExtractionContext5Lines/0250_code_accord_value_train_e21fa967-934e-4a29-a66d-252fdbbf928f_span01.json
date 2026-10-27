@@ -1,0 +1,15 @@
+{
+  "order": 250,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "e21fa967-934e-4a29-a66d-252fdbbf928f",
+  "value_span_index": 1,
+  "content": "90  Approved Document L Volume 2, 2021 edition \n90  Approved Document L Volume 2, 2021 edition \n\nBuilding Regulations 2010\nBuilding Regulations 2010\n\nAAONLINE VERSIONONLINE VERSION\fAppendix B: Lighting Energy Numeric Indicator \n(LENI)\n\nB1  The Lighting Energy Numeric Indicator (LENI) method is an alternative approach for complying with \n\nthe standards for lighting given in Section 6 of this approved document.\n\nB2  The LENI should not exceed the lighting energy limit specified in Table B1 for a given illuminance \n\nand number of hours run.\n\nStep 1: Determine the lighting energy limit from Table B1. \nIf display lighting is used, the lighting energy limit may be increased by the value given for normal \ndisplay lighting for the area of the room where display lighting is used. \nStep 2: Calculate the parasitic energy use (Ep). If the parasitic energy use is unknown, an allowance \nof 0.3W/m2 should be made for any control system. If no lighting control system is used, then Ep = 0. \nStep 3: Determine the total power of lighting (Pl). \nStep 4: Determine the occupancy factor (Fo). If no automatic control is used, then Fo = 1. If controls \nturn off the lights within 20 minutes of the room being empty, then Fo = 0.8.",
+  "question": "What allowance should be made for any control system if the parasitic energy use is unknown?",
+  "value": "value",
+  "expected_value": "0.3W/m2",
+  "metadata": {
+    "ID": "473_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:41:57.398993Z"
+}

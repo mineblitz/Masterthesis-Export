@@ -1,0 +1,15 @@
+{
+  "order": 14,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a7e4ad57-ea09-4d8e-8b3a-4d33447237ab",
+  "value_span_index": 2,
+  "content": "The headroom of a gate other than one at or leading to an exit, and of a gate inside a dwelling, \n\nmay be 1,950 millimetres. \n\nSection 15 \n\nSafety fittings \n\nA building must be equipped with durable safety solutions and safety fittings that are suitable \n\nfor its use.  \n\nIn  dwellings  and  other  premises  that  are  used  by  children, restrictors  must  be  installed  on \nwindows and other openings where there may be a danger of falling, and these must be such \nthat they limit the easy opening of the window to 100 millimetres. Any restrictors placed on \nwindows used as emergency exits must, however, be easily releasable by an adult. \n\nLadders and other structural elements at emergency exits and service routes must be designed \n\nand constructed so that they can also be used in an emergency situation. \n\nThe free opening of the vertical hatch or window of an emergency exit must be at least 600 \nmillimetres in height and 500 millimetres in width; however, the sum of these must be at least \n1,500 millimetres. The opening of a horizontal hatch must be at least 600 x 600 millimetres. \n\nChapter 4 \n\nSafety of outdoor areas \n\nSection 16 \n\nDriveways and parking areas \n\nThe driveway and parking area at a plot or building site must be separated from pedestrian, \nplay and recreation areas. A driveway must not intersect a walkway leading to a play area. If it \nis  impossible  to  avoid  such  an  intersection,  a  structural  solution  must  be  used  to  mark  the \ncrossing places. \n\n Routes intended for vehicle traffic must be located in a way that does not restrict pedestrian \n\nroutes or the space required for opening doors and gates.",
+  "question": "What is the minimum width required for the free opening of the vertical hatch or window of an emergency exit?",
+  "value": "value",
+  "expected_value": "500 millimetres",
+  "metadata": {
+    "ID": "83_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:12:23.552135Z"
+}

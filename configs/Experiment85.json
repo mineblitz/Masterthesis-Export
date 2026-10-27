@@ -1,0 +1,18 @@
+{
+  "pipeline": "text_only_simple_conversion_v36",
+  "LLM": "LOCALAI_GEMMA_4_31B_IT",
+  "experiment_ID": "exp_085",
+  "experiment_Name": "Method B v36 CODE-ACCORD full document, matched cases",
+  "experiment_Description": "Controlled non-direct-QA comparison, Method B. The full PDF text is ingested and ranked; the whole document is not sent in one prompt. v36 uses its v35 single-pass baseline plus five-tool ReAct controller, four steps, a 6000 output-token budget, a three-consecutive-malformed-call limit, and baseline fallback. Per-run traces report finalized improvements, harmful revisions, unchanged fallbacks, tool failures, tokens, and runtime. This configuration filters the 292-record full dataset to the 290 filenames in the expanded-passage reference set; source-match status and PDF metadata remain available. Uses Gemma 4 31B, temperature 1.0, five repetitions. Historical Exp. 73's aggregate includes fallbacks and does not isolate finalized revisions.",
+  "experiment_API": "http://localhost:4000/api/experiment",
+  "data_jsons_path": "../datasets/codeAccordValueExtractionFullPdf",
+  "matched_case_id_reference_dataset_path": "../datasets/codeAccordValueExtractionContext5Lines",
+  "expected_case_count": 290,
+  "input_source": "dataset_text",
+  "input_extent": "full_document",
+  "temperature": 1.0,
+  "prompt": "text_only_v13.txt",
+  "agent_step_budget": 4,
+  "agent_token_budget": 6000,
+  "run_count": 1
+}

@@ -1,0 +1,15 @@
+{
+  "order": 93,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "8364a5f1-f80e-484c-9f38-bffc6f4c1876",
+  "value_span_index": 1,
+  "content": "Where communal parking is provided to blocks of flats, at least one standard parking bay is provided close to the communal entrance of each core of the block (or to the lift core where the parking bay is internal).",
+  "question": "What is the minimum number of standard parking bays that must be provided close to the communal entrance of each core of the block where communal parking is provided to blocks of flats?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "44_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:22:32.177763Z"
+}

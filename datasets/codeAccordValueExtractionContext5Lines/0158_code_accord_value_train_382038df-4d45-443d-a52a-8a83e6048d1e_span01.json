@@ -1,0 +1,15 @@
+{
+  "order": 158,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "382038df-4d45-443d-a52a-8a83e6048d1e",
+  "value_span_index": 1,
+  "content": "Regardless of the results of the risk assessment, the building shall \n\nmeet the requirements of consequences class CC3a.  \n\nThose parts of the building where the notional removal of a column or a load-bearing wall \nsection pursuant to the definition in clause 3 would cause a horizontal structure that contains \n\nhorizontal ties to act as an overhang that is the height of the horizontal structure shall also \nbe  inspected.  If  such  a  notional  removal  of  a  structural  member  results  in  damage  that \n\nexceeds the acceptable limit, the structure marked for notional removal shall be considered \na key structural member in the risk assessment.  \n\n1.  Horizontal ties \n\n1.1 Peripheral and internal ties \n\nHorizontal peripheral and internal ties shall be provided around the perimeter of each floor \n\nand roof level and internally in two right angle directions. The ties shall be continuous and \nbe arranged as closely as practicable to the edges of floors and lines of columns and walls. \n\nAt least 30% of the ties shall be located in the immediate vicinity of the grid lines of the \ncolumns and the walls. \n\nThe ties shall have such deformation capacity that they can act as a replacement load \n\ntransfer structure or as part of a replacement load transfer structure. \n\nHorizontal ties may comprise timber sections, steel or aluminium sections,  reinforcement \nin concrete structures, or steel mesh reinforcement and and prefabricated reinforcing \n\nproducts made of sheet metal for composite slabs (if directly connected to the steel beams \nwith shear connectors). The ties may consist of a combination of the above types. \n\nEach continuous tie, including its end connections, should be capable of sustaining a design \ntensile force for the accidental limit state, equal to the following values: \n\n41 \n\n \n \n \n \n \n \n \n \n \n \n \n\fConsequences classes CC2a and CC2b \n\nThe tie forces T are based on the characteristic value of the permanent actions gk for the \nhorizontal structure.  \n\nPeripheral and internal ties: \n\nWhen the characteristic value of the permanent actions for the horizontal structure is        \ngk ≥ 3.0 kN/m2:  \n\nT\ni\n\n= ⋅\ns\n\n20\n\nkN m\n/\n\n(1) \n\nThe minimum value for the tie force T is 70 kN for peripheral ties.",
+  "question": "What minimum percentage of the ties shall be located in the immediate vicinity of the grid lines of the columns and the walls?",
+  "value": "value",
+  "expected_value": "30%",
+  "metadata": {
+    "ID": "175_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:30:59.738843Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 226,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "86831830-e7f0-4b90-aa27-dc0542b7ba4d",
+  "value_span_index": 1,
+  "content": "Directive 2015/1535/EU (32015L1535) of the European Parliament and of the Council; OJ L 241, 17 September 2015, p. 1)  \n\n \n \n \n \n \n \n \n \n \n\fThe  minimum  width  of  indoor  stairs  in  an  evacuation  area  is  0.85  metres.  Handrails  and \n\nskirting may, however, extend into this width. \n\nAll evacuation areas must be designed in such a way that it is possible to transport an immobile \nindividual on a stretcher via the exit route. If the indoor access route leading to an evacuation \narea in a non-residential building is via the indoor stairs in the area, these stairs must be wide \nenough that they can be used to transport an immobile individual on a stretcher. \n\nThe stairs between floor levels must be covered. If a residential block of flats does not have a \nlift, the stairs between floor levels must have natural light and at least one intermediate landing. \n\nSection 4 \n\nDimensions of indoor staircases \n\nThe ratio between the riser and the tread of stair steps must be such that the staircase is easy \n\nto use for its intended purpose.   \n\nIn the entrance halls and other indoor areas of administrative, service and business premises \nand in assembly areas, the riser of the steps must be no more than 160 millimetres and the tread \nmust be no less than 300 millimetres. The riser of the indoor steps of dwelling units and living \nquarters  may  be  no  more  than  190  millimetres,  and  the  tread  must  be  no  less  than  250 \nmillimetres. The rise of the indoor steps of other spaces intended for everyday use may be no \nmore than 180 millimetres, and the tread must be no less than 270 millimetres. If stairs are used \nonly as an emergency exit and if they lead to spaces in a dwelling or accommodation facility \nother than those that are necessary for living, the riser may be no more than 220 millimetres and \nthe tread must be no less than 220 millimetres.",
+  "question": "What is the minimum number of intermediate landings that stairs between floor levels must have if a residential block of flats does not have a lift?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "18_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:39:05.578203Z"
+}

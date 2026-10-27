@@ -1,0 +1,15 @@
+{
+  "order": 276,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "c47598f9-df79-4d77-aba9-8f380342372f",
+  "value_span_index": 1,
+  "content": "extract air of category 4 shall be conducted to the outdoors through individual extract air ducts.",
+  "question": "Which category of extract air shall be conducted to the outdoors through individual extract air ducts?",
+  "value": "value",
+  "expected_value": "4",
+  "metadata": {
+    "ID": "88_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:44:56.410625Z"
+}

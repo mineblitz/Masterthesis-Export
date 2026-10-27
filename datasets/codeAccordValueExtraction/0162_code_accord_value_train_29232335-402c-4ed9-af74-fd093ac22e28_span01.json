@@ -1,0 +1,15 @@
+{
+  "order": 162,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "29232335-402c-4ed9-af74-fd093ac22e28",
+  "value_span_index": 1,
+  "content": "The natural or mechanical ventilation system of a building shall be strong and its air-tightness shall be at least class B.",
+  "question": "What is the minimum required class for the air-tightness of a building's natural or mechanical ventilation system?",
+  "value": "value",
+  "expected_value": "B",
+  "metadata": {
+    "ID": "95_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:31:17.466011Z"
+}

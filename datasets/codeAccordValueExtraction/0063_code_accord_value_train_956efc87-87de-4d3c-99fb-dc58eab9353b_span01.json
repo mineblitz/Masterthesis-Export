@@ -1,0 +1,15 @@
+{
+  "order": 63,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "956efc87-87de-4d3c-99fb-dc58eab9353b",
+  "value_span_index": 1,
+  "content": "A  dwelling  that  is  intended  for  sheltered  housing  or  supported  housing  of  a  person  with mobility or functional impairment shall have at least one toilet and washing facility which has a  free  space  with  a  diameter  of  at  least  1,500  millimetres.",
+  "question": "What is the minimum number of toilet and washing facilities that a dwelling intended for sheltered housing or supported housing of a person with mobility or functional impairment shall have?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "42_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:18:26.443204Z"
+}

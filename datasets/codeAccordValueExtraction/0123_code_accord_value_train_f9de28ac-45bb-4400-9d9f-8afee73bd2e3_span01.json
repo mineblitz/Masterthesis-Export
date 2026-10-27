@@ -1,0 +1,15 @@
+{
+  "order": 123,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "f9de28ac-45bb-4400-9d9f-8afee73bd2e3",
+  "value_span_index": 1,
+  "content": "The number of appliances should not exceed one per 100m2 of dwelling floor area.",
+  "question": "What is the maximum number of appliances permitted per dwelling floor area?",
+  "value": "value",
+  "expected_value": "1 per 100m2",
+  "metadata": {
+    "ID": "273_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:26:02.436933Z"
+}

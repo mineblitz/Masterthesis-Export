@@ -1,0 +1,15 @@
+{
+  "order": 247,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "fa8a6d84-eb99-490e-8169-3c65353fb553",
+  "value_span_index": 2,
+  "content": "Figure 1. Characteristic values for snow load on the ground, in units of kN/m2. If the construction site is located in an \narea where the value is not constant, the intermediate values are obtained by linear interpolation in proportion to \ndistances from the closest curves. \n\n15 \n\n \n \n \n \n \n \n \n \n \n  \n \n \n \n\f3. \n\nSnow load on roofs \n\nMinistry of the Environment Decree (6/16) \nconcerning national choices for snow loads, when applying standard SFS-EN 1991-1-3 \nSection 3 Snow load on roofs \n\nFor different topography, the value of exposure coefficients given in table 5.1 clause 5.2(7) of the standard shall be \nused. For large roofs, where the smaller horizontal dimension of the roof is 50 m or more, and the topography is \nwindswept, the value of the exposure coefficient shall be at least 1.  \n\nFor different topographies, where the smaller horizontal dimension of the roof is at least 50 m, the exposure \ncoefficient shall be increased based on the smaller horizontal dimension and side ratio, according to the factors in \nTable 1.  \n\nTable 1. Factors to be used for increasing the exposure coefficient for snow load on roofs, where the smaller horizontal \ndimension is at least 50 m. \n\nSmaller \ndimension (m) \n\n50 \n\n75 \n100 \n\nRatio of larger to smaller dimension \n\n1 \n1.0 \n\n1.1 \n1.2 \n\n2 \n1.1 \n\n1.2 \n1.25 \n\nIn determining the snow load, in accordance with clause 5.2(8) of the standard, when the thermal insulating properties \nof the roof structure are insignificant, the thermal coefficient Ct may be reduced on the basis of a more exact study. \nThe value to be used for snow load s, however, is at least 0.5 kN/m2.  \n\nInstruction  \n\nThe  removal  of  snow  from  the  roof  or  the  redistribution  of  snow,  clause  5.2(5)  of  the \nstandard,  is  taken  into  account  by  designing  the  roof  with  the  appropriate  load \narrangements.",
+  "question": "What is the minimum value of the exposure coefficient for large roofs where the smaller horizontal dimension of the roof is 50 m or more and the topography is windswept?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "61_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:41:33.753069Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 247,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "fa8a6d84-eb99-490e-8169-3c65353fb553",
+  "value_span_index": 2,
+  "content": "For large roofs, where the smaller horizontal dimension of the roof is 50 m or more, and the topography is windswept, the value of the exposure coefficient shall be at least 1.",
+  "question": "What is the minimum value of the exposure coefficient for large roofs where the smaller horizontal dimension of the roof is 50 m or more and the topography is windswept?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "61_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:41:33.753069Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 54,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "1e3d8e3a-93fd-47e2-833e-d7f36c901c77",
+  "value_span_index": 2,
+  "content": "Clear access route\n\nClear, unobstructed ‘pathway’ to access a window \nor other feature. Localised obstructions are not \npermitted unless specifically stated.\n\nClear access zone\n\nClear, unobstructed space for access or \nmanoeuvring. Localised obstructions are not \npermitted unless specifically stated. \n\nClear distance measured between walls or \nother fixed obstructions (except permitted \nlocalised obstructions) or across a path. Skirtings \ntotalling up to 50mm total thickness and shallow \nprojecting ducts or casings above 1800mm may be \ndiscounted when measuring clear width.\n\nCommunal or common (area, facilities or entrances)\n\nShared area accessed by, or intended for the use \nof, more than one dwelling.\n\nDwelling*\n\nA house or flat. Student accommodation is treated \nas hotel/motel accommodation. \n\nEntrance storey\n\nThe floor level (of the dwelling) on which the \nprincipal private entrance is located.\n\nFlat*\n\nSeparate and self-contained premises constructed \nor adapted for residential purposes and forming \npart of a building from which it is divided \nhorizontally.",
+  "question": "Above what height may shallow projecting ducts or casings be discounted when measuring clear width?",
+  "value": "value",
+  "expected_value": "1800mm",
+  "metadata": {
+    "ID": "131_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:17:26.866080Z"
+}

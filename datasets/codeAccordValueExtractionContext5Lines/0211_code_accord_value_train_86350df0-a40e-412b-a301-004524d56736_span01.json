@@ -1,0 +1,15 @@
+{
+  "order": 211,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "86350df0-a40e-412b-a301-004524d56736",
+  "value_span_index": 1,
+  "content": "Sizing domestic hot water systems\n5.11  Domestic hot water systems should be sized for the anticipated domestic hot water demand of the \ndwelling, based on BS EN 12831-3 or the Chartered Institute of Plumbing and Heating Engineering’s \nPlumbing Engineering Services Design Guide. Systems should not be significantly oversized.\n\nNOTE: For temperature limits to control legionella bacteria in domestic hot water systems, see \nApproved Document G.\n\nSizing heat pump heating systems\n5.12  Heat pumps should be selected to meet the full space heating requirement at the design condition \n\nchosen for heat loss calculations. This selection should account for the space heating flow \ntemperature assumed in the heat emitter circuit(s), and not assume any heat will be supplied by \nadditional electric heaters within the design external temperature range.\n\n5.13  Reversible heat pump systems (i.e. those that provide both cooling and heating functions) should \n\nbe designed such that they are optimised for heating.\n\nControls\n\nSystem controls and zoning \n5.14  For wet heating systems in new dwellings with a floor area of 150m2 or greater, a minimum of two \n\nindependently controlled heating circuits should be provided.\n\n5.15  System controls should be wired so that when there is no demand for space heating or hot water \n\nthe heating appliance and pump are switched off.\n\n5.16  Domestic hot water circuits that are supplied from a hot water store should have both of the following.\n\na.  Time control that is independent of space heating circuits.\n\nb.  Electronic temperature control.\n\n5.17  Primary hot water circuits for domestic hot water or heating should have fully pumped circulation \n\nwhere this is compatible with the heat generator. \n\n5.18  Wet heating systems should ensure a minimum flow of water to avoid short-cycling.\n5.19  For space heating systems, temperature control should be installed for the heating appliance.",
+  "question": "What is the minimum floor area of new dwellings for which wet heating systems should provide at least two independently controlled heating circuits?",
+  "value": "value",
+  "expected_value": "150m2",
+  "metadata": {
+    "ID": "246_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:37:34.190360Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 202,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "3ca5cb38-b90b-4449-ba14-4268866df8e1",
+  "value_span_index": 1,
+  "content": "The water heater is close to the draw-off points and has a storage capacity no greater than 100 litres.",
+  "question": "What is the maximum storage capacity of the water heater?",
+  "value": "value",
+  "expected_value": "100 litres",
+  "metadata": {
+    "ID": "463_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:36:24.584853Z"
+}

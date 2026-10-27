@@ -1,0 +1,15 @@
+{
+  "order": 151,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "2de867fe-80e7-4617-ad18-36225dd45ab1",
+  "value_span_index": 1,
+  "content": "Hinged or pivot windows with an opening angle of less than 15 degrees are not suitable for purge ventilation.",
+  "question": "Below what opening angle are hinged or pivot windows not suitable for purge ventilation?",
+  "value": "value",
+  "expected_value": "15 degrees",
+  "metadata": {
+    "ID": "53_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-31T05:30:16.597349Z"
+}

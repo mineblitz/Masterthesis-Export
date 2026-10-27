@@ -1,0 +1,15 @@
+{
+  "order": 60,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7f3f59a4-fc7e-4b14-8074-384f6cacf548",
+  "value_span_index": 2,
+  "content": "An open railing can be used in places to which children \ndo not have access or where there is no danger of falling.  \n\nInstead  of  a  barrier,  some  other  arrangement  may  be  used  to  prevent  falling  or  otherwise \nachieve the required level of safety, provided that the difference in height does not exceed one \nmetre.  \n\nThe total height of the barrier must be one metre if the drop is no more than six metres. At a \nheight greater than this, the total height of the barrier must be 1.2 metres. On a balcony that \nserves only a single dwelling, a barrier of one metre in height is sufficient, irrespective of the \ndrop. \n\nThe height of a barrier in a dwelling’s indoor areas may, however, be at least 0.9 metres if the \n\ndrop is less than three metres. \n\nSection 8 \n\nStructure of barriers and staircases \n\nBarriers and staircases must be designed to withstand loads in accordance with the intended \n\nuse of the premises for the entire serviceable life of the structure. \n\nIf the protective part of the barrier contains only vertical structures, a cube with edges of no \nmore than 100 millimetres may pass through its openings. In the case of other types of protective \nparts,  a  cube  with  edges  of  no  more  than  30  millimetres  may  pass  through  the  openings. \nHowever, a horizontal gap in a protective part must be no higher than ten millimetres. \n\nA cube with edges of no more than 200 millimetres may pass between the upper edge of the \nbarrier and the protective part.",
+  "question": "The drop must be less than what distance for a barrier in a dwelling's indoor areas to be at least 0.9 metres in height?",
+  "value": "value",
+  "expected_value": "3 metres",
+  "metadata": {
+    "ID": "45_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:18:02.710199Z"
+}

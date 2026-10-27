@@ -1,0 +1,15 @@
+{
+  "order": 63,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "956efc87-87de-4d3c-99fb-dc58eab9353b",
+  "value_span_index": 1,
+  "content": "Section 8 \n\nConnection between different levels in a non-residential building \n\nIf  the  level  difference  in  a  non-residential  building  is  lower  than  the  storey  height  of  the \nbuilding, connection between the levels shall in addition to stairs be provided either with a ramp \nspecified in section 2, subsection 2 or a lift specified in section 7 subsection 3, or with other \nfixed device installed and intended for lifting persons which is suitable for a user of a wheelchair \n\n3 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fand walking frame with wheels. If the level difference is equal to the storey height or higher, \nthe connection between the levels shall be provided by means of a lift specified in section 7, \nsubsection 3. \n\nSection 9 \n\nToilet and washing facility in a residential building \n\nA residential building that under section 7 shall in addition to stairs have a lift shall have at \nleast one toilet and washing facility in each dwelling which has a free space with a diameter of \nat least 1,300 millimetres. The fixtures and fittings shall be placed with respect to the free space \nso that a person with mobility impairment can use them. The toilet and washing facility shall be \nsuch that it can be equipped to be suitable for use by a person with mobility impairment. \n\nA  dwelling  that  is  intended  for  sheltered  housing  or  supported  housing  of  a  person  with \nmobility or functional impairment shall have at least one toilet and washing facility which has \na  free  space  with  a  diameter  of  at  least  1,500  millimetres.  The  fixtures  and  fittings  shall  be \nplaced with respect to the free space so that a person with mobility impairment can use them. \nIn addition, on one side of the toilet seat there shall be a free space of at least 800 millimetres. \nThe toilet and washing facility shall be such that it can be equipped to be suitable for use by a \nperson with mobility impairment. \n\nThe  provisions  in  subsection  1  above  do  not  apply  to  a  building  that  only  has  dwellings \nintended for persons participating in education and training entitling them to student financial \naid under the Act on Student Financial Aid (65/1994) or that only have dwellings intended for \npersons aged between 18 and 29. In such a building at least five per cent of the dwellings, but \nat  least  one,  shall  have  a  toilet  and  washing  facility  specified  in  subsection  2.",
+  "question": "What is the minimum number of toilet and washing facilities that a dwelling intended for sheltered housing or supported housing of a person with mobility or functional impairment shall have?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "42_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:18:26.443204Z"
+}

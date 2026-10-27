@@ -1,0 +1,15 @@
+{
+  "order": 176,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "6d9a1e8e-6fe7-4234-951a-96fdc4598bd7",
+  "value_span_index": 1,
+  "content": "If parking spaces are provided for a building, an adequate number of them, but at least one, shall be intended for the use of a person with mobility and functional impairment.",
+  "question": "What is the minimum number of parking spaces that shall be intended for the use of a person with mobility and functional impairment if parking spaces are provided for a building?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "12_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:33:00.721785Z"
+}

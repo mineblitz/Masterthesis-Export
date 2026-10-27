@@ -1,0 +1,15 @@
+{
+  "order": 267,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "56b0e4bf-81d7-4ab9-855b-780ef2f0b1d3",
+  "value_span_index": 1,
+  "content": "Storage premises with a fire load exceeding 1,200 MJ/m2 are not permitted within the building.",
+  "question": "What is the maximum fire load permitted for storage premises within the building?",
+  "value": "value",
+  "expected_value": "1200 MJ/m2",
+  "metadata": {
+    "ID": "73_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:43:58.822369Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 154,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7d7d55f1-b28d-4ce8-aec6-dd4dc0786ce8",
+  "value_span_index": 1,
+  "content": "For sizes of cylinder not listed, the heat loss from the cylinder should not exceed (16.66 8.33 V0.4)/(1000 24), where V is the volume in litres.",
+  "question": "For sizes of cylinder not listed, what should the heat loss from the cylinder not exceed?",
+  "value": "value",
+  "expected_value": "( 16.66 8.33 V0.4) / ( 1000 24)",
+  "metadata": {
+    "ID": "208_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:30:32.379132Z"
+}

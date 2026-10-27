@@ -1,0 +1,15 @@
+{
+  "order": 40,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "fb1da22f-8ddb-4399-b441-64dca68da9af",
+  "value_span_index": 1,
+  "content": "Section 34 \n\nDimensions of exits \n\nThe minimum width of an exit shall be calculated on the basis of the number of occupants \nevacuating through the exit. The number of occupants of an evacuation area may be distributed \nbetween different exits, and the widths of the exits added up. \n\nThe highest number of occupants intended to be present in an evacuation area shall be used \nas the number of occupants. If several evacuation areas are connected to the same exit, the width \nof the exit shall be designed according to the evacuation area with the highest number of occu-\npants. \n\nThe width of an exit must be at least 1,200 millimetres and its free height must be at least \n\n2,100 millimetres. However, by way of derogation from the above: \n\n1) in an evacuation area where the maximum number of occupants is 60, the second exit may \n\nbe no less than 900 millimetres in width;  \n\n2) in residential buildings of not more than two storeys, one exit of no less than 900 millime-\n\ntres in width is permitted; \n\n3) If a lift or other device for moving between levels is installed in the exit of an existing \n\nbuilding, the dwelling’s exit may be no less than 850 millimetres wide.  \n\nIf the number of occupants exceeds 120, the total minimum width of the exits shall be calcu-\nlated by increasing the original 1,200 millimetres by 400 millimetres for each additional group \nof 60 people. \n\nThe width of an internal corridor leading to an exit is calculated in the same way as the width \n\nof the exit according to the number of occupants passing along the corridor. \n\nSection 35 \n\nDoors used for evacuation \n\nThe number and width of doors leading to exits and from rooms to internal corridors must be \n\nadequate in relation to the number of occupants using them.  \n\nThe doors of exits, and of areas leading to them, must be easy to open in an emergency. In the \ncase of the storey-level door of a dwelling, or if the number of people evacuating through the \ndoor exceeds 60, doors must open in the direction of the exit.",
+  "question": "What is the minimum width permitted for a dwellings exit if a lift or other device for moving between levels is installed in the exit of an existing building?",
+  "value": "value",
+  "expected_value": "850 millimetres",
+  "metadata": {
+    "ID": "218_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:15:50.934547Z"
+}

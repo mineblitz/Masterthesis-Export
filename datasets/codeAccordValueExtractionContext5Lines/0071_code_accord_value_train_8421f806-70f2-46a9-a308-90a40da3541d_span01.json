@@ -1,0 +1,15 @@
+{
+  "order": 71,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "8421f806-70f2-46a9-a308-90a40da3541d",
+  "value_span_index": 1,
+  "content": "Level approach from the boundary \nof the site and car parking\n\nDesign considerations\n\n1.6  As far as possible, access should \nbe level from the boundary of the site, \nand from any car parking designated for \ndisabled people, to the principal entrance \nand any entrance used exclusively for staff \n\n16\n\nor, if either of these is not accessible, to any \nalternative accessible entrances. If access \nis generally required between entrances, or \nbetween alternative accessible entrances \noutside the building, this access should \nas far as possible be level. The site level \nof accessible entrances should be \ndetermined accordingly.\n\n1.7  Where a difference in level between \nthe boundary of the site or car parking \ndesignated for disabled people and the \nbuilding is unavoidable due to site constraints, \nthe approach may have a gentle gradient \nover a long distance (for all or part/s of the \napproach) or it may incorporate a number \nof shorter parts at a steeper gradient, with \nlevel landings at intervals as rest points. \nGenerally, gradients within the approach \nshould be as gentle as possible.\n\n1.8  Where the gradient of the approach, \nwhether over its whole length or in part, is \n1:20 or steeper, that part of the approach \nshould be designed as ramped access.\n\n1.9  All access routes to principal, or \nalternative accessible, entrances should be \nsurfaced so that people are able to travel \nalong them easily, without excessive effort \nand without the risk of tripping or falling.\n\n1.10  There should be sufficient space for \npeople to approach the building, pass \nothers who are travelling in the opposite \ndirection and carry out all necessary \nmanoeuvres.\n\n1.11  A surface width of 1800mm can \naccommodate any amount of non-vehicular \ntraffic without the need for passing places. \nA surface width of 1200mm may be \nacceptable on restricted sites, subject to \nagreement with the building control body.\n\n1.12  It is important to reduce the risks to \npeople, particularly people with impaired \nsight, when approaching and passing \naround the perimeter of the building under \nall lighting conditions.",
+  "question": "At what gradient or steeper should a part of the approach be designed as ramped access?",
+  "value": "value",
+  "expected_value": "1:20",
+  "metadata": {
+    "ID": "41_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:19:45.852488Z"
+}

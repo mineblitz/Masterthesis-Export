@@ -1,0 +1,15 @@
+{
+  "order": 104,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "793cb939-b3d9-46eb-ae65-71a4d5c8031b",
+  "value_span_index": 1,
+  "content": "Where the parking is within the private curtilage of the dwelling (but not within a carport or garage) at least one space is a standard parking bay that can be widened to 3.3m.",
+  "question": "To what width can a standard parking bay be widened where the parking is within the private curtilage of the dwelling (but not within a carport or garage)?",
+  "value": "value",
+  "expected_value": "3.3m",
+  "metadata": {
+    "ID": "43_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:23:39.577536Z"
+}

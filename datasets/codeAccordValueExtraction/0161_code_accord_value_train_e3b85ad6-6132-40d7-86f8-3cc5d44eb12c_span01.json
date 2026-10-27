@@ -1,0 +1,15 @@
+{
+  "order": 161,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "e3b85ad6-6132-40d7-86f8-3cc5d44eb12c",
+  "value_span_index": 1,
+  "content": "One bedroom should be close to an accessible bathroom suitable for a wheelchair user.",
+  "question": "How many bedrooms should be close to an accessible bathroom suitable for a wheelchair user?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "100_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:31:13.671932Z"
+}

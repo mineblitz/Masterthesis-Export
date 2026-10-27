@@ -1,0 +1,15 @@
+{
+  "order": 78,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "208b093d-361f-4aec-819d-4abca4e72c68",
+  "value_span_index": 2,
+  "content": "in an evacuation area where the maximum number of occupants is 60, the second exit may be no less than 900 millimetres in width.",
+  "question": "What is the minimum width of the second exit in an evacuation area where the maximum number of occupants is 60?",
+  "value": "value",
+  "expected_value": "900 millimetres",
+  "metadata": {
+    "ID": "216_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:20:21.417116Z"
+}

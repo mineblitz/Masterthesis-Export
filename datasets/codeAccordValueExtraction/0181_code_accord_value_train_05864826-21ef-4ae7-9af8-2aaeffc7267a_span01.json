@@ -1,0 +1,15 @@
+{
+  "order": 181,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "05864826-21ef-4ae7-9af8-2aaeffc7267a",
+  "value_span_index": 1,
+  "content": "Modular and portable buildings with a planned service life of more than two years but with an intended time of use in a single location of less than two years should be shown to comply with the energy efficiency requirements.",
+  "question": "What is the time threshold for the planned service life and the intended time of use in a single location for modular and portable buildings that should be shown to comply with energy efficiency requirements?",
+  "value": "value",
+  "expected_value": "2 years",
+  "metadata": {
+    "ID": "83_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:33:58.323497Z"
+}

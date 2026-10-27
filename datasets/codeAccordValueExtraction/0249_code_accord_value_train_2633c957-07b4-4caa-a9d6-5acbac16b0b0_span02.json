@@ -1,0 +1,15 @@
+{
+  "order": 249,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "2633c957-07b4-4caa-a9d6-5acbac16b0b0",
+  "value_span_index": 2,
+  "content": "NOTE: Linear interpolation should be used to determine efficiencies between manufacturers declared efficiencies at 30 and 100 load.",
+  "question": "Between manufacturers declared efficiencies at 30 and what load should linear interpolation be used to determine efficiencies?",
+  "value": "value",
+  "expected_value": "100",
+  "metadata": {
+    "ID": "245_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:41:52.806422Z"
+}

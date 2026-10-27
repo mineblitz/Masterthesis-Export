@@ -1,0 +1,15 @@
+{
+  "order": 28,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "76bf63bd-30f4-440d-81a0-61ca16170f70",
+  "value_span_index": 1,
+  "content": "For other circumstances refer to BS 5422.\n\nInsulation thicknesses designed to achieve permissible heat losses from BS 5422 for heating systems ≤95°C.\n\nNominal internal pipe  \ndiameter (mm)\n\nMinimum insulation thickness (mm) for domestic  \nhot water services(1)(2)(3)\n\nThermal conductivity (λ) = \n0.025W/m·K\n\nThermal conductivity (λ) = \n0.04W/m·K\n\nLess than or equal to 10\n\nLess than or equal to 20\n\nLess than or equal to 40\n\nLess than or equal to 80\n\nLess than or equal to 100\n\n15\n\n20\n\n25\n\n25\n\n30\n\n35\n\n35\n\n40\n\n45\n\n45\n\nInsulation thicknesses designed to achieve permissible heat losses from BS 5422 for hot water services at 60°C.\n\nNOTES:\n1. \n2.  Thicknesses for low-emissivity faced insulation. \n3.  For other circumstances refer to BS 5422.\n\n30  Approved Document L Volume 2, 2021 edition \n\nBuilding Regulations 2010\n\nL1(a)Table 4.4  Minimum thickness of pipework insulation for low temperature hot water space heating applications in non-domestic buildingsTable 4.5  Minimum thickness of pipework insulation for domestic hot water services in non-domestic buildingsONLINE VERSIONONLINE VERSION\fCooling pipework\n4.22 Cooling pipework should be insulated along its whole length. Control should be maximised and heat \ngain to uninsulated pipes should only be permitted where the proportion of the cooling load relating \nto distribution pipework is less than 1% of the total load.\n\n4.23 Insulation should be designed so that the maximum permissible heat gains in Table 10 of BS 5422 are \n\nnot exceeded.\n\n4.24 Provision should also be made for control of condensation by following the Thermal Insulation \n\nManufacturers and Suppliers Association’s HVAC Guidance for Achieving Compliance with Part L of \nthe Building Regulations. \n\nInsulating ductwork\n4.25 Ductwork that carries warm or cold air should be insulated throughout its whole length to achieve \nheat transfer no greater than that given in Table 4.6. Table 4.6 also gives indicative insulation \nthicknesses, which offers one way of demonstrating that the heat transfer value has not been \nexceeded.  \n\nCondensation should also be controlled by following the Thermal Insulation Manufacturers and \nSuppliers Association’s HVAC Guidance for Achieving Compliance with Part L of the Building \nRegulations.",
+  "question": "Heat gain to uninsulated pipes should only be permitted where the proportion of the cooling load relating to distribution pipework is less than what proportion of the total load?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "177_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:14:17.399564Z"
+}

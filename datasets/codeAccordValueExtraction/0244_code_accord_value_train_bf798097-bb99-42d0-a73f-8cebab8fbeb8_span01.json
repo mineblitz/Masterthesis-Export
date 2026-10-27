@@ -1,0 +1,15 @@
+{
+  "order": 244,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "bf798097-bb99-42d0-a73f-8cebab8fbeb8",
+  "value_span_index": 1,
+  "content": "In the entrance halls and other indoor areas of administrative, service and business premises and in assembly areas, the riser of the steps must be no more than 160 millimetres and the tread must be no less than 300 millimetres.",
+  "question": "What is the maximum allowable height for the riser of the steps in entrance halls and other indoor areas of administrative, service and business premises and in assembly areas?",
+  "value": "value",
+  "expected_value": "160 millimetres",
+  "metadata": {
+    "ID": "21_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:41:07.690932Z"
+}

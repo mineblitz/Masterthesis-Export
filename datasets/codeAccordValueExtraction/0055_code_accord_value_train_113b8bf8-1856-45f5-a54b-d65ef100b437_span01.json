@@ -1,0 +1,15 @@
+{
+  "order": 55,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "113b8bf8-1856-45f5-a54b-d65ef100b437",
+  "value_span_index": 1,
+  "content": "If a gas-fired combination boiler is installed in an existing dwelling, at least one of the following energy efficiency measures, appropriate to the system, should be installed.",
+  "question": "What is the minimum number of energy efficiency measures that should be installed if a gas-fired combination boiler is installed in an existing dwelling?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "262_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:17:32.242976Z"
+}

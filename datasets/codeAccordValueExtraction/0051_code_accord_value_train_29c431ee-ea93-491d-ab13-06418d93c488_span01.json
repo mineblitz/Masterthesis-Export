@@ -1,0 +1,15 @@
+{
+  "order": 51,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "29c431ee-ea93-491d-ab13-06418d93c488",
+  "value_span_index": 1,
+  "content": "If luminous efficacy is greater than 75 light source lumens per circuit-watt, manual control is acceptable.",
+  "question": "Above what luminous efficacy is manual control acceptable?",
+  "value": "value",
+  "expected_value": "75 light source lumens per circuit-watt",
+  "metadata": {
+    "ID": "338_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:17:12.566491Z"
+}

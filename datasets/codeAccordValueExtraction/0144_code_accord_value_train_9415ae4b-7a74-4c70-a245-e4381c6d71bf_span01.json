@@ -1,0 +1,15 @@
+{
+  "order": 144,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "9415ae4b-7a74-4c70-a245-e4381c6d71bf",
+  "value_span_index": 1,
+  "content": "At gables and party walls, insulation should extend to the wall; if the space between the wall and joist is less than 100mm, perimeter insulation may be required.",
+  "question": "At gables and party walls, if the space between the wall and joist is less than what distance may perimeter insulation be required?",
+  "value": "value",
+  "expected_value": "100mm",
+  "metadata": {
+    "ID": "170_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:29:40.439000Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 262,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "53e31e26-a39b-4047-a86e-bdb8021413e8",
+  "value_span_index": 1,
+  "content": "Security\n3.6  When determining the free area available for ventilation during sleeping hours, only the proportion \nof openings that can be opened securely should be considered to provide useful ventilation. This \nparticularly applies in the following locations, where openings may be vulnerable to intrusion by a \ncasual or opportunistic burglar.\n\na.  Ground floor bedrooms.\n\nb.  Easily accessible bedrooms.\n\n3.7  Open windows or doors can be made secure by using any of the following.\n\na.  Fixed or lockable louvred shutters.\n\nb.  Fixed or lockable window grilles or railings.\n\n12  Approved Document O, 2021 edition \n\nBuilding Regulations 2010\n\nO1(2)(a)ONLINE VERSIONONLINE VERSION\fProtection from falling\n3.8  Openings which are intended to be open for long periods to reduce overheating risk might pose a \nhigher risk of falls from height. Only the proportion of openings which can be opened with a very \nlow risk of occupants falling from height should be considered to form part of the overheating \nmitigation strategy.\n\n3.9  Openings that can be opened wider than 100mm may form part of the overheating mitigation \n\nstrategy where they meet all of the following conditions. \n\na.  Window handles on windows that open outwards are not more than 650mm from the inside \n\nface of the wall when the window is at its maximum openable angle. \n\nb.  Guarding meets the minimum standards in Table 3.1.\n\nc.  Guarding does not allow children to easily climb it. For example, horizontal bars should generally \n\nbe avoided. \n\nNOTE: To ensure safe operation it may be necessary to reduce the size of the outward opening \nwindows and provide more windows to meet the required free area.\n\nChange in floor level between inside and outside\n\nGuarding height(1) \n\nLess than 600mm\n\nMore than 600mm\n\nSee Approved Document K\n\n1.1m \n\nLess than\n100mm(2)\n\n1.1m\n\nNOTES:\n1.  This approved document has increased levels of protection from falling compared to Approved Document K. \n\nWhere applicable, the higher standard applies. \n\n2.",
+  "question": "What is the maximum distance window handles on windows that open outwards can be from the inside face of the wall when the window is at its maximum openable angle?",
+  "value": "value",
+  "expected_value": "650mm",
+  "metadata": {
+    "ID": "84_UK_DocO_Overheating"
+  },
+  "created_at": "2026-07-31T05:43:22.035440Z"
+}

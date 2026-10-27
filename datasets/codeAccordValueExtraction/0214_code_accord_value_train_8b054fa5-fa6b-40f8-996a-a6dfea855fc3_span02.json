@@ -1,0 +1,15 @@
+{
+  "order": 214,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "8b054fa5-fa6b-40f8-996a-a6dfea855fc3",
+  "value_span_index": 2,
+  "content": "The distance between a door that opens onto a landing and the upper edge of the ramp or flight of stairs must be no less than 400 millimetres on the side wall and no less than 1,500 millimetres on the end wall.",
+  "question": "What is the minimum distance between a door that opens onto a landing and the upper edge of the ramp or flight of stairs on the end wall?",
+  "value": "value",
+  "expected_value": "1500 millimetres",
+  "metadata": {
+    "ID": "33_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:37:52.782219Z"
+}

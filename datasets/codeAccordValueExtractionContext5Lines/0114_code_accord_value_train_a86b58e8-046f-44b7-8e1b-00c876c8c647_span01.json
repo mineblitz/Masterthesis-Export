@@ -1,0 +1,15 @@
+{
+  "order": 114,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a86b58e8-046f-44b7-8e1b-00c876c8c647",
+  "value_span_index": 1,
+  "content": "Instruction \n\nIf the structure is designed for vehicle weights higher than category G, the load to be used on the \nbasis of decree of the use of Vehicles on the Road (1257/1992) with amendment 407/2013 \n\n8 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fis a uniform load corresponding vehicle mass pursuant to decree and as point loads \n\nbogie/axle loads corresponding to the vehicle’s mass. \n\n8.  Horizontal loads on parapets and partition walls acting as barriers  \n\nMinistry of the Environment Decree (4/16) concerning national choices for densities, \nself-weight and imposed loads for buildings, when applying standard SFS-EN 1991-1-1 \nSection 8 Horizontal loads on parapets and partition walls acting as barriers \n\nValues for horizontal loads on parapets and partition walls acting as barriers, clause 6.4(1) of the standard, are given in \nTable 3. Horizontal loads on parapets are not combined with other variable loads.  \n\nTable 3.  Horizontal loads on parapets and partition walls, line load qk and concentrated load Qk  \n\nLoaded area \n\nCategory A \n\nCategory B  \n\nCategories C1 to C4 \nand D \n\nCategory C5 \n\nCategory E \n\nCategory F \n\nCategory G \n\nqk or Qk \n\n0.5 kN/m \n\n0.5 kN/m \n\n1.0 kN/m \n\n3.0 kN/m \n\n1.0 kN/m \n\nAnnex B \n\nAnnex B \n\nParapets in categories A to E and panel parts of walls acting as parapets, as well as their fasteners, shall be designed to \nthe concentrated load Qk = 0.3 kN acting on a random spot. The assumed loaded area for the concentrated load is \n50 mm x 50 mm. The concentrated load Qk and the line load qk do not act simultaneously.  \n\nAnnex B shall be applied to parapets and barriers in close proximity to car park lanes and ramps subject to impact by a \nvehicle driving at the speed allowed in the car park. For other parapets and barriers subject to impact from a vehicle that \nis stopping, an equivalent static load may be used that is assumed to be at least 5 kN in category F and at least 25 kN in \ncategory G. \n\nInstruction \n\nIn order to prevent falling accidents, the horizontal load value for category E is the minimum \nrequirement in terms of personnel safety.  \n\n9 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f9.",
+  "question": "Parapets in categories from which letter to E shall be designed to the concentrated load Qk = 0.3 kN?",
+  "value": "value",
+  "expected_value": "A",
+  "metadata": {
+    "ID": "30_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:24:47.344900Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 44,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a5e9c36f-358f-4375-943c-6d5b89c82647",
+  "value_span_index": 2,
+  "content": "The opening of a horizontal hatch must be at least 600 x 600 millimetres. \n\nChapter 4 \n\nSafety of outdoor areas \n\nSection 16 \n\nDriveways and parking areas \n\nThe driveway and parking area at a plot or building site must be separated from pedestrian, \nplay and recreation areas. A driveway must not intersect a walkway leading to a play area. If it \nis  impossible  to  avoid  such  an  intersection,  a  structural  solution  must  be  used  to  mark  the \ncrossing places. \n\n Routes intended for vehicle traffic must be located in a way that does not restrict pedestrian \n\nroutes or the space required for opening doors and gates. \n\nSection 17 \n\nPlay and recreation areas \n\nAny abrupt level differences of over 0.7 metres and any precipices located in the vicinity of \ncommon play and recreation areas associated with buildings with more than two dwellings must \nbe  indicated  by  appropriate  barriers  or  suitable  planted  areas,  or  outfitted  with  a  base  that \ncushions any fall. \n\nPassageways  in  yards,  along  with  their  gates  and  ramps,  must  be  safe  and  furnished  with \n\nappropriate barriers and handrails. \n\n5 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fPlay area equipment must be safe, and the structure of the bases of the equipment must be \n\nsuitable for their purpose as well as shock-absorbing. \n\nSection 18 \n\nProtection of passageways and recreation areas \n\nEntrances and passageways to playgrounds and recreation areas used in the wintertime, as \nwell as street areas surrounding the building and other public areas, must be protected from \nsnow and ice falling from the roof of the building using snow barriers, taking into account the \npitch of the roof. In addition, the entrance must be protected against snow loads with a covering. \n\nSection 19 \n\nHeight of protruding structural elements \n\nThe free height from the ground or from the surface of a driveway or walkway of the lower \nedge  of  a  structural  element,  device  or  equipment  protruding  from  the  building,  such  as  a \nbalcony, bay window, sign, lighting device or awning, must be at least 2.2 metres, unless the \narea is protected so as to prevent the danger of collision.",
+  "question": "Buildings with more than how many dwellings must have abrupt level differences of over 0.7 metres and precipices in common play and recreation areas indicated by appropriate barriers, suitable planted areas, or a cushioning base?",
+  "value": "value",
+  "expected_value": "2",
+  "metadata": {
+    "ID": "92_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:16:29.914799Z"
+}

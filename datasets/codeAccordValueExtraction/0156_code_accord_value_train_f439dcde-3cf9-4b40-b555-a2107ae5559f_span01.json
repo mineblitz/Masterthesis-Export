@@ -1,0 +1,15 @@
+{
+  "order": 156,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "f439dcde-3cf9-4b40-b555-a2107ae5559f",
+  "value_span_index": 1,
+  "content": "If  the  circulation  piping  is  located inside the building envelope, 50 of the calculated domestic hot water circulation heat loss shall  be  added  to  the  thermal  load  of  the  spaces  of  the  building.",
+  "question": "If the circulation piping is located inside the building envelope, how much of the calculated domestic hot water circulation heat loss shall be added to the thermal load of the spaces of the building?",
+  "value": "value",
+  "expected_value": "50",
+  "metadata": {
+    "ID": "104_Finnish_EnergyEfficiency"
+  },
+  "created_at": "2026-07-31T05:30:47.871424Z"
+}

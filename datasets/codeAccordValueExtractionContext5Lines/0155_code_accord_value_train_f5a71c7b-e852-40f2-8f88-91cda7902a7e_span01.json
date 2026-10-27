@@ -1,0 +1,15 @@
+{
+  "order": 155,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "f5a71c7b-e852-40f2-8f88-91cda7902a7e",
+  "value_span_index": 1,
+  "content": "6.61  General lighting and display lighting should be metered by one of the following methods.\n\na.  Dedicated lighting circuits with a kWh meter for each circuit.\n\nb.  Local power meter coupled to or integrated in the lighting controllers of a lighting management \n\nsystem.\n\nc.  A lighting management system that can both:\n\ni.  calculate the consumed energy \n\nii.  make this information available to a building management system.\n\nLighting controls\n6.62 Lighting controls in new and existing buildings should follow the guidance in the Building Research \n\nEstablishment’s Digest 498.\n\n6.63 Unoccupied spaces should have automatic controls to turn the general lighting off when the space \nis not in use (e.g. through presence detection). Occupied spaces should have automatic controls \nwhere suitable for the use of the space.\n\n6.64 General lighting in occupied spaces should have daylight controls (e.g. photo-switching and \ndimming) for parts of the space which are likely to receive high levels of natural light.\n\n6.65 Display lighting should be controlled on dedicated circuits that can be switched separately from \n\nthose for lighting provided for general illuminance.\n\nBuilding automation and control systems\n6.66 If a new building has a space heating or air-conditioning system with an effective rated output \n\ngreater than 180kW, a building automation and control system should be installed.\n\n6.67 If an existing building has a space heating or air-conditioning system with an effective rated output \ngreater than 180kW, a building automation and control system being replaced or installed should \nfollow paragraphs 6.72 and 6.73. \n\nNOTE: The requirements in paragraphs 6.66 and 6.67 also apply to buildings containing heating and \nair-conditioning systems which are combined with ventilation systems. \n\nBuilding Regulations 2010  \n\nApproved Document L Volume 2, 2021 edition \n\n53\n\nL1(b), L2ONLINE VERSIONONLINE VERSION\f6.68 For building systems that do not satisfy paragraph 6.66 or 6.67, consideration should be given \n\nto providing centralised controls to allow the facilities manager to switch off appliances when \nthey are not needed. Where appropriate, these should be automated (with manual override) so \nthat energy savings are maximised. Consideration should be given to the power requirements of \nessential (e.g. life safety) systems.",
+  "question": "Above what effective rated output for a space heating or airconditioning system in a new building should a building automation and control system be installed?",
+  "value": "value",
+  "expected_value": "180kW",
+  "metadata": {
+    "ID": "319_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:30:39.124233Z"
+}

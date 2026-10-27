@@ -1,0 +1,15 @@
+{
+  "order": 177,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "43e26628-8b62-4cc6-91e2-284335df1564",
+  "value_span_index": 1,
+  "content": "In  rooms  used  for  sleeping  or  rest,  the  one-hour  A-weighted  equivalent continuous sound level of impulsive, narrow-band or low-frequency noise may not exceed 25 decibels.",
+  "question": "What is the maximum permissible one-hour A-weighted equivalent continuous sound level of impulsive, narrow-band or low-frequency noise in rooms used for sleeping or rest?",
+  "value": "value",
+  "expected_value": "25 decibels",
+  "metadata": {
+    "ID": "17_Finnish_AcousticEnvironment"
+  },
+  "created_at": "2026-07-31T05:33:06.206158Z"
+}

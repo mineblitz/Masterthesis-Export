@@ -1,0 +1,15 @@
+{
+  "order": 12,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "53bb982d-5260-4a69-a6dd-71e4f074e676",
+  "value_span_index": 1,
+  "content": "If there are more than 60 chairs in a space, they must \n\nbe linked to one another in at least four groups, unless the chairs are placed around tables. \n\nFixed or linked seats must be arranged as rows of seating with an access route on the side of \n\nthe rows. \n\nSection 23 \n\nAuditoriums \n\nLevel differences of over 500 millimetres must be equipped with an appropriate safety barrier, \nrailing or handrail. The barrier in front of the lowest row of seats in a tiered auditorium balcony \nmay be in the form of a guardrail 0.7 metres in height with panelling to protect against falls if \nonly the said row of seating can be accessed via the passageway between the row and the barrier. \nStanding areas must be terraced so that it is safe to move in the rows. The depth of standing \n\nrows must be at least half a metre. \n\nUnauthorised  persons  must  be  prevented  from  accessing  the  controls  for  mechanically \n\nmovable parts of the auditorium. \n\nSection 24 \n\nAccess routes \n\nThe access route in the seating area or standing auditorium must be directly accessible from \n\nthe end of each row. \n\nThe width of access routes in assembly areas with a maximum capacity of 60 persons must \nbe at least 900 millimetres. In spaces intended for more than 60 persons, the width of the access \nroute must be at least 1,200 millimetres. \n\nThe free width of the passageway between rows of seats must be in accordance with Table 1 \nin relation to the number of persons using the passageway and the type of seats and depending \non whether there are access routes at both ends or only one end of the passageway.",
+  "question": "What is the minimum depth of standing rows?",
+  "value": "value",
+  "expected_value": "0.5 metre",
+  "metadata": {
+    "ID": "111_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:12:13.659824Z"
+}

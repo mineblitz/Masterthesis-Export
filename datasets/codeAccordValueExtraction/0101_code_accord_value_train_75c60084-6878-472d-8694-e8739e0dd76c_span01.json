@@ -1,0 +1,15 @@
+{
+  "order": 101,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "75c60084-6878-472d-8694-e8739e0dd76c",
+  "value_span_index": 1,
+  "content": "The width of access routes in assembly areas with a maximum capacity of 60 persons must be at least 900 millimetres.",
+  "question": "What is the maximum capacity of assembly areas for which the width of access routes must be at least 900 millimetres?",
+  "value": "value",
+  "expected_value": "60 persons",
+  "metadata": {
+    "ID": "115_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:23:22.099021Z"
+}

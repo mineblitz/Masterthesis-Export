@@ -1,0 +1,15 @@
+{
+  "order": 96,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "e1f1aeb9-7453-4b6b-b3f1-6049d711868a",
+  "value_span_index": 1,
+  "content": "The fire performance of the external wall structure of a building no more than 56 metres in height may also be demonstrated by a fullscale test.",
+  "question": "What is the maximum height of a building whose external wall structure fire performance may be demonstrated by a fullscale test?",
+  "value": "value",
+  "expected_value": "56 metres",
+  "metadata": {
+    "ID": "156_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:22:50.931192Z"
+}

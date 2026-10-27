@@ -1,0 +1,15 @@
+{
+  "order": 281,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "6c789809-b1b8-429a-8fe2-8ce16f8a4b54",
+  "value_span_index": 1,
+  "content": "Air flows in the continuous working area of a parking garage for motor vehicles shall be designed so that the instantaneous carbon monoxide concentration does not exceed 7 mg/m3 (6 ppm).",
+  "question": "What is the maximum allowable instantaneous carbon monoxide concentration in the continuous working area of a parking garage for motor vehicles?",
+  "value": "value",
+  "expected_value": "7 mg/m3 ( 6 ppm)",
+  "metadata": {
+    "ID": "62_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:45:22.159720Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 265,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "12e545d1-64f4-45c9-a520-5b8a003eba0a",
+  "value_span_index": 1,
+  "content": "If the dwelling has more than one exposed facade, the area of background ventilators on each facade should be similar, to allow cross-ventilation.",
+  "question": "If a dwelling has more than how many exposed facades should the area of background ventilators on each facade be similar?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "85_UK_DocF_V1_Ventilation"
+  },
+  "created_at": "2026-07-31T05:43:47.101592Z"
+}

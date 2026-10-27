@@ -1,0 +1,15 @@
+{
+  "order": 141,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "60024014-cb6a-4a53-9b12-9497e0a1e5e8",
+  "value_span_index": 1,
+  "content": "Extract air from toilets, washrooms and cleaning spaces may be conducted to vertical ducts for extract air categories 1 and 2 if the total extract air flow from these spaces does not exceed 10 of the total air flow in the vertical duct.",
+  "question": "Besides category 2, which extract air category may be used for vertical ducts conducting extract air from toilets, washrooms and cleaning spaces if the total extract air flow from these spaces does not exceed 10 of the total air flow in the vertical duct?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "85_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:28:38.370138Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 271,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "a387fcb8-ead2-4094-9be9-72d783468b33",
+  "value_span_index": 1,
+  "content": "If the area of windows, roof windows, rooflights and doors exceeds 25 of the total floor area of the dwelling, compensating measures should be taken to improve the energy efficiency of the dwelling.",
+  "question": "If the area of windows, roof windows, rooflights and doors exceeds what value of the total floor area of the dwelling should compensating measures be taken to improve the energy efficiency of the dwelling?",
+  "value": "value",
+  "expected_value": "25",
+  "metadata": {
+    "ID": "422_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:44:28.370932Z"
+}

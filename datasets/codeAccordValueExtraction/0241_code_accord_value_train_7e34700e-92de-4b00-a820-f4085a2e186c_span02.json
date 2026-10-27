@@ -1,0 +1,15 @@
+{
+  "order": 241,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7e34700e-92de-4b00-a820-f4085a2e186c",
+  "value_span_index": 2,
+  "content": "If the free gap between facing walls of adjacent glazed balconies or the distance of the wall to the window of an adjacent fire compartment is less than 2 metres, the wall in question must be class EI 15.",
+  "question": "What class must the wall be if the free gap between facing walls of adjacent glazed balconies or the distance of the wall to the window of an adjacent fire compartment is less than 2 metres?",
+  "value": "value",
+  "expected_value": "EI 15",
+  "metadata": {
+    "ID": "135_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:40:49.411559Z"
+}

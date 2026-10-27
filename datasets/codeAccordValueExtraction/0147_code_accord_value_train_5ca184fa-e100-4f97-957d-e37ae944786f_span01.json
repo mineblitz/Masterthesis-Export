@@ -1,0 +1,15 @@
+{
+  "order": 147,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "5ca184fa-e100-4f97-957d-e37ae944786f",
+  "value_span_index": 1,
+  "content": "The cost of installing electric vehicle charge points and cable routes is not more than 7% of the total capital cost of the major renovation.",
+  "question": "What is the maximum percentage of the total capital cost of the major renovation allowed for the cost of installing electric vehicle charge points and cable routes?",
+  "value": "value",
+  "expected_value": "7%",
+  "metadata": {
+    "ID": "51_UK_DocS_InfrastructureForChargingOfElectricalVehicles"
+  },
+  "created_at": "2026-07-31T05:29:57.374290Z"
+}

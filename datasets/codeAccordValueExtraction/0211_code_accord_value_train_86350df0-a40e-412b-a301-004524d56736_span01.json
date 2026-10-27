@@ -1,0 +1,15 @@
+{
+  "order": 211,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "86350df0-a40e-412b-a301-004524d56736",
+  "value_span_index": 1,
+  "content": "For wet heating systems in new dwellings with a floor area of 150m2 or greater, a minimum of two independently controlled heating circuits should be provided.",
+  "question": "What is the minimum floor area of new dwellings for which wet heating systems should provide at least two independently controlled heating circuits?",
+  "value": "value",
+  "expected_value": "150m2",
+  "metadata": {
+    "ID": "246_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:37:34.190360Z"
+}

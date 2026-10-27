@@ -1,0 +1,15 @@
+{
+  "order": 204,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a1f91cfd-21f8-49a4-8468-746f49f4848e",
+  "value_span_index": 1,
+  "content": "For a building that contains more than one dwelling for example a block of flats or a terrace of houses an average target primary energy rate, target emission rate and target fabric energy efficiency rate may be calculated as an alternative to individual target rates for each dwelling.",
+  "question": "More than how many dwellings must a building contain for an average target primary energy rate, target emission rate and target fabric energy efficiency rate to be calculated as an alternative to individual target rates?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "50_UK_DocL_V1_ConsrvationOfFuelAndPower"
+  },
+  "created_at": "2026-07-31T05:36:38.193706Z"
+}

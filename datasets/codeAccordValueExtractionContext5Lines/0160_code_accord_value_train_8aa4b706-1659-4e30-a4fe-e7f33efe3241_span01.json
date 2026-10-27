@@ -1,0 +1,15 @@
+{
+  "order": 160,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "8aa4b706-1659-4e30-a4fe-e7f33efe3241",
+  "value_span_index": 1,
+  "content": "Purge ventilation Ventilation of rooms or spaces \nat a relatively high rate to rapidly dilute pollutants \nand/or disperse water vapour. \nResidential units Habitable rooms or a suite of \nhabitable rooms. Examples of a residential unit \ninclude, but are not limited to, a flat or rooms that \nare similar to a flat in care homes or student halls \nof residence.\n\nShared communal rooms Rooms in buildings \ncontaining dwellings or residential units, which \nprovide facilities for the residents, e.g. a shared \nliving room, kitchen or laundry room.\n\nBuilding Regulations 2010  \n\nApproved Document O, 2021 edition \n\n17\n\nAONLINE VERSIONONLINE VERSION\fAppendix B: Compliance checklist \n\nB1  This compliance checklist is divided into three parts, as follows.\n\na.  Part 1 contains the building details and declarations.\n\nb.  Part 2a functions as a design checklist for the simplified approach detailed in Section 1.\n\nc.  Part 2b functions as a design checklist for the dynamic thermal modelling approach detailed in \n\nSection 2. \n\nd.  Part 3 is for verifying the completion details of the as-built residential building. \n\nB2  All three parts of the compliance checklist should be completed. The relevant parts of Part 2 and 3 \n\nshould be signed by a person who is competent to design the residential building. \n\nB3  A copy of this checklist, or a similar checklist, may be submitted to the building control body as \n\nevidence that the building has been constructed as designed to reduce the risk of overheating. \n\nPart 1 – Building details and declarations \n\nThe designer should complete this section.\n\nBuilding and site details \n\n1.1\nResidential building name/number\n\nStreet\n\nTown\n\nCounty\n\nPostcode\n\nProposed building use/type of building\n\nAre there any security, noise or pollution issues?\n\nDesigner’s details \n\n1.2\nDesigner’s name \n\nCompany \n\nAddress line 1\n\nAddress line 2\n\nPostcode \n\nTelephone number\n\nEmail address\n\n18  Approved Document O, 2021 edition \n\nBuilding Regulations 2010\n\nBONLINE VERSIONONLINE VERSION\fPart 2 – Design details \n\nThe designer should complete either Part 2a or 2b, depending on the method used.",
+  "question": "How many parts of the compliance checklist should be completed?",
+  "value": "value",
+  "expected_value": "3",
+  "metadata": {
+    "ID": "108_UK_DocO_Overheating"
+  },
+  "created_at": "2026-07-31T05:31:09.678878Z"
+}

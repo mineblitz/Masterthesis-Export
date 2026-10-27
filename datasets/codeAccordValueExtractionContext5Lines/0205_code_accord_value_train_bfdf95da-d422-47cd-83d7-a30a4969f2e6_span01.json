@@ -1,0 +1,15 @@
+{
+  "order": 205,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "bfdf95da-d422-47cd-83d7-a30a4969f2e6",
+  "value_span_index": 1,
+  "content": "The ties may consist of a combination of the above types. \n\nEach continuous tie, including its end connections, should be capable of sustaining a design \ntensile force for the accidental limit state, equal to the following values: \n\n41 \n\n \n \n \n \n \n \n \n \n \n \n \n\fConsequences classes CC2a and CC2b \n\nThe tie forces T are based on the characteristic value of the permanent actions gk for the \nhorizontal structure.  \n\nPeripheral and internal ties: \n\nWhen the characteristic value of the permanent actions for the horizontal structure is        \ngk ≥ 3.0 kN/m2:  \n\nT\ni\n\n= ⋅\ns\n\n20\n\nkN m\n/\n\n(1) \n\nThe minimum value for the tie force T is 70 kN for peripheral ties. If the internal ties must \nbe centred on the supporting line, the minimum value of the tie force, 70 kN, will also be \n\napplied to internal ties (e.g. internal ties at the element end seams). \n\nWhen the characteristic value of the permanent actions for the horizontal structure is        \ngk ≤ 2.0 kN/m2: \n\nT\ni\n\n= ⋅\ns\n\nkN m\n3\n/\n\n(2) \n\nThe minimum value for the tie force T is 10 kN for peripheral ties. If the internal ties must \nbe centred on the supporting line, the minimum value of the tie force, 10 kN, will also be \napplied to internal ties (e.g. internal ties at the element end seams). \n\nwhere: \ns \n\nis, for internal ties, the distance between ties from centre to centre, and for peripheral \nties, the distance between the peripheral tie and the closest internal tie divided by two \n\nplus the distance to the edge of the building (see Fig. 3). \n\nWhen the characteristic value gk of the permanent actions for the horizontal structure is \nbetween 2.0 and 3.0 kN/m2, the values for the tie forces can be obtained by interpolation.  \n\nTie forces: \nT1: s1= (L1+L2)/2        T2: s2=L3+L2/2  T3: s3=(L4+L5)/2 \n\nT4: s4=L6+L5/2 \n\nFigure 3. Determination of the distance s when calculating horizontal tie forces \n\n42 \n\n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n\fConsequences classes CC3a and CC3b \n\nThe tie forces T are based on the characteristic value of the permanent actions gk for the \nhorizontal structure. In consequences classes CC3a and CC3b, the characteristic value for \nthe permanent actions gk is usually greater than 3.0 kN/m2. If, however, the characteristic \nvalue of the permanent actions gk is smaller than this value, the tie forces may be defined \non a project basis.",
+  "question": "What is the minimum value of the tie force applied to internal ties if they must be centred on the supporting line?",
+  "value": "value",
+  "expected_value": "10 kN",
+  "metadata": {
+    "ID": "180_Finnish_StabilityOfStructures"
+  },
+  "created_at": "2026-07-31T05:36:43.417217Z"
+}

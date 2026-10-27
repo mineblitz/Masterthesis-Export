@@ -1,0 +1,15 @@
+{
+  "order": 230,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "9dd2a0f1-0ff9-4416-8abd-1e6589980ff4",
+  "value_span_index": 1,
+  "content": "If the cross-sectional area of a mechanical ventilation systems air duct is designed to be greater than 0.06 m2, the outdoor air and exhaust air ducts shall be fitted with shutoff dampers that close automatically when the system shuts down.",
+  "question": "Above what cross-sectional area must the outdoor air and exhaust air ducts of a mechanical ventilation system be fitted with shutoff dampers?",
+  "value": "value",
+  "expected_value": "0.06 m2",
+  "metadata": {
+    "ID": "100_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:39:30.561149Z"
+}

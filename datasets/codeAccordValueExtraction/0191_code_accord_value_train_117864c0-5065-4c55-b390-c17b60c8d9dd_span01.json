@@ -1,0 +1,15 @@
+{
+  "order": 191,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "117864c0-5065-4c55-b390-c17b60c8d9dd",
+  "value_span_index": 1,
+  "content": "If the protective part of the barrier contains only vertical structures, a cube with edges of no more than 100 millimetres may pass through its openings.",
+  "question": "What is the maximum length of the edges of a cube that may pass through the openings of the protective part of the barrier if it contains only vertical structures?",
+  "value": "value",
+  "expected_value": "100 millimetres",
+  "metadata": {
+    "ID": "48_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:35:14.772221Z"
+}

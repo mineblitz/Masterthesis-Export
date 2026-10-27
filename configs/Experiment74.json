@@ -1,0 +1,12 @@
+{
+  "pipeline": "direct_qa_v1",
+  "LLM": "LOCALAI_GEMMA_4_31B_IT",
+  "experiment_ID": "exp_074",
+  "experiment_Name": "CodeAccord dataset values",
+  "experiment_Description": "Code accord dataset values only extraction with llm generated questions to extract the values",
+  "experiment_API": "http://localhost:4000/api/experiment",
+  "data_jsons_path": "../datasets/codeAccordValueExtraction",
+  "temperature": 1.0,
+  "prompt": "direct_qa_v1.txt",
+  "run_count": 5
+}

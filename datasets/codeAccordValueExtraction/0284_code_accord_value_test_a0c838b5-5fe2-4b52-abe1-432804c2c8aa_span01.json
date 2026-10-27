@@ -1,0 +1,15 @@
+{
+  "order": 284,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "a0c838b5-5fe2-4b52-abe1-432804c2c8aa",
+  "value_span_index": 1,
+  "content": "A temperature of 21 C shall be used as the design value for room temperature during the heating season.",
+  "question": "What temperature shall be used as the design value for room temperature during the heating season?",
+  "value": "value",
+  "expected_value": "21 C",
+  "metadata": {
+    "ID": "33_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:45:38.353255Z"
+}

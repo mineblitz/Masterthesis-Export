@@ -1,0 +1,15 @@
+{
+  "order": 296,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "test",
+  "source_example_id": "2f8d4247-e53b-49ae-bd26-c4f1765eaee8",
+  "value_span_index": 1,
+  "content": "Extract air of categories 2, 3 and 4 shall not be used as recirculation air.",
+  "question": "Which category of extract air, along with categories 3 and 4, shall not be used as recirculation air?",
+  "value": "value",
+  "expected_value": "2",
+  "metadata": {
+    "ID": "73_Finnish_Health-IndoorClimateAndVentilation"
+  },
+  "created_at": "2026-07-31T05:46:39.343348Z"
+}

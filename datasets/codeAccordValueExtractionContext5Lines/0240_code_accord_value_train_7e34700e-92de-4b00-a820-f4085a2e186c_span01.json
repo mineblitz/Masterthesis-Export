@@ -1,0 +1,15 @@
+{
+  "order": 240,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7e34700e-92de-4b00-a820-f4085a2e186c",
+  "value_span_index": 1,
+  "content": "Extensive voids must be partitioned in order to restrict the spread of fire.  \nThe spread of fire in voids of wall-type building elements must be restricted at least by storey.  \n\nSection 21 \n\nExternal walls and balconies \n\nExternal walls and balconies shall be constructed so that a fire will not spread from one fire \n\ncompartment to another through them for a specified period of time. \n\nIn glazed balconies, the spread of fire from one balcony to another and to an adjacent fire \ncompartment must be restricted. The fire compartmenting requirement for the balcony slab of a \nglazed balcony of a building exceeding two storeys is EI 30; however, minor sealing parts and \npenetrations may be class E 15. If the free gap between facing walls of adjacent glazed balconies \nor the distance of the wall to the window of an adjacent fire compartment is less than 2 metres, \nthe wall in question must be class EI 15.  \n\n13 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fChapter 4 \n\nLimitation of development of fire \n\nSection 22 \nGeneral requirements \nThe building materials used in the building must not contribute to the development of a fire \n\nin a hazardous manner. \n\nSection 23 \n\nInternal surfaces \n\nThe class requirements for internal surfaces are set out in Table 7. \nThe class requirements do not apply to building elements with a small surface area, such as \nordinary doors, windows, attachment surfaces, handrails, skirtings and joints between boards. \nNor do the requirements apply to beams and columns that meet the class requirements R 30 and \nD-s2, d2 and are located in a building of no more than two storeys. \n\nSurfaces may be coated with an unclassified layer of filler, painters’ filler or paint or wallpa-\nper, which does not essentially affect the characteristics of the class required for the relevant \nsurface. \n\nRequirements that are one main class lower may be permitted for surfaces if, considering the \nuse of the fire compartment, the hazard of ignition or spread of fire is smaller than normal.",
+  "question": "If the free gap between facing walls of adjacent glazed balconies or the distance of the wall to the window of an adjacent fire compartment is less than what distance must the wall be class EI 15?",
+  "value": "value",
+  "expected_value": "2 metres",
+  "metadata": {
+    "ID": "135_Finnish_FireSafety"
+  },
+  "created_at": "2026-07-31T05:40:43.617022Z"
+}

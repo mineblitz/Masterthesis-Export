@@ -1,0 +1,15 @@
+{
+  "order": 179,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "36650de0-ef3c-4fd1-8199-f47c0e576076",
+  "value_span_index": 1,
+  "content": "the rated speed of the platform does not exceed 0.15m/s.",
+  "question": "What is the maximum rated speed of the platform?",
+  "value": "value",
+  "expected_value": "0.15m/s",
+  "metadata": {
+    "ID": "183_UK_DocM_V2_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:33:40.307848Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 138,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7f49ccb1-ce2c-47eb-8b22-2c8e806e5d88",
+  "value_span_index": 1,
+  "content": "NOTE: In some situations a door chain or limiter is not appropriate, for example where a warden \nmay need emergency access to residents in sheltered housing. Alternative caller-identification \nmeasures, such as electronic audio-visual door entry systems, can be used to identify visitors. \n\nBuilding Regulations 2010  \n\nApproved Document Q, 2015 edition \n\n3\n\nONLINE VERSIONONLINE VERSION \n \n \n \n \n\fQ1\n\nInstallation and fixing of secure doorsets\n1.5  Frames should be mechanically fixed to the structure of the building in accordance with the \n\nmanufacturer’s installation instructions. \n\n1.6  Lightweight framed walls should incorporate a resilient layer to reduce the risk of anyone breaking \n\nthrough the wall and accessing the locking system. \n\nThe resilient layer should be timber sheathing at least 9mm thick, expanded metal or a similar \nresilient material. The resilient layer should be to the full height of the door and 600mm either \nside of the doorset.\n\n4 \n\nApproved Document Q, 2015 edition \n\nBuilding Regulations 2010\n\n \n\fQ1\n\nSection 2: Windows\n\nGeneral\n2.1  Ground floor, basement and other easily accessible windows (including easily accessible rooflights) \n\nshould be secure windows in accordance with paragraphs 2.2 and 2.3.\n\nDesign of secure windows\n2.2  Windows should be made to a design that has been shown by test to meet the security \n\nrequirements of British Standards publication PAS 24:2012.\n\nNOTE: Windows satisfying other standards that provide similar or better performance are also \nacceptable. These standards include:\n\n•  STS 204 Issue 3:2012\n\n•  LPS 1175 Issue 7:2010 security rating 1\n\n•  LPS 2081 Issue 1:2015 security rating A.\n\nFurther advice is available in Secured by Design’s New Homes 2014.\n\nInstallation and fixing of secure windows\n2.3  Frames should be mechanically fixed to the structure of the building in accordance with the \n\nmanufacturer’s installation instructions.",
+  "question": "How far should the resilient layer extend on either side of the doorset?",
+  "value": "value",
+  "expected_value": "600mm",
+  "metadata": {
+    "ID": "15_UK_DocQ_Security_Dwellings"
+  },
+  "created_at": "2026-07-31T05:28:00.935800Z"
+}

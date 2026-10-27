@@ -1,0 +1,15 @@
+{
+  "order": 207,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "d3fc8c9b-c23a-4188-8723-369caa90453c",
+  "value_span_index": 2,
+  "content": "The reference value for a building's total combined window area is 15 of the sum total of the floor  plate areas  of  the  buildings  storeys that  are  fully  or in  part  above  the  ground  but, however, at most 50 of the building's facade area.",
+  "question": "What is the maximum value of the building's facade area for the reference value of a building's total combined window area?",
+  "value": "value",
+  "expected_value": "50",
+  "metadata": {
+    "ID": "124_Finnish_EnergyEfficiency"
+  },
+  "created_at": "2026-07-31T05:37:09.111728Z"
+}

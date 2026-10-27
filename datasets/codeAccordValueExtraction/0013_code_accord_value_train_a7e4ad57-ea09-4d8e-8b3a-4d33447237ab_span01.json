@@ -1,0 +1,15 @@
+{
+  "order": 13,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "a7e4ad57-ea09-4d8e-8b3a-4d33447237ab",
+  "value_span_index": 1,
+  "content": "The free opening of the vertical hatch or window of an emergency exit must be at least 600 millimetres in height and 500 millimetres in width; however, the sum of these must be at least 1,500 millimetres.",
+  "question": "What is the minimum height required for the free opening of the vertical hatch or window of an emergency exit?",
+  "value": "value",
+  "expected_value": "600 millimetres",
+  "metadata": {
+    "ID": "83_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:12:19.150890Z"
+}

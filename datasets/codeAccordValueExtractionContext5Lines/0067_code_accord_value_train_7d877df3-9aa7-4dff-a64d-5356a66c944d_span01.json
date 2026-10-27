@@ -1,0 +1,15 @@
+{
+  "order": 67,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "7d877df3-9aa7-4dff-a64d-5356a66c944d",
+  "value_span_index": 1,
+  "content": "Section 9 \n\nHandrails \n\nOn stairs and ramps, a handrail must be installed for the entire length and on both sides of the \nstructure. Where necessary, two handrails, one above the other, must be installed in order to \ntake into account children and users of wheelchairs. A handrail must be designed and shaped so \nthat it allows a firm grip.  A handrail and its ending must be shaped safely and must continue \npast the start and end points of the structure. The handrail must continue onto the intermediate \nlanding without interruption.  \n\nIn public outdoor and indoor spaces, and in business and service premises, a handrail must \ncontinue at least 300 millimetres past the start and end points of the structure, and in the case of \nstairs or ramps that have a width exceeding 2.4 metres and are located in assembly areas, it must \n\n3 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\falso be placed so as to divide the passageway into parts no wider than the above-mentioned \nwidth.  \n\nChapter 3 \n\nSafety of structural elements and fixtures \n\nSection 10 \n\nBrightness and lighting \n\nA building and its environment must be lit in a way that enables safe use and servicing. The \n\nlighting must not cause glare that endangers safety.  \n\nThe building’s surfaces and lighting must be such that they achieve the contrasts in brightness \n\nneeded for observation. \n\nRamps, steps, thresholds and differences in levels in passageways must be clearly indicated \n\nusing lighting and surface brightness contrasts or warning signs. \n\nSection 11 \n\nGlass structures  \n\nThe breaking of a glass structure or other light-permeable structure of a building must not \n\ncause a danger of falling or a danger of injury from fragments falling onto persons below.",
+  "question": "What is the width exceeding which stairs or ramps located in assembly areas must have a handrail to divide the passageway into parts no wider than that width?",
+  "value": "value",
+  "expected_value": "2.4 metres",
+  "metadata": {
+    "ID": "59_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:19:22.992119Z"
+}

@@ -1,0 +1,15 @@
+{
+  "order": 17,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "ba93ede4-473f-4c07-b439-3699580cbcbe",
+  "value_span_index": 1,
+  "content": "No individual flight has a rise of more than 1800mm between landings.",
+  "question": "What is the maximum rise allowed for an individual flight between landings?",
+  "value": "value",
+  "expected_value": "1800mm",
+  "metadata": {
+    "ID": "21_UK_DocM_V1_AccessAndUseOfBuildings"
+  },
+  "created_at": "2026-07-31T05:12:36.575212Z"
+}

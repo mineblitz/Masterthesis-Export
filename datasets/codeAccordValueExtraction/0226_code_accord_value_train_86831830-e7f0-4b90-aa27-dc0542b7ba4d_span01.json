@@ -1,0 +1,15 @@
+{
+  "order": 226,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "86831830-e7f0-4b90-aa27-dc0542b7ba4d",
+  "value_span_index": 1,
+  "content": "If a residential block of flats does not have a lift, the stairs between floor levels must have natural light and at least one intermediate landing.",
+  "question": "What is the minimum number of intermediate landings that stairs between floor levels must have if a residential block of flats does not have a lift?",
+  "value": "value",
+  "expected_value": "1",
+  "metadata": {
+    "ID": "18_Finnish_SafetyOfUse"
+  },
+  "created_at": "2026-07-31T05:39:05.578203Z"
+}

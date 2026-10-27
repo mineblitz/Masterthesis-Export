@@ -1,0 +1,15 @@
+{
+  "order": 232,
+  "source_dataset": "ACCORD-NLP/CODE-ACCORD-Entities",
+  "source_split": "train",
+  "source_example_id": "73b4b305-8971-489a-a290-f996e1f63e19",
+  "value_span_index": 1,
+  "content": "The  provisions  of  this \nsubsection do not apply to a detached house, semi-detached house or townhouse. \n\nSection 3 \n\nEntrance to a building \n\nThe distance of the opening side of the outside door of a building from the inside corner of \n\nthe wall or other fixed obstacle outside the door shall be at least 400 millimetres.  \n\nThe landing in front of the outside door shall be at least 1,500 millimetres wide and at least \n\n1,500 millimetres long. \n\nSection 4 \n\nDoors \n\nThe clear width of the door and opening in a passageway inside a building, the door leading \nfrom the staircase to a dwelling and the door of the space referred to in section 9, subsection 2 \nand section 10 shall be at least 850 millimetres. Provisions on the dimensions of the outside \ndoor of a building and the doors of other exit routes are laid down by decree issued under section \n117b, subsection 3 of the Land Use and Building Act.  \n\nThe clear width of the door and opening leading to room spaces of a non-residential building \nas well as to residential rooms of a residential building, necessary spaces serving residence and \nspaces serving the use of the building shall be at least 800 millimetres. \n\nIn connection with the door there may not be any level difference or threshold, unless this is \nnecessary  on  account  of  noise  or  humidity  or  other  similar  circumstances.  In  that  case  the \nthreshold or level difference may not be higher than 20 millimetres and the threshold shall be \ndesigned so that it can be easily crossed with a wheelchair or walking frame with wheels. In \nconnection  with  the  door  of  an  outside  space  of  an  individual  dwelling  the  level  difference \noutside the door may be more than 20 millimetres if the level difference can, with reasonable \neffort,  be  eliminated  with equipment in  the  outdoor  space.  In  a  detached  and semi-detached \nhouse the provisions in subsections 2 and 3 above only apply to the entrance floor. \n\nThe outside door of a building and the door of a space serving the use of the building shall \n\nfunction so that it is easy to open by a person with mobility and functional impairment.",
+  "question": "What is the minimum clear width required for the door and opening leading to room spaces of a non-residential building, residential rooms of a residential building, necessary spaces serving residence, and spaces serving the use of the building?",
+  "value": "value",
+  "expected_value": "800 millimetres",
+  "metadata": {
+    "ID": "19_Finnish_Accessibility"
+  },
+  "created_at": "2026-07-31T05:39:43.461211Z"
+}
