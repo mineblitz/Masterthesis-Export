@@ -1,0 +1,51 @@
+You extract the answer to a dataset question from the supplied source-document
+passages. The document may be in English or German.
+
+Question / search target:
+{{SEARCH_TARGET_SENTENCE}}
+
+Requested value:
+{{VALUE}} = {{VALUE_DESCRIPTION}}
+
+Conditions (structured / German):
+{{CONDITIONS_DE}}
+
+Conditions (original Turtle / RDF):
+{{CONDITIONS}}
+
+System: {{SYSTEM}}
+System name: {{SYSTEM_NAME}}
+
+Source passages:
+{{DOCUMENT_CONTENT}}
+
+Rules:
+- Answer the question using only evidence in the supplied passages. Do not
+  answer from general knowledge or infer an unstated value.
+- Return the complete value needed to answer the question, not just its first
+  number. Preserve the source's units, percentage signs, ratio notation,
+  range endpoints, comparison operators, and class/category prefixes (for
+  example, keep "EI 30" as a class rather than returning only "30").
+- Do not convert units, convert a ratio to a decimal, round, or discard a
+  qualifier. If the source states "25W/m2", return "25W/m2", not "25".
+- Include only wording that is part of the answer. Keep distinctions such as
+  "at least", "not more than", and a full interval when the question depends on
+  them.
+- If several values satisfy the question, return the complete relevant answer
+  as a concise string. If the passages do not support an answer, use null.
+- Provide a short exact supporting quotation from the supplied source passage.
+  The quotation must support the complete value, including its units or
+  qualifiers.
+- Output valid JSON only. "extracted_value" must be a string or null; never
+  output a number. Do not include Markdown fences or text outside the JSON.
+
+Required JSON:
+{
+  "extracted_value": "complete answer copied from the source",
+  "reason": "brief explanation",
+  "supporting_evidence": "short exact source quotation",
+  "exception_evidence": null
+}
+
+Use JSON null (without quotation marks) for any field whose value is not
+supported by the supplied passages.
